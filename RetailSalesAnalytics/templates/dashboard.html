@@ -1,0 +1,158 @@
+{% extends "base.html" %}
+
+{% block title %}Executive Dashboard | Retail Sales Analytics{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h3 class="fw-bold mb-1"><i class="fa-solid fa-chart-pie text-info me-2"></i>Executive Sales Dashboard</h3>
+        <p class="text-secondary small mb-0">Real-time enterprise retail performance, customer metrics & inventory valuation</p>
+    </div>
+    <div class="d-flex gap-2">
+        <span class="badge bg-dark border border-secondary px-3 py-2 d-flex align-items-center gap-2">
+            <span class="spinner-grow spinner-grow-sm text-success" role="status"></span> Live Sync
+        </span>
+    </div>
+</div>
+
+<!-- KPI Cards Grid -->
+<div class="row g-3 mb-4">
+    <div class="col-md-3">
+        <div class="kpi-card">
+            <div class="d-flex justify-content-between align-items-start">
+                <div>
+                    <div class="kpi-title">Total Revenue</div>
+                    <div class="kpi-value">${{ "{:,.2f}".format(kpis.total_revenue) }}</div>
+                </div>
+                <div class="kpi-icon bg-primary bg-opacity-25 text-info">
+                    <i class="fa-solid fa-dollar-sign"></i>
+                </div>
+            </div>
+            <div class="mt-2 text-secondary small">
+                <i class="fa-solid fa-arrow-trend-up text-success me-1"></i> Gross Margin: <span class="text-light fw-bold">{{ kpis.gross_margin_pct }}%</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="kpi-card">
+            <div class="d-flex justify-content-between align-items-start">
+                <div>
+                    <div class="kpi-title">Total Net Profit</div>
+                    <div class="kpi-value text-success">${{ "{:,.2f}".format(kpis.total_profit) }}</div>
+                </div>
+                <div class="kpi-icon bg-success bg-opacity-25 text-success">
+                    <i class="fa-solid fa-sack-dollar"></i>
+                </div>
+            </div>
+            <div class="mt-2 text-secondary small">
+                AOV: <span class="text-light fw-bold">${{ "{:,.2f}".format(kpis.aov) }}</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="kpi-card">
+            <div class="d-flex justify-content-between align-items-start">
+                <div>
+                    <div class="kpi-title">Total Sales Orders</div>
+                    <div class="kpi-value">${{ "{:,}".format(kpis.total_orders) }}</div>
+                </div>
+                <div class="kpi-icon bg-warning bg-opacity-25 text-warning">
+                    <i class="fa-solid fa-cart-shopping"></i>
+                </div>
+            </div>
+            <div class="mt-2 text-secondary small">
+                Units Sold: <span class="text-light fw-bold">${{ "{:,}".format(kpis.total_units_sold) }}</span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="kpi-card">
+            <div class="d-flex justify-content-between align-items-start">
+                <div>
+                    <div class="kpi-title">Active Customers</div>
+                    <div class="kpi-value text-info">${{ "{:,}".format(kpis.active_customers) }}</div>
+                </div>
+                <div class="kpi-icon bg-info bg-opacity-25 text-info">
+                    <i class="fa-solid fa-users"></i>
+                </div>
+            </div>
+            <div class="mt-2 text-secondary small">
+                Retention Rate: <span class="text-light fw-bold">{{ kpis.retention_rate }}%</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Secondary KPI Row -->
+<div class="row g-3 mb-4">
+    <div class="col-md-3">
+        <div class="kpi-card border-start border-4 border-info">
+            <div class="kpi-title">Inventory Valuation (Cost)</div>
+            <div class="fs-4 fw-bold mt-1">${{ "{:,.2f}".format(kpis.inv_valuation_cost) }}</div>
+            <div class="text-secondary small mt-1">Retail Value: ${{ "{:,.2f}".format(kpis.inv_valuation_retail) }}</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="kpi-card border-start border-4 border-warning">
+            <div class="kpi-title">Stock Turnover Ratio</div>
+            <div class="fs-4 fw-bold mt-1 text-warning">{{ kpis.stock_turnover }}x</div>
+            <div class="text-secondary small mt-1">Low Stock Alerts: <span class="badge bg-danger">{{ kpis.low_stock_count }} items</span></div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="kpi-card border-start border-4 border-danger">
+            <div class="kpi-title">Product Return Rate</div>
+            <div class="fs-4 fw-bold mt-1 text-danger">{{ kpis.return_rate_pct }}%</div>
+            <div class="text-secondary small mt-1">Refunds: ${{ "{:,.2f}".format(kpis.total_refunds) }}</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="kpi-card border-start border-4 border-success">
+            <div class="kpi-title">Repeat Customers</div>
+            <div class="fs-4 fw-bold mt-1 text-success">${{ "{:,}".format(kpis.repeat_cust) }}</div>
+            <div class="text-secondary small mt-1">New Customers: {{ kpis.new_cust }}</div>
+        </div>
+    </div>
+</div>
+
+<!-- Charts Grid -->
+<div class="row g-3 mb-4">
+    <div class="col-lg-8">
+        <div class="chart-card">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="fw-bold mb-0"><i class="fa-solid fa-chart-line me-2 text-info"></i>2-Year Sales & Profit Trends</h5>
+                <span class="badge bg-secondary">Monthly Breakdown</span>
+            </div>
+            <div id="monthlySalesChart" style="height: 350px;"></div>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <div class="chart-card">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="fw-bold mb-0"><i class="fa-solid fa-chart-pie me-2 text-warning"></i>Regional Revenue</h5>
+                <span class="badge bg-secondary">Share %</span>
+            </div>
+            <div id="regionalSalesChart" style="height: 350px;"></div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-3">
+    <div class="col-lg-6">
+        <div class="chart-card">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="fw-bold mb-0"><i class="fa-solid fa-layer-group me-2 text-indigo"></i>Revenue by Product Category</h5>
+            </div>
+            <div id="categorySalesChart" style="height: 320px;"></div>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="chart-card">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="fw-bold mb-0"><i class="fa-solid fa-credit-card me-2 text-success"></i>Payment Method Distribution</h5>
+            </div>
+            <div id="paymentMethodChart" style="height: 320px;"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}

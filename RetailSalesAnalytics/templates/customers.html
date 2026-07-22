@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block title %}Customers & Lifetime Value | Retail Sales Analytics{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h3 class="fw-bold mb-1"><i class="fa-solid fa-users text-info me-2"></i>Customer Management & CLV</h3>
+        <p class="text-secondary small mb-0">Customer directory, lifetime spend, purchase history & RFM segmentation</p>
+    </div>
+</div>
+
+<!-- Filters -->
+<div class="card bg-dark border-secondary mb-4 p-3">
+    <form method="GET" action="/customers" class="row g-3">
+        <div class="col-md-4">
+            <label class="form-label small text-secondary">Customer Segment</label>
+            <select name="segment" class="form-select bg-dark text-light border-secondary">
+                <option value="">All Segments</option>
+                {% for seg in segments %}
+                <option value="{{ seg }}" {% if current_segment == seg %}selected{% endif %}>{{ seg }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label class="form-label small text-secondary">Region</label>
+            <select name="region" class="form-select bg-dark text-light border-secondary">
+                <option value="">All Regions</option>
+                {% for r in regions %}
+                <option value="{{ r }}" {% if current_region == r %}selected{% endif %}>{{ r }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="col-md-4 d-flex align-items-end gap-2">
+            <button type="submit" class="btn btn-info px-4">Filter</button>
+            <a href="/customers" class="btn btn-outline-secondary">Reset</a>
+        </div>
+    </form>
+</div>
+
+<!-- Customer Table -->
+<div class="card bg-dark border-secondary">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-custom align-middle mb-0">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Customer Name</th>
+                        <th>Email</th>
+                        <th>Location</th>
+                        <th>Segment</th>
+                        <th>Joined Date</th>
+                        <th class="text-center">Total Orders</th>
+                        <th class="text-end">Lifetime Spend</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for c in customers %}
+                    <tr>
+                        <td>#CUST-{{ c.CustomerID }}</td>
+                        <td class="fw-bold text-light">{{ c.CustomerName }}</td>
+                        <td class="text-secondary">{{ c.Email }}</td>
+                        <td>{{ c.City }}, {{ c.Region }}</td>
+                        <td>
+                            {% if c.Segment == 'VIP' %}
+                                <span class="badge badge-vip">VIP</span>
+                            {% elif c.Segment == 'Regular' %}
+                                <span class="badge badge-regular">Regular</span>
+                            {% else %}
+                                <span class="badge bg-secondary">{{ c.Segment }}</span>
+                            {% endif %}
+                        </td>
+                        <td>{{ c.JoinDate }}</td>
+                        <td class="text-center fw-bold">{{ c.OrderCount }}</td>
+                        <td class="text-end fw-bold text-success">${{ "{:,.2f}".format(c.TotalSpend) }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

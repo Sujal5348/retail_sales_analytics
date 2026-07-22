@@ -1,0 +1,21 @@
+StoreID,StoreName,Location,City,Region,StoreType,ManagerName,SquareFeet,OpenedDate
+1,Apex Retail - New York,607 Miller Place,New York,North,Standard,Jennifer Williams,18375,2021-08-25
+2,Apex Retail - Boston,394 Kim Mall,Boston,North,Flagship,Joseph Reyes,17500,2021-12-08
+3,Apex Retail - Chicago,289 Tina Plains,Chicago,North,Flagship,Charles Scott,5606,2021-12-06
+4,Apex Retail - Philadelphia,280 Kristopher Lodge,Philadelphia,North,Standard,Amy Woodward,11626,2022-04-27
+5,Apex Retail - Houston,247 Jennifer Hills,Houston,South,Standard,Francisco Gutierrez,7063,2022-12-05
+6,Apex Retail - Atlanta,819 Bennett Views,Atlanta,South,Flagship,Amber Allen,9166,2024-02-02
+7,Apex Retail - Dallas,291 Trevor Terrace,Dallas,South,Outlet,Tiffany Adams,10461,2022-11-26
+8,Apex Retail - Miami,266 Tran Circles,Miami,South,Express,Mr. David Mercado,23817,2022-09-11
+9,Apex Retail - Los Angeles,956 John Point,Los Angeles,West,Outlet,Beth Carroll,22711,2023-06-12
+10,Apex Retail - Seattle,522 Meghan Parkway,Seattle,West,Outlet,Walter Brooks,10151,2022-04-07
+11,Apex Retail - San Francisco,536 Amanda Manors,San Francisco,West,Outlet,Kristen Williams,14297,2023-07-11
+12,Apex Retail - Phoenix,853 Delgado Expressway,Phoenix,West,Standard,Timothy Olson,20385,2024-02-03
+13,Apex Retail - Indianapolis,107 Franco Light,Indianapolis,Midwest,Outlet,Dr. Christy Pittman MD,12222,2022-03-27
+14,Apex Retail - Columbus,872 Kevin Locks,Columbus,Midwest,Standard,Sandra Hardy,5118,2022-09-27
+15,Apex Retail - Detroit,163 Clark Parkways,Detroit,Midwest,Flagship,Emily Fleming,19184,2023-01-03
+16,Apex Retail - Minneapolis,452 Petty Station,Minneapolis,Midwest,Flagship,David Bird,23311,2023-01-01
+17,Apex Retail - Washington DC,873 Steve Rapid,Washington DC,East,Express,Thomas Anderson,5619,2021-07-23
+18,Apex Retail - Baltimore,790 Smith Branch,Baltimore,East,Express,Jennifer Woodard,3393,2024-07-16
+19,Apex Retail - Charlotte,862 Farmer Plain,Charlotte,East,Flagship,Shawn Curtis,13433,2023-11-03
+20,Apex Retail - Orlando,702 Patricia Via,Orlando,East,Outlet,Megan Gomez,22841,2023-02-24

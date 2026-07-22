@@ -1,0 +1,51 @@
+EmployeeID,StoreID,FirstName,LastName,Email,Position,MonthlyTarget,HireDate
+1,3,Maria,Howard,marycain@example.org,Senior Sales Associate,60000.0,2023-01-30
+2,15,Steven,Mayer,vsmith@example.org,Senior Sales Associate,75000.0,2025-10-11
+3,12,Juan,Morse,james94@example.net,Sales Associate,60000.0,2023-06-29
+4,16,Jim,Snyder,benjamin79@example.org,Senior Sales Associate,45000.0,2022-08-01
+5,8,James,Nicholson,rrodriguez@example.net,Assistant Manager,30000.0,2024-09-05
+6,12,Troy,Arnold,cameronanderson@example.org,Sales Associate,75000.0,2023-02-03
+7,15,Jordan,Hudson,nicoledaniel@example.com,Senior Sales Associate,75000.0,2023-05-15
+8,15,Melanie,Johnson,erin70@example.com,Sales Associate,75000.0,2025-04-11
+9,5,Emily,Santos,ryan64@example.org,Assistant Manager,75000.0,2025-06-11
+10,14,April,Simpson,stephensonjeffrey@example.com,Store Manager,45000.0,2026-06-16
+11,11,Robert,Cole,myersmatthew@example.net,Sales Associate,45000.0,2025-12-26
+12,13,Anthony,Mclaughlin,prosario@example.org,Senior Sales Associate,30000.0,2023-04-02
+13,14,Mark,Brown,johnsonryan@example.org,Assistant Manager,45000.0,2025-01-26
+14,19,Laura,Mcconnell,john73@example.com,Assistant Manager,45000.0,2026-02-03
+15,4,Brian,Cook,sherryparsons@example.net,Store Manager,75000.0,2024-06-01
+16,16,Kathryn,Garrett,millerbruce@example.org,Assistant Manager,60000.0,2024-02-27
+17,11,Lawrence,Abbott,pattonbryan@example.com,Assistant Manager,30000.0,2022-10-14
+18,16,Kevin,Sims,garciabrian@example.org,Sales Associate,45000.0,2023-10-22
+19,10,Melissa,Morales,mhall@example.net,Senior Sales Associate,45000.0,2025-03-16
+20,7,Alex,Reyes,nhobbs@example.org,Sales Associate,75000.0,2023-12-30
+21,14,Debra,Lowe,gibsonmark@example.org,Sales Associate,45000.0,2023-01-04
+22,16,Curtis,Larson,watkinsmary@example.net,Store Manager,60000.0,2023-02-01
+23,4,Dana,Scott,nolson@example.com,Store Manager,60000.0,2023-05-05
+24,16,John,Robles,andersonbreanna@example.net,Senior Sales Associate,45000.0,2025-04-28
+25,8,Karen,Collins,dylanparker@example.com,Sales Associate,45000.0,2023-10-16
+26,14,Miguel,Smith,brianhunter@example.net,Sales Associate,30000.0,2026-03-15
+27,10,Brian,Cooper,danielleharris@example.org,Assistant Manager,60000.0,2024-01-02
+28,10,Jaime,Alvarez,vgreene@example.net,Sales Associate,30000.0,2024-12-16
+29,20,Sylvia,Jensen,gmurphy@example.com,Assistant Manager,60000.0,2026-04-11
+30,11,Kristina,Williams,samanthafowler@example.net,Senior Sales Associate,45000.0,2023-07-13
+31,12,Steven,Lewis,vnavarro@example.net,Sales Associate,30000.0,2024-02-24
+32,1,Jamie,Lopez,coxcharles@example.org,Sales Associate,60000.0,2024-11-28
+33,14,Darius,Roberts,crystaldurham@example.com,Assistant Manager,45000.0,2022-09-27
+34,11,Theresa,Gonzalez,grant42@example.com,Assistant Manager,60000.0,2026-02-26
+35,16,Angela,White,thompsonjose@example.org,Senior Sales Associate,60000.0,2022-08-22
+36,19,Marie,Taylor,morganjason@example.com,Senior Sales Associate,45000.0,2023-07-29
+37,5,Mike,Watson,shelleyrowland@example.net,Senior Sales Associate,45000.0,2026-04-20
+38,19,Ryan,Page,thomassandra@example.org,Assistant Manager,45000.0,2023-05-14
+39,16,Amanda,Benson,carol30@example.net,Sales Associate,30000.0,2025-01-18
+40,11,Jaime,Nichols,markbrown@example.com,Store Manager,75000.0,2026-04-06
+41,5,David,Romero,fclark@example.com,Senior Sales Associate,30000.0,2025-11-30
+42,17,Elizabeth,Brown,ppotter@example.net,Sales Associate,75000.0,2024-02-22
+43,20,Victor,Marshall,jennifer87@example.net,Senior Sales Associate,30000.0,2024-08-27
+44,15,Thomas,Perkins,clarkpatricia@example.com,Sales Associate,45000.0,2026-03-22
+45,9,Jimmy,Robinson,koneal@example.org,Assistant Manager,60000.0,2026-07-13
+46,2,Megan,Scott,taylorchristopher@example.com,Sales Associate,45000.0,2024-10-03
+47,8,Michael,Silva,vhunt@example.com,Store Manager,60000.0,2024-06-20
+48,12,Taylor,Ortiz,ystewart@example.org,Sales Associate,45000.0,2023-04-25
+49,9,Scott,Baker,howardchristopher@example.net,Senior Sales Associate,75000.0,2024-09-24
+50,11,Amy,Miller,sara11@example.org,Assistant Manager,45000.0,2024-01-31

@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block title %}Stores & Regional Analysis | Retail Sales Analytics{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h3 class="fw-bold mb-1"><i class="fa-solid fa-store text-info me-2"></i>Stores & Regional Performance</h3>
+        <p class="text-secondary small mb-0">Store-level revenue, order volume, profit margin & regional breakdown</p>
+    </div>
+</div>
+
+<div class="card bg-dark border-secondary">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-custom align-middle mb-0">
+                <thead>
+                    <tr>
+                        <th>Store ID</th>
+                        <th>Store Name</th>
+                        <th>Location</th>
+                        <th>Region</th>
+                        <th>Store Type</th>
+                        <th>Manager</th>
+                        <th class="text-center">Total Orders</th>
+                        <th class="text-end">Total Revenue</th>
+                        <th class="text-end">Total Profit</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for st in stores %}
+                    <tr>
+                        <td>#STR-{{ st.StoreID }}</td>
+                        <td class="fw-bold text-light">{{ st.StoreName }}</td>
+                        <td>{{ st.City }}</td>
+                        <td><span class="badge bg-secondary">{{ st.Region }}</span></td>
+                        <td>{{ st.StoreType }}</td>
+                        <td>{{ st.ManagerName }}</td>
+                        <td class="text-center fw-bold">{{ st.TotalOrders }}</td>
+                        <td class="text-end fw-bold text-info">${{ "{:,.2f}".format(st.Revenue) }}</td>
+                        <td class="text-end fw-bold text-success">${{ "{:,.2f}".format(st.Profit) }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

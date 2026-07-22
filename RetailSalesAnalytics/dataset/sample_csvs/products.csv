@@ -1,0 +1,2001 @@
+ProductID,SKU,ProductName,CategoryID,SupplierID,CostPrice,SellingPrice,Status
+1,SKU-06-0001,Mckee-Lee Classic Jeans 786,6,42,123.81,300.11,Active
+2,SKU-11-0002,"Valentine, Lite Coffee Maker 846",11,18,113.94,211.33,Active
+3,SKU-11-0003,Strickland-Shaw Compact Cookware Set 801,11,4,149.31,331.76,Active
+4,SKU-01-0004,Burch-Montoya Classic Camera 374,1,37,34.45,82.53,Active
+5,SKU-06-0005,"Taylor, Smart Shorts 505",6,10,398.68,825.83,Active
+6,SKU-04-0006,Spencer-Garcia Compact Router 369,4,38,337.42,612.12,Active
+7,SKU-04-0007,"Rosales, Lite Router 605",4,8,45.45,61.65,Active
+8,SKU-03-0008,Cole-Palmer Premium Drone 165,3,30,176.22,355.09,Active
+9,SKU-09-0009,Davis-Lozano Ultra Chair 798,9,50,398.73,877.63,Active
+10,SKU-02-0010,Wilkerson-Arias Eco Camera 261,2,47,206.91,505.81,Active
+11,SKU-09-0011,Brown-Shaw Lite Coffee Maker 208,9,41,392.38,650.62,Active
+12,SKU-04-0012,Hughes Lite Charger 880,4,34,76.89,187.93,Active
+13,SKU-10-0013,Walker-Flores Classic Rug 119,10,20,54.78,95.07,Active
+14,SKU-04-0014,Combs Elite Tablet 187,4,49,330.7,753.74,Active
+15,SKU-03-0015,Moody-Taylor Lite Watch 662,3,39,78.48,151.72,Active
+16,SKU-04-0016,Lowery-Kennedy Compact Speaker 830,4,42,143.71,358.44,Active
+17,SKU-15-0017,Blake Compact Hair Dryer 223,15,2,115.32,158.78,Active
+18,SKU-04-0018,Gilbert-Bullock Elite Speaker 107,4,15,36.59,75.28,Active
+19,SKU-01-0019,Scott Classic Tablet 626,1,14,110.91,233.22,Active
+20,SKU-12-0020,"Bentley, Elite Sofa 584",12,27,113.13,211.28,Active
+21,SKU-02-0021,Young-Martinez Premium Charger 533,2,4,187.94,439.14,Active
+22,SKU-11-0022,Barnes Pro Blender 512,11,7,329.06,743.91,Active
+23,SKU-04-0023,Brown-Copeland Compact Watch 243,4,16,192.74,314.99,Active
+24,SKU-02-0024,Carlson-Smith Ergonomic Router 200,2,1,27.51,68.75,Active
+25,SKU-15-0025,"Andrews, Smart Massage Gun 516",15,26,221.11,344.16,Active
+26,SKU-03-0026,Mendez Premium Phone 499,3,30,123.02,275.67,Active
+27,SKU-12-0027,"Butler, Compact Rug 258",12,4,89.5,139.73,Active
+28,SKU-09-0028,Jones-Fox Ultra Air Purifier 158,9,34,27.31,51.13,Active
+29,SKU-09-0029,"Hartman, Pro Lamp 170",9,16,269.79,569.33,Active
+30,SKU-15-0030,Williams-Hughes Elite Shampoo 692,15,27,269.56,550.78,Active
+31,SKU-10-0031,King-Smith Compact Air Purifier 367,10,16,95.9,207.09,Active
+32,SKU-03-0032,Cooper Eco Watch 423,3,1,418.41,1013.76,Active
+33,SKU-10-0033,"Fuller, Pro Chair 650",10,23,99.85,161.58,Active
+34,SKU-15-0034,Anderson-Bell Smart Vitamin Pack 391,15,46,75.2,173.0,Active
+35,SKU-13-0035,Li-Thompson Compact Serume 783,13,43,368.61,611.62,Active
+36,SKU-15-0036,"Marshall, Lite Perfume 218",15,10,400.92,878.38,Active
+37,SKU-10-0037,Brown Smart Air Purifier 308,10,33,310.94,722.47,Active
+38,SKU-15-0038,Carter Ultra Moisturizer 749,15,1,193.49,315.78,Active
+39,SKU-03-0039,Blackwell Eco Headphones 859,3,36,201.62,432.84,Discontinued
+40,SKU-02-0040,Robertson-Hays Lite Router 136,2,10,376.39,752.41,Active
+41,SKU-01-0041,"Kennedy, Eco Charger 915",1,23,437.63,589.87,Active
+42,SKU-04-0042,Kelly-Norman Pro Charger 898,4,40,254.15,597.16,Active
+43,SKU-15-0043,"Rivera, Smart Massage Gun 919",15,2,365.79,862.42,Active
+44,SKU-15-0044,Paul-Kline Classic Face Mask 921,15,16,303.11,661.41,Active
+45,SKU-13-0045,Morgan-Lopez Pro Face Mask 993,13,13,22.23,41.46,Active
+46,SKU-08-0046,"Jimenez, Classic Hoodie 940",8,2,358.93,564.64,Active
+47,SKU-07-0047,Acosta Classic Hoodie 985,7,23,35.89,79.96,Active
+48,SKU-07-0048,Morrison-Short Compact Dress 128,7,12,56.33,138.82,Active
+49,SKU-05-0049,"Carter, Ultra Sneakers 710",5,21,198.38,431.33,Active
+50,SKU-09-0050,Parker-Morrison Pro Vacuum 690,9,28,89.59,121.24,Discontinued
+51,SKU-15-0051,Jackson-Wallace Compact Shampoo 472,15,22,196.93,480.24,Active
+52,SKU-11-0052,Williams-Berg Pro Desk 619,11,26,142.63,255.32,Active
+53,SKU-09-0053,Mendez-Graham Lite Cookware Set 530,9,48,300.89,528.05,Active
+54,SKU-10-0054,"Whitney, Elite Desk 515",10,19,248.83,323.6,Active
+55,SKU-13-0055,"Sullivan, Elite Trimmer 770",13,44,148.4,271.59,Active
+56,SKU-08-0056,Cisneros Lite Sneakers 390,8,22,234.38,482.71,Active
+57,SKU-13-0057,"Gregory, Smart Perfume 330",13,3,363.92,537.45,Active
+58,SKU-08-0058,Osborne Elite Sneakers 566,8,13,189.43,389.41,Active
+59,SKU-07-0059,Reyes-Bradley Ergonomic Boots 349,7,49,70.67,150.18,Active
+60,SKU-15-0060,"Hernandez, Pro Face Mask 324",15,34,83.27,203.97,Active
+61,SKU-09-0061,Hines-Berry Smart Chair 567,9,34,64.34,119.52,Active
+62,SKU-10-0062,"Richardson, Classic Rug 727",10,28,367.68,871.56,Active
+63,SKU-09-0063,Johnson Ergonomic Lamp 861,9,49,388.37,714.63,Active
+64,SKU-11-0064,Holmes-Mcintyre Eco Coffee Maker 596,11,5,283.9,462.62,Active
+65,SKU-04-0065,Green Eco Charger 427,4,10,402.4,562.03,Active
+66,SKU-12-0066,"Griffin, Lite Cookware Set 165",12,30,189.62,321.8,Active
+67,SKU-04-0067,Gonzalez-Taylor Premium Camera 888,4,49,264.92,565.51,Active
+68,SKU-08-0068,Hayes Ultra Dress 405,8,27,340.3,790.9,Active
+69,SKU-12-0069,Osborn-Cochran Compact Sofa 325,12,32,222.26,361.73,Discontinued
+70,SKU-06-0070,Contreras-Mckinney Premium T-Shirt 960,6,40,212.99,309.51,Active
+71,SKU-15-0071,"Daniels, Premium Trimmer 677",15,28,300.03,420.26,Active
+72,SKU-08-0072,"Mckinney, Lite Jacket 366",8,21,173.7,269.93,Active
+73,SKU-15-0073,Hicks-Martinez Premium Perfume 870,15,6,428.29,773.44,Active
+74,SKU-12-0074,Conner Compact Blender 458,12,42,104.78,144.84,Discontinued
+75,SKU-01-0075,Johnson-Spencer Smart Speaker 959,1,9,14.07,20.86,Active
+76,SKU-02-0076,Mcdonald-Bird Elite Speaker 576,2,11,316.26,702.19,Active
+77,SKU-12-0077,Salazar Pro Lamp 418,12,20,53.1,70.67,Active
+78,SKU-15-0078,Parker Premium Face Mask 832,15,41,93.26,187.5,Active
+79,SKU-12-0079,"Mendoza, Eco Sofa 924",12,3,58.87,146.03,Active
+80,SKU-07-0080,"Jones, Classic Sneakers 618",7,27,293.16,385.56,Active
+81,SKU-02-0081,Owens-Holmes Premium Charger 750,2,10,401.75,743.92,Active
+82,SKU-12-0082,Humphrey Compact Desk 730,12,31,364.65,709.54,Active
+83,SKU-14-0083,"Matthews, Elite Perfume 430",14,6,384.01,882.02,Active
+84,SKU-08-0084,"Bartlett, Smart Shorts 683",8,2,276.6,485.37,Active
+85,SKU-06-0085,Torres Lite Shorts 317,6,18,162.9,262.27,Active
+86,SKU-12-0086,Donovan-Perez Eco Coffee Maker 110,12,16,234.9,359.22,Active
+87,SKU-08-0087,"Jacobson, Compact Jeans 807",8,29,216.86,467.16,Active
+88,SKU-02-0088,"Huber, Eco Speaker 514",2,38,312.85,521.66,Active
+89,SKU-09-0089,"Ferguson, Compact Air Purifier 535",9,23,448.5,879.27,Active
+90,SKU-05-0090,"Moore, Eco Hoodie 336",5,8,58.69,89.86,Active
+91,SKU-13-0091,"Morgan, Lite Shampoo 321",13,38,333.68,544.5,Active
+92,SKU-09-0092,Miller Elite Desk 202,9,24,375.52,621.67,Active
+93,SKU-01-0093,"Baker, Compact Headphones 380",1,19,25.25,34.48,Active
+94,SKU-03-0094,"Fowler, Ergonomic Tablet 993",3,31,10.46,17.17,Active
+95,SKU-03-0095,May-Turner Ultra Monitor 982,3,26,217.59,497.53,Active
+96,SKU-10-0096,Ballard Ultra Lamp 252,10,6,365.96,892.56,Active
+97,SKU-02-0097,Evans-Jones Compact Camera 720,2,50,270.28,551.94,Active
+98,SKU-08-0098,Moore Ergonomic Hoodie 980,8,37,266.89,484.3,Active
+99,SKU-10-0099,Marshall-Peterson Pro Cookware Set 740,10,11,98.91,206.97,Active
+100,SKU-09-0100,Edwards Pro Lamp 102,9,31,186.79,397.35,Active
+101,SKU-04-0101,Gross-Valencia Eco Monitor 819,4,15,387.52,536.88,Active
+102,SKU-13-0102,Anderson-Wood Elite Shampoo 535,13,10,56.08,88.03,Active
+103,SKU-14-0103,"Rodriguez, Lite Moisturizer 161",14,48,78.84,131.59,Active
+104,SKU-15-0104,Wright-Davis Eco Hair Dryer 227,15,26,213.57,355.57,Active
+105,SKU-09-0105,Dougherty-Lin Compact Rug 548,9,28,40.8,54.99,Active
+106,SKU-10-0106,Wright-Grimes Eco Blender 193,10,37,106.87,225.41,Active
+107,SKU-01-0107,Li Eco Drone 141,1,34,344.58,520.39,Active
+108,SKU-15-0108,"Edwards, Eco Massage Gun 699",15,6,198.97,453.07,Active
+109,SKU-07-0109,"Owens, Classic Dress 786",7,27,51.55,76.96,Active
+110,SKU-05-0110,Landry Premium Sweater 137,5,21,207.4,347.9,Active
+111,SKU-13-0111,Levy-Lewis Premium Sunscreen 944,13,35,444.71,929.08,Active
+112,SKU-01-0112,Williams-Campbell Smart Router 470,1,29,282.07,535.42,Active
+113,SKU-04-0113,"Khan, Eco Router 234",4,45,417.81,762.81,Active
+114,SKU-01-0114,"Smith, Elite Speaker 826",1,36,75.48,148.02,Active
+115,SKU-04-0115,Luna-Gallagher Pro Watch 220,4,46,293.23,435.38,Active
+116,SKU-12-0116,Williams-Williams Eco Vacuum 954,12,30,219.71,410.12,Active
+117,SKU-07-0117,"Lee, Smart Coat 620",7,5,337.1,493.45,Active
+118,SKU-13-0118,"Cole, Premium Vitamin Pack 906",13,19,230.94,527.62,Active
+119,SKU-14-0119,"Becker, Elite Trimmer 775",14,35,222.89,329.5,Active
+120,SKU-06-0120,Brooks-Hatfield Compact Sweater 486,6,13,207.63,350.09,Active
+121,SKU-04-0121,"Mcmillan, Elite Camera 339",4,21,385.93,691.95,Active
+122,SKU-12-0122,"Morales, Premium Vacuum 779",12,10,357.62,744.72,Active
+123,SKU-01-0123,"Cook, Lite Router 704",1,29,152.74,216.96,Active
+124,SKU-15-0124,"Barry, Ergonomic Serume 839",15,10,69.15,162.17,Active
+125,SKU-13-0125,Martin-Ewing Eco Vitamin Pack 738,13,22,313.25,651.5,Active
+126,SKU-14-0126,"Kirby, Compact Face Mask 424",14,32,283.93,671.47,Active
+127,SKU-01-0127,"Patel, Elite Tablet 340",1,15,285.87,687.55,Active
+128,SKU-07-0128,Richardson Pro Sneakers 554,7,2,79.03,131.14,Discontinued
+129,SKU-13-0129,Whitney Ultra Perfume 467,13,34,171.8,253.35,Active
+130,SKU-11-0130,Robles-Swanson Lite Lamp 279,11,40,40.14,94.13,Active
+131,SKU-08-0131,"Soto, Elite T-Shirt 337",8,17,210.21,337.34,Active
+132,SKU-15-0132,"Patton, Ergonomic Perfume 793",15,23,248.24,344.71,Active
+133,SKU-05-0133,"Williams, Premium Hoodie 567",5,25,381.16,586.63,Active
+134,SKU-02-0134,"Harvey, Smart Camera 685",2,45,164.74,272.65,Active
+135,SKU-14-0135,"Allen, Premium Perfume 108",14,48,256.84,545.26,Active
+136,SKU-15-0136,Smith Elite Hair Dryer 952,15,15,407.35,669.45,Active
+137,SKU-06-0137,Hernandez-Vaughn Smart Jeans 735,6,50,116.53,257.15,Active
+138,SKU-14-0138,Shaw-Carr Lite Moisturizer 742,14,29,292.62,488.89,Discontinued
+139,SKU-06-0139,Salas-Fitzgerald Lite Sneakers 402,6,13,150.39,270.49,Active
+140,SKU-09-0140,Thornton Classic Coffee Maker 613,9,17,411.5,945.04,Active
+141,SKU-08-0141,Hoffman Eco Dress 923,8,10,56.25,138.12,Active
+142,SKU-04-0142,Fox-Edwards Premium Router 474,4,17,45.18,80.13,Active
+143,SKU-08-0143,Stevens Classic Hoodie 698,8,24,174.56,360.69,Active
+144,SKU-04-0144,Payne-Lowe Ergonomic Phone 734,4,40,398.48,786.48,Active
+145,SKU-02-0145,"Becker, Ergonomic Monitor 764",2,3,186.69,274.01,Active
+146,SKU-08-0146,Lee-Wright Pro Sneakers 340,8,30,399.83,584.87,Active
+147,SKU-12-0147,"Evans, Compact Vacuum 701",12,27,335.31,498.08,Active
+148,SKU-14-0148,Bush-Vaughn Ergonomic Trimmer 517,14,45,422.88,691.7,Active
+149,SKU-08-0149,Stewart-Bailey Ergonomic Jeans 975,8,24,166.4,412.19,Active
+150,SKU-11-0150,"Hill, Classic Blender 507",11,30,127.77,314.55,Active
+151,SKU-04-0151,Huang-Foster Elite Phone 151,4,9,355.12,565.45,Active
+152,SKU-04-0152,Blevins-Ballard Pro Router 312,4,15,265.94,605.19,Active
+153,SKU-03-0153,Williams-Moses Elite Phone 383,3,9,386.99,570.28,Active
+154,SKU-13-0154,Reed Lite Moisturizer 776,13,23,390.57,569.52,Active
+155,SKU-04-0155,"Scott, Elite Charger 116",4,48,82.54,112.49,Active
+156,SKU-02-0156,"Nelson, Pro Watch 559",2,7,351.22,672.9,Active
+157,SKU-04-0157,Gilbert Elite Phone 844,4,34,353.54,827.42,Active
+158,SKU-11-0158,Sanchez Ultra Blender 590,11,7,382.05,692.09,Active
+159,SKU-15-0159,"Perez, Ergonomic Moisturizer 182",15,9,148.34,219.25,Active
+160,SKU-11-0160,Love-Garcia Elite Coffee Maker 829,11,34,149.71,373.31,Active
+161,SKU-09-0161,Smith Elite Vacuum 201,9,42,357.93,514.45,Active
+162,SKU-13-0162,Russell Compact Shampoo 540,13,22,205.94,324.19,Active
+163,SKU-07-0163,Santos-Avila Premium Sneakers 420,7,24,194.91,408.95,Active
+164,SKU-11-0164,Morris-Brewer Ergonomic Chair 193,11,7,375.14,529.65,Active
+165,SKU-06-0165,Pearson Lite Sweater 161,6,22,265.98,525.02,Active
+166,SKU-07-0166,"Rodgers, Classic Boots 988",7,19,412.55,561.78,Active
+167,SKU-06-0167,Butler Pro Coat 619,6,15,99.67,208.12,Active
+168,SKU-06-0168,Osborn Compact Dress 217,6,28,344.36,684.9,Active
+169,SKU-13-0169,Lopez-Curry Elite Trimmer 791,13,43,291.0,387.47,Active
+170,SKU-05-0170,Mcdowell-Smith Ultra T-Shirt 379,5,22,317.7,530.81,Active
+171,SKU-03-0171,"Morrison, Lite Drone 773",3,41,183.35,269.57,Active
+172,SKU-02-0172,Hays-Daniels Compact Speaker 485,2,24,191.83,327.85,Active
+173,SKU-06-0173,Small-Anderson Elite Coat 186,6,49,398.09,591.84,Active
+174,SKU-11-0174,"Mcdonald, Pro Desk 553",11,29,299.56,564.01,Active
+175,SKU-04-0175,Simon Compact Tablet 453,4,44,196.31,321.93,Active
+176,SKU-09-0176,Higgins-Smith Eco Blender 325,9,1,180.89,365.25,Active
+177,SKU-04-0177,Gibbs-Bradley Lite Monitor 396,4,48,151.01,197.71,Active
+178,SKU-03-0178,Thompson Premium Router 820,3,43,107.4,211.63,Active
+179,SKU-02-0179,Wilcox-Robertson Premium Phone 546,2,21,13.34,32.09,Active
+180,SKU-10-0180,Morales Premium Vacuum 396,10,21,56.25,74.53,Active
+181,SKU-10-0181,Holden Ergonomic Air Purifier 190,10,28,199.34,284.47,Active
+182,SKU-09-0182,Boyle-Smith Pro Vacuum 991,9,22,143.07,244.28,Active
+183,SKU-02-0183,Young-Molina Compact Tablet 643,2,23,231.93,553.64,Active
+184,SKU-14-0184,Turner-Sharp Lite Shampoo 205,14,39,70.17,107.83,Active
+185,SKU-13-0185,Green Pro Massage Gun 891,13,37,284.44,528.13,Active
+186,SKU-08-0186,"Young, Elite Coat 430",8,10,389.59,799.7,Active
+187,SKU-08-0187,Sullivan Ergonomic Hoodie 915,8,33,127.23,173.98,Active
+188,SKU-08-0188,"Carrillo, Ergonomic Jacket 158",8,42,169.09,278.07,Active
+189,SKU-14-0189,Richardson-Walker Pro Trimmer 708,14,36,230.65,427.91,Active
+190,SKU-12-0190,Mendoza Ultra Rug 929,12,39,259.39,395.8,Active
+191,SKU-03-0191,"Zhang, Ultra Watch 205",3,46,365.88,843.3,Active
+192,SKU-11-0192,Todd-Pham Lite Blender 353,11,34,319.89,796.26,Active
+193,SKU-03-0193,Gill Classic Charger 389,3,44,177.4,395.49,Active
+194,SKU-13-0194,"Marks, Classic Moisturizer 437",13,19,47.06,99.49,Active
+195,SKU-14-0195,"Cox, Elite Massage Gun 441",14,23,41.27,86.52,Active
+196,SKU-11-0196,"Leach, Premium Lamp 709",11,36,320.43,449.13,Active
+197,SKU-13-0197,Murphy Classic Massage Gun 786,13,44,317.76,774.23,Active
+198,SKU-02-0198,Wilson-Harris Premium Router 470,2,14,13.11,21.9,Active
+199,SKU-13-0199,"Burns, Ergonomic Shampoo 331",13,19,449.99,668.66,Active
+200,SKU-02-0200,Chavez Compact Router 955,2,43,333.7,644.65,Active
+201,SKU-13-0201,Bryant-Brown Elite Massage Gun 711,13,45,172.64,258.04,Active
+202,SKU-13-0202,Chambers-Parker Lite Hair Dryer 144,13,16,187.83,396.63,Active
+203,SKU-10-0203,Foster Eco Rug 339,10,31,242.63,405.52,Active
+204,SKU-04-0204,"Robinson, Classic Drone 551",4,25,210.45,344.74,Active
+205,SKU-07-0205,"Brown, Lite Jeans 920",7,4,274.08,643.43,Active
+206,SKU-14-0206,Andersen Classic Sunscreen 205,14,8,321.57,617.12,Active
+207,SKU-13-0207,Mitchell Lite Perfume 560,13,28,407.86,602.34,Active
+208,SKU-15-0208,Cannon Smart Hair Dryer 457,15,26,419.06,753.42,Active
+209,SKU-04-0209,"Stuart, Premium Tablet 483",4,7,104.92,176.52,Active
+210,SKU-11-0210,Kane-Knox Classic Lamp 240,11,31,22.04,52.92,Active
+211,SKU-03-0211,Miller-Brandt Ergonomic Watch 730,3,17,7.34,10.24,Active
+212,SKU-03-0212,"Anderson, Compact Drone 640",3,16,193.35,431.44,Active
+213,SKU-01-0213,"Long, Smart Camera 754",1,8,358.29,662.31,Active
+214,SKU-08-0214,Avila Elite Sweater 116,8,46,286.22,569.59,Active
+215,SKU-07-0215,Nunez-Stephens Ultra Coat 461,7,43,112.05,201.68,Active
+216,SKU-09-0216,"Gray, Classic Chair 638",9,33,247.12,554.46,Active
+217,SKU-07-0217,Hill Ergonomic Jacket 750,7,48,177.16,309.67,Discontinued
+218,SKU-13-0218,Johnson Pro Vitamin Pack 346,13,50,331.16,680.17,Active
+219,SKU-13-0219,Mendez-Mayer Classic Massage Gun 145,13,42,161.77,276.02,Active
+220,SKU-13-0220,Allen Ergonomic Hair Dryer 746,13,46,86.11,125.88,Active
+221,SKU-08-0221,Wheeler Ultra Hoodie 306,8,3,24.49,37.7,Active
+222,SKU-05-0222,"Powers, Compact Boots 934",5,49,246.65,395.62,Active
+223,SKU-05-0223,Morales Classic Jacket 986,5,24,296.8,483.15,Active
+224,SKU-07-0224,"Robinson, Ergonomic Boots 447",7,32,438.31,830.79,Active
+225,SKU-13-0225,"Holder, Compact Perfume 920",13,28,41.76,75.56,Active
+226,SKU-14-0226,"Flores, Lite Sunscreen 400",14,43,147.94,206.54,Active
+227,SKU-08-0227,Young-Walter Elite Boots 270,8,3,311.95,537.13,Active
+228,SKU-15-0228,"Boyd, Classic Trimmer 545",15,4,127.18,314.9,Active
+229,SKU-11-0229,"Fry, Premium Air Purifier 625",11,2,361.49,764.66,Active
+230,SKU-10-0230,"Shelton, Ergonomic Blender 229",10,24,34.92,78.02,Active
+231,SKU-10-0231,David-Powers Ultra Sofa 257,10,24,307.18,749.09,Active
+232,SKU-02-0232,"Flores, Elite Headphones 642",2,18,168.29,282.27,Active
+233,SKU-02-0233,White-Medina Ultra Headphones 611,2,8,235.4,564.08,Active
+234,SKU-05-0234,Atkinson Ergonomic Jeans 726,5,32,132.08,316.96,Active
+235,SKU-03-0235,"Thomas, Pro Watch 276",3,6,404.91,742.66,Active
+236,SKU-14-0236,Faulkner-Grant Classic Vitamin Pack 826,14,20,33.9,66.13,Active
+237,SKU-12-0237,Price Lite Air Purifier 620,12,9,104.79,260.11,Active
+238,SKU-08-0238,Rivera Ultra Dress 667,8,36,259.66,483.2,Active
+239,SKU-15-0239,Boone-Davis Pro Moisturizer 416,15,31,182.18,393.57,Active
+240,SKU-13-0240,"Calderon, Premium Trimmer 175",13,5,60.77,102.12,Active
+241,SKU-11-0241,"Morrison, Compact Air Purifier 231",11,41,395.69,884.89,Active
+242,SKU-13-0242,"Ramsey, Lite Face Mask 614",13,8,410.27,560.63,Active
+243,SKU-05-0243,Turner-Stout Lite T-Shirt 430,5,34,420.96,661.14,Active
+244,SKU-14-0244,Giles Pro Perfume 301,14,9,287.6,563.99,Active
+245,SKU-10-0245,Burgess Compact Chair 614,10,38,290.24,583.43,Active
+246,SKU-11-0246,Dominguez Elite Sofa 445,11,2,379.93,750.87,Active
+247,SKU-11-0247,Sanders Elite Desk 766,11,40,98.81,196.29,Active
+248,SKU-08-0248,"Morris, Compact Hoodie 757",8,44,430.71,809.53,Active
+249,SKU-08-0249,"Howard, Pro Jacket 261",8,14,200.62,377.39,Active
+250,SKU-03-0250,Owens-Lang Classic Charger 851,3,26,444.67,762.36,Active
+251,SKU-06-0251,"Harrison, Compact Sweater 208",6,18,147.01,273.4,Active
+252,SKU-03-0252,Edwards-Williams Pro Phone 397,3,27,425.7,994.86,Active
+253,SKU-14-0253,Figueroa Lite Vitamin Pack 691,14,11,325.9,497.91,Active
+254,SKU-09-0254,Tran-Silva Ergonomic Rug 415,9,26,226.33,318.69,Active
+255,SKU-04-0255,"Butler, Smart Drone 461",4,39,26.65,43.64,Active
+256,SKU-11-0256,Hudson-Sanchez Ergonomic Desk 649,11,9,8.64,12.35,Active
+257,SKU-12-0257,"Pena, Classic Vacuum 474",12,36,25.13,34.21,Active
+258,SKU-09-0258,Levy-May Eco Chair 495,9,18,229.39,508.62,Active
+259,SKU-10-0259,Murray-Oconnor Elite Chair 231,10,22,438.91,778.05,Active
+260,SKU-06-0260,Jackson-Cortez Lite Jeans 716,6,3,231.56,439.99,Discontinued
+261,SKU-12-0261,White-Preston Classic Rug 631,12,33,208.36,422.45,Active
+262,SKU-15-0262,"Bernard, Elite Vitamin Pack 266",15,20,179.86,366.88,Active
+263,SKU-09-0263,Landry Compact Coffee Maker 601,9,2,320.39,531.77,Active
+264,SKU-11-0264,Duran Pro Vacuum 697,11,45,141.92,337.56,Active
+265,SKU-10-0265,Kirby Ergonomic Desk 771,10,37,353.39,788.55,Active
+266,SKU-01-0266,Mann Elite Watch 274,1,50,238.28,515.98,Active
+267,SKU-03-0267,Wagner Smart Phone 686,3,2,426.95,611.34,Active
+268,SKU-07-0268,Williamson Lite Boots 807,7,40,95.73,182.1,Active
+269,SKU-14-0269,"Durham, Ultra Massage Gun 631",14,43,97.27,164.39,Active
+270,SKU-07-0270,"Arnold, Classic T-Shirt 570",7,23,410.9,702.96,Active
+271,SKU-14-0271,Nichols-Mitchell Eco Trimmer 595,14,36,90.56,144.52,Active
+272,SKU-05-0272,"Li, Eco Jeans 806",5,23,318.72,535.59,Active
+273,SKU-15-0273,Rodriguez Eco Perfume 224,15,26,260.2,507.87,Active
+274,SKU-13-0274,"Hernandez, Lite Perfume 143",13,23,133.0,286.88,Active
+275,SKU-11-0275,Adams-Sanders Eco Rug 319,11,36,94.92,184.74,Active
+276,SKU-03-0276,Chung-Stevens Pro Drone 858,3,43,266.14,423.42,Active
+277,SKU-04-0277,Branch Smart Phone 202,4,7,188.92,408.22,Active
+278,SKU-03-0278,Sutton-Abbott Ultra Router 261,3,31,186.07,450.67,Active
+279,SKU-04-0279,"Frey, Eco Charger 392",4,6,292.42,698.74,Active
+280,SKU-04-0280,Gray-Tran Compact Phone 279,4,3,190.96,440.19,Active
+281,SKU-07-0281,Walsh Ergonomic T-Shirt 866,7,3,433.15,1044.43,Discontinued
+282,SKU-10-0282,Miller Elite Chair 443,10,35,131.63,327.35,Active
+283,SKU-15-0283,"Mueller, Lite Sunscreen 579",15,22,126.41,287.02,Active
+284,SKU-08-0284,Jacobson Eco T-Shirt 114,8,37,332.79,748.42,Active
+285,SKU-04-0285,Lewis Lite Drone 976,4,28,289.23,516.73,Active
+286,SKU-02-0286,"Alvarez, Premium Tablet 289",2,16,441.85,827.56,Discontinued
+287,SKU-07-0287,Lam-Elliott Smart Shorts 871,7,38,123.81,209.93,Active
+288,SKU-01-0288,White Eco Charger 809,1,30,110.15,231.46,Active
+289,SKU-07-0289,Ali Compact Hoodie 806,7,19,57.25,137.36,Active
+290,SKU-04-0290,Goodwin Smart Headphones 589,4,39,73.17,160.78,Active
+291,SKU-12-0291,Hickman-Evans Compact Rug 875,12,14,244.2,512.07,Active
+292,SKU-11-0292,"Allen, Elite Chair 638",11,5,203.8,437.05,Active
+293,SKU-02-0293,"Rivera, Ultra Router 617",2,11,94.96,184.6,Active
+294,SKU-09-0294,"Ramsey, Ergonomic Chair 796",9,6,96.4,192.78,Active
+295,SKU-08-0295,Davis Ultra Shorts 235,8,4,233.4,431.36,Active
+296,SKU-11-0296,Peterson Eco Blender 505,11,14,118.23,154.13,Active
+297,SKU-01-0297,"Sanders, Premium Charger 817",1,5,33.37,83.19,Active
+298,SKU-08-0298,Bowers-Hayes Ultra Hoodie 518,8,42,85.09,124.45,Active
+299,SKU-11-0299,Kelly Premium Air Purifier 491,11,25,204.6,491.15,Active
+300,SKU-11-0300,Lopez-Willis Compact Lamp 769,11,35,387.83,559.39,Active
+301,SKU-03-0301,Miller-Montgomery Smart Phone 874,3,44,15.12,25.07,Active
+302,SKU-07-0302,Marquez Compact Boots 943,7,10,107.2,198.61,Active
+303,SKU-15-0303,Moore-Dawson Pro Serume 928,15,2,298.79,608.91,Active
+304,SKU-02-0304,"Moore, Pro Drone 134",2,4,203.67,429.02,Active
+305,SKU-01-0305,Smith Premium Watch 339,1,50,245.19,540.71,Active
+306,SKU-09-0306,Ward-Nelson Eco Cookware Set 935,9,37,412.8,822.02,Active
+307,SKU-11-0307,Miller Classic Cookware Set 409,11,34,394.93,980.55,Active
+308,SKU-05-0308,Hawkins-Hunt Eco Jacket 670,5,12,427.09,1006.08,Active
+309,SKU-07-0309,Johnson Compact Shorts 148,7,43,437.67,1063.5,Active
+310,SKU-09-0310,"Davis, Classic Vacuum 518",9,49,71.4,125.08,Active
+311,SKU-04-0311,Smith-Gutierrez Smart Monitor 978,4,4,319.87,725.12,Active
+312,SKU-07-0312,Hardy Compact Sweater 237,7,22,177.85,285.63,Active
+313,SKU-15-0313,Armstrong Ergonomic Vitamin Pack 194,15,4,243.36,558.58,Active
+314,SKU-11-0314,"James, Elite Sofa 140",11,49,393.76,600.8,Active
+315,SKU-11-0315,Thomas-Jackson Compact Cookware Set 590,11,20,97.96,233.97,Active
+316,SKU-01-0316,Fisher-Washington Smart Speaker 859,1,31,57.21,143.0,Active
+317,SKU-12-0317,Ward Elite Cookware Set 506,12,50,412.23,809.0,Active
+318,SKU-08-0318,"Weber, Compact Dress 415",8,32,121.39,232.51,Active
+319,SKU-13-0319,Taylor Ergonomic Vitamin Pack 308,13,37,169.96,305.37,Active
+320,SKU-12-0320,Cook-Oliver Lite Blender 367,12,47,251.22,502.65,Active
+321,SKU-03-0321,Alexander-Jordan Smart Charger 335,3,32,174.03,400.28,Active
+322,SKU-11-0322,"Mccann, Classic Desk 881",11,42,370.61,911.63,Active
+323,SKU-08-0323,"Harris, Lite Dress 273",8,12,67.28,131.59,Active
+324,SKU-09-0324,Carter-Neal Ultra Coffee Maker 134,9,43,378.39,525.66,Discontinued
+325,SKU-01-0325,Faulkner-Casey Premium Headphones 962,1,10,285.66,394.66,Discontinued
+326,SKU-09-0326,Bennett-Velasquez Ergonomic Air Purifier 161,9,40,279.94,587.9,Active
+327,SKU-11-0327,Diaz-Frederick Ergonomic Blender 106,11,2,241.83,433.75,Active
+328,SKU-05-0328,Vargas Compact Hoodie 117,5,28,228.49,488.38,Active
+329,SKU-15-0329,Maldonado Lite Moisturizer 198,15,40,238.35,378.78,Active
+330,SKU-14-0330,Benton Classic Perfume 914,14,26,181.62,317.41,Active
+331,SKU-04-0331,"Clark, Smart Monitor 800",4,42,373.49,521.67,Active
+332,SKU-02-0332,Fuentes Premium Camera 486,2,1,250.95,343.13,Active
+333,SKU-02-0333,"Porter, Ergonomic Camera 760",2,7,354.05,700.67,Active
+334,SKU-15-0334,"Moore, Ultra Shampoo 316",15,37,406.07,865.23,Active
+335,SKU-01-0335,Ewing-Mendoza Pro Monitor 656,1,21,255.76,342.59,Discontinued
+336,SKU-04-0336,Ferguson-Mclean Elite Headphones 870,4,5,370.21,845.96,Active
+337,SKU-10-0337,"Barnes, Smart Sofa 954",10,35,383.0,809.07,Active
+338,SKU-13-0338,"Woodard, Lite Moisturizer 612",13,7,336.73,577.5,Active
+339,SKU-14-0339,Rodriguez Pro Vitamin Pack 719,14,26,347.21,849.22,Active
+340,SKU-06-0340,"Ortega, Ultra Hoodie 902",6,23,446.7,843.69,Active
+341,SKU-07-0341,"Terrell, Premium T-Shirt 796",7,50,265.71,466.61,Active
+342,SKU-13-0342,Sheppard-Jordan Smart Moisturizer 184,13,41,124.25,218.18,Active
+343,SKU-07-0343,Garcia Classic Dress 209,7,29,45.73,111.19,Active
+344,SKU-05-0344,"Burgess, Pro T-Shirt 189",5,36,88.39,162.51,Active
+345,SKU-02-0345,Griffin Ultra Tablet 462,2,21,251.63,507.36,Active
+346,SKU-01-0346,Barton-Chapman Eco Camera 497,1,36,351.73,763.19,Active
+347,SKU-04-0347,"Hernandez, Elite Router 273",4,18,309.97,466.01,Active
+348,SKU-08-0348,Perry-Nixon Lite Sneakers 271,8,31,198.43,358.23,Active
+349,SKU-06-0349,Guerra Eco Jeans 838,6,13,283.14,569.84,Active
+350,SKU-03-0350,Bailey Eco Phone 505,3,22,152.84,312.44,Active
+351,SKU-07-0351,Mueller-Boyd Elite T-Shirt 407,7,13,147.7,359.91,Active
+352,SKU-03-0352,Alvarez-Kim Premium Charger 398,3,37,332.02,683.79,Active
+353,SKU-06-0353,"Chavez, Premium Hoodie 936",6,37,354.71,616.49,Active
+354,SKU-09-0354,"Wilson, Lite Coffee Maker 127",9,46,429.09,795.51,Active
+355,SKU-13-0355,"Marsh, Eco Moisturizer 938",13,44,382.27,861.66,Active
+356,SKU-11-0356,"Thompson, Eco Cookware Set 358",11,25,298.11,643.41,Active
+357,SKU-10-0357,Hall-Sullivan Ergonomic Sofa 510,10,45,242.79,584.69,Active
+358,SKU-01-0358,Lopez Classic Router 708,1,50,288.99,405.16,Active
+359,SKU-11-0359,Foster-Mclaughlin Classic Lamp 762,11,42,277.64,548.58,Active
+360,SKU-07-0360,Cole Classic Boots 208,7,33,9.69,15.61,Active
+361,SKU-09-0361,Smith-Lewis Elite Sofa 326,9,50,203.37,359.83,Active
+362,SKU-12-0362,Goodwin-Stokes Compact Lamp 453,12,19,448.98,843.78,Active
+363,SKU-02-0363,Ray Pro Headphones 456,2,14,143.79,265.49,Active
+364,SKU-06-0364,Diaz Ergonomic Sneakers 548,6,5,326.29,601.33,Active
+365,SKU-13-0365,Wilson-Lambert Pro Serume 969,13,11,157.67,225.66,Active
+366,SKU-12-0366,Rose-Fowler Smart Coffee Maker 278,12,28,250.6,425.32,Active
+367,SKU-04-0367,"Price, Premium Headphones 290",4,2,290.01,527.4,Active
+368,SKU-15-0368,Bruce-Williamson Smart Hair Dryer 706,15,14,196.15,256.04,Active
+369,SKU-13-0369,"Mccarthy, Pro Trimmer 204",13,24,360.78,701.45,Active
+370,SKU-08-0370,Powers Pro Hoodie 786,8,41,388.87,751.79,Active
+371,SKU-07-0371,Allen Elite Boots 701,7,30,55.83,96.16,Active
+372,SKU-14-0372,Brooks Eco Trimmer 704,14,8,42.71,62.39,Active
+373,SKU-02-0373,"Price, Lite Charger 810",2,39,67.9,119.92,Active
+374,SKU-07-0374,Lopez-Reid Premium T-Shirt 598,7,42,287.8,613.62,Active
+375,SKU-03-0375,"Ellison, Compact Headphones 601",3,29,133.53,203.57,Active
+376,SKU-14-0376,Burns Classic Serume 596,14,36,65.76,149.82,Active
+377,SKU-08-0377,Edwards Premium Shorts 525,8,11,321.01,588.29,Active
+378,SKU-01-0378,"Brown, Smart Monitor 133",1,11,127.31,247.63,Active
+379,SKU-10-0379,Lee Ergonomic Coffee Maker 623,10,50,55.38,79.58,Active
+380,SKU-06-0380,"Wagner, Compact Jacket 878",6,28,324.95,635.48,Active
+381,SKU-14-0381,Mckinney-Wallace Smart Perfume 995,14,23,449.69,827.29,Active
+382,SKU-02-0382,Miller Ergonomic Tablet 894,2,48,366.29,568.43,Active
+383,SKU-06-0383,Carter Elite Boots 269,6,14,279.19,625.89,Active
+384,SKU-10-0384,Medina Classic Coffee Maker 387,10,46,270.6,406.46,Active
+385,SKU-10-0385,Cunningham-Barton Eco Coffee Maker 795,10,49,367.76,537.93,Active
+386,SKU-15-0386,Dunn-Wilson Ultra Perfume 987,15,9,296.87,635.81,Active
+387,SKU-12-0387,Adams Classic Cookware Set 879,12,10,380.38,673.74,Active
+388,SKU-05-0388,Weaver-Sherman Premium Boots 562,5,50,38.6,86.99,Active
+389,SKU-09-0389,"Alexander, Eco Air Purifier 565",9,1,427.86,724.26,Active
+390,SKU-14-0390,"Greer, Pro Hair Dryer 750",14,5,300.54,519.89,Active
+391,SKU-07-0391,Cole Smart Boots 944,7,19,99.27,161.04,Active
+392,SKU-10-0392,Gonzales Lite Sofa 972,10,44,220.98,378.43,Active
+393,SKU-01-0393,Clark Pro Watch 116,1,29,60.29,140.43,Active
+394,SKU-07-0394,"Norris, Smart T-Shirt 765",7,18,139.33,327.33,Active
+395,SKU-06-0395,Martin-Taylor Eco Sneakers 480,6,4,300.71,625.08,Active
+396,SKU-05-0396,Li Smart Boots 771,5,14,45.58,64.46,Active
+397,SKU-03-0397,"Bell, Elite Speaker 631",3,45,307.59,403.29,Active
+398,SKU-02-0398,Werner-Carter Premium Headphones 589,2,47,36.52,64.26,Active
+399,SKU-02-0399,"Adams, Classic Charger 406",2,49,66.02,147.1,Active
+400,SKU-11-0400,"Ochoa, Lite Chair 643",11,11,255.66,519.6,Active
+401,SKU-12-0401,Sellers-Riddle Smart Lamp 521,12,14,279.15,511.08,Active
+402,SKU-02-0402,"Martinez, Lite Tablet 703",2,28,329.85,567.95,Active
+403,SKU-03-0403,"Morris, Smart Monitor 760",3,39,42.49,83.45,Active
+404,SKU-05-0404,Burns-Ray Ultra Hoodie 310,5,48,235.4,449.95,Active
+405,SKU-11-0405,Burton-Brooks Ultra Cookware Set 606,11,41,176.72,280.86,Active
+406,SKU-09-0406,Schultz Ultra Air Purifier 424,9,37,63.73,148.68,Active
+407,SKU-09-0407,Robertson-Ramirez Lite Rug 888,9,1,37.48,75.14,Active
+408,SKU-01-0408,Gibson-Freeman Ultra Camera 618,1,50,132.49,285.54,Active
+409,SKU-12-0409,"Smith, Premium Chair 755",12,18,243.77,497.11,Active
+410,SKU-02-0410,"Stanton, Compact Speaker 927",2,38,74.14,125.45,Active
+411,SKU-14-0411,Flynn Pro Perfume 815,14,16,199.68,488.04,Active
+412,SKU-02-0412,Donaldson Premium Tablet 564,2,43,277.47,379.03,Active
+413,SKU-12-0413,Adams-Clayton Lite Chair 112,12,11,320.02,685.42,Active
+414,SKU-06-0414,Kelley-Anderson Compact Sweater 901,6,24,371.02,597.75,Active
+415,SKU-13-0415,Kramer-Shannon Eco Moisturizer 889,13,28,405.45,690.08,Active
+416,SKU-02-0416,Williams Eco Drone 742,2,24,39.3,72.56,Active
+417,SKU-14-0417,Smith-Noble Elite Massage Gun 476,14,37,75.0,167.1,Active
+418,SKU-02-0418,Alexander Smart Router 102,2,16,24.6,57.45,Discontinued
+419,SKU-06-0419,Harris-Barker Premium T-Shirt 283,6,36,419.37,976.71,Active
+420,SKU-12-0420,Khan Premium Cookware Set 429,12,21,115.48,277.04,Active
+421,SKU-02-0421,Baxter Elite Charger 222,2,12,228.41,544.15,Active
+422,SKU-09-0422,Pena Ultra Vacuum 170,9,50,395.26,924.61,Active
+423,SKU-06-0423,Watson Pro Sweater 567,6,37,8.55,13.17,Active
+424,SKU-12-0424,Williams Elite Cookware Set 575,12,50,168.88,416.5,Active
+425,SKU-12-0425,Barber-Fischer Compact Cookware Set 254,12,15,7.84,14.05,Active
+426,SKU-11-0426,Rios-Padilla Ultra Air Purifier 101,11,48,342.72,600.28,Active
+427,SKU-02-0427,Lewis Smart Router 343,2,10,191.82,470.62,Active
+428,SKU-02-0428,Wheeler Ultra Speaker 965,2,24,236.29,505.9,Active
+429,SKU-12-0429,"Wallace, Pro Sofa 197",12,26,229.92,474.71,Active
+430,SKU-10-0430,Mcneil Ultra Vacuum 778,10,17,434.08,687.64,Active
+431,SKU-15-0431,"Anderson, Premium Vitamin Pack 425",15,13,206.48,326.31,Active
+432,SKU-13-0432,"Shaffer, Elite Moisturizer 259",13,21,52.02,95.69,Active
+433,SKU-09-0433,Taylor-Ayala Classic Cookware Set 562,9,8,142.2,230.08,Active
+434,SKU-13-0434,May Eco Trimmer 141,13,10,100.68,234.37,Active
+435,SKU-04-0435,Jones Classic Camera 625,4,12,26.78,44.42,Discontinued
+436,SKU-07-0436,Bishop Ergonomic Sweater 866,7,7,249.8,353.13,Active
+437,SKU-03-0437,Bell-Lewis Pro Phone 163,3,9,374.52,928.47,Active
+438,SKU-07-0438,"Hernandez, Classic Sneakers 696",7,5,265.82,638.21,Discontinued
+439,SKU-02-0439,Miller Smart Watch 928,2,22,62.31,148.68,Active
+440,SKU-08-0440,Goodwin Ultra T-Shirt 687,8,32,197.75,428.98,Discontinued
+441,SKU-11-0441,"Cruz, Premium Lamp 462",11,18,100.55,153.3,Active
+442,SKU-03-0442,Wright Ultra Drone 734,3,32,279.55,580.55,Active
+443,SKU-09-0443,Wright Ergonomic Blender 189,9,13,129.5,189.68,Active
+444,SKU-13-0444,"Griffith, Compact Shampoo 745",13,2,447.37,873.44,Active
+445,SKU-13-0445,Abbott Classic Hair Dryer 657,13,37,352.74,604.19,Active
+446,SKU-07-0446,Harris-Lawson Eco T-Shirt 126,7,50,146.9,229.58,Active
+447,SKU-13-0447,Adkins Ergonomic Sunscreen 466,13,11,346.24,865.44,Active
+448,SKU-11-0448,"Brown, Smart Desk 646",11,4,368.25,884.06,Active
+449,SKU-04-0449,Cruz-Allen Elite Camera 463,4,12,421.17,1048.65,Active
+450,SKU-10-0450,"Wheeler, Classic Air Purifier 705",10,37,17.55,37.57,Active
+451,SKU-10-0451,Peck-Anderson Smart Rug 655,10,6,142.53,269.17,Active
+452,SKU-10-0452,"Fisher, Smart Blender 639",10,40,217.71,369.69,Active
+453,SKU-03-0453,Best-Townsend Classic Headphones 921,3,2,380.71,642.76,Active
+454,SKU-12-0454,Matthews Lite Chair 966,12,5,239.2,415.7,Active
+455,SKU-11-0455,Lewis-Livingston Premium Sofa 203,11,11,154.77,261.12,Active
+456,SKU-07-0456,Hunter-Fuller Ergonomic Dress 278,7,40,319.7,631.21,Active
+457,SKU-04-0457,"Wang, Elite Headphones 487",4,9,141.54,300.94,Active
+458,SKU-01-0458,"Herrera, Elite Camera 971",1,3,447.46,1099.96,Active
+459,SKU-06-0459,Miller-Mccall Elite Jeans 754,6,10,256.67,622.17,Active
+460,SKU-02-0460,Herrera Smart Charger 427,2,6,79.71,188.31,Active
+461,SKU-11-0461,"Walters, Classic Rug 111",11,5,123.02,196.76,Active
+462,SKU-13-0462,Collins Pro Serume 149,13,11,176.74,385.13,Active
+463,SKU-08-0463,"Ashley, Premium Dress 659",8,37,172.03,394.73,Active
+464,SKU-11-0464,Wilson-Salazar Smart Lamp 562,11,19,37.8,87.5,Discontinued
+465,SKU-05-0465,Parker Pro Sneakers 450,5,47,80.7,141.27,Active
+466,SKU-15-0466,"Yang, Pro Vitamin Pack 708",15,46,443.45,1051.81,Discontinued
+467,SKU-11-0467,"Smith, Lite Sofa 544",11,14,74.91,106.49,Active
+468,SKU-07-0468,"Logan, Compact Sweater 371",7,7,298.97,495.36,Discontinued
+469,SKU-10-0469,Brady Compact Rug 257,10,6,29.25,38.16,Active
+470,SKU-11-0470,"Tanner, Elite Rug 304",11,41,48.16,74.57,Active
+471,SKU-02-0471,Nelson-Brown Ergonomic Tablet 415,2,43,354.27,660.76,Active
+472,SKU-11-0472,"Proctor, Compact Vacuum 289",11,12,170.1,298.99,Active
+473,SKU-05-0473,"Ward, Ergonomic Shorts 369",5,4,105.68,171.44,Active
+474,SKU-12-0474,Moore-Ayala Pro Chair 784,12,49,157.99,308.04,Active
+475,SKU-09-0475,"Craig, Ultra Vacuum 938",9,44,237.55,584.08,Active
+476,SKU-08-0476,Williams Elite Jeans 587,8,46,137.99,244.76,Discontinued
+477,SKU-10-0477,Williams Compact Sofa 793,10,49,442.33,653.29,Active
+478,SKU-03-0478,Mora-White Smart Speaker 229,3,44,23.99,33.44,Active
+479,SKU-14-0479,Tran Lite Trimmer 364,14,5,147.29,319.99,Active
+480,SKU-09-0480,"Rios, Premium Coffee Maker 433",9,1,386.2,742.9,Active
+481,SKU-10-0481,"Flores, Elite Coffee Maker 900",10,10,191.72,344.58,Active
+482,SKU-10-0482,Shaw Pro Chair 676,10,35,351.9,789.27,Active
+483,SKU-15-0483,Walker Premium Perfume 492,15,31,296.38,588.74,Discontinued
+484,SKU-05-0484,Finley Premium T-Shirt 733,5,3,275.85,588.22,Active
+485,SKU-15-0485,Cline-Ayala Classic Shampoo 150,15,24,336.86,810.15,Discontinued
+486,SKU-14-0486,Murphy-Tran Eco Perfume 387,14,44,380.07,885.52,Active
+487,SKU-14-0487,Wood Smart Massage Gun 407,14,21,438.53,803.27,Active
+488,SKU-07-0488,"Mueller, Elite Sneakers 292",7,27,201.56,482.96,Active
+489,SKU-13-0489,Vargas-Snyder Compact Vitamin Pack 940,13,5,30.01,67.52,Active
+490,SKU-09-0490,Oconnor Premium Lamp 899,9,2,383.83,904.0,Active
+491,SKU-15-0491,Hernandez Smart Serume 355,15,24,19.72,26.83,Active
+492,SKU-05-0492,Hall Classic Shorts 617,5,44,181.64,437.33,Discontinued
+493,SKU-06-0493,"Franco, Ergonomic Coat 556",6,38,84.02,196.99,Active
+494,SKU-06-0494,Blake Lite Hoodie 866,6,2,374.74,527.81,Active
+495,SKU-03-0495,"Acosta, Elite Speaker 977",3,14,103.5,162.51,Active
+496,SKU-07-0496,Barnes Compact Jacket 985,7,1,352.24,782.36,Active
+497,SKU-03-0497,Dawson Lite Drone 920,3,20,8.77,14.06,Active
+498,SKU-12-0498,Morse Eco Vacuum 485,12,14,383.96,710.63,Active
+499,SKU-11-0499,Haynes-Watson Compact Sofa 506,11,43,265.1,346.97,Active
+500,SKU-14-0500,"Miller, Classic Sunscreen 762",14,44,269.23,441.33,Active
+501,SKU-02-0501,Jones-Bradley Classic Monitor 755,2,42,149.69,244.33,Active
+502,SKU-15-0502,Bates-Anderson Eco Shampoo 253,15,4,235.2,373.58,Active
+503,SKU-13-0503,Green-Edwards Elite Face Mask 776,13,2,147.22,216.11,Active
+504,SKU-05-0504,Haynes-Moss Eco Boots 514,5,46,177.78,238.65,Active
+505,SKU-14-0505,Chavez-Hall Smart Vitamin Pack 843,14,41,322.45,684.75,Active
+506,SKU-15-0506,Taylor Classic Sunscreen 407,15,36,381.21,880.12,Active
+507,SKU-02-0507,Moore Ergonomic Headphones 858,2,49,120.1,272.63,Active
+508,SKU-11-0508,Owens-Russell Classic Chair 327,11,20,163.1,357.69,Active
+509,SKU-15-0509,"Howard, Classic Vitamin Pack 366",15,8,265.58,493.05,Active
+510,SKU-14-0510,Baker-Wilson Elite Trimmer 735,14,33,36.69,86.86,Active
+511,SKU-11-0511,Aguirre Premium Coffee Maker 405,11,10,188.83,442.81,Active
+512,SKU-04-0512,"Terry, Classic Camera 683",4,10,402.32,999.35,Active
+513,SKU-12-0513,Hernandez-Dawson Lite Chair 599,12,21,153.02,380.1,Active
+514,SKU-01-0514,Foster-Williams Ergonomic Monitor 314,1,49,343.73,516.39,Active
+515,SKU-13-0515,Green-Ewing Pro Massage Gun 729,13,28,198.0,359.43,Active
+516,SKU-07-0516,Crane Ultra Jacket 646,7,1,93.74,163.83,Active
+517,SKU-13-0517,"Adkins, Compact Shampoo 118",13,16,306.15,628.23,Active
+518,SKU-15-0518,Martinez Classic Perfume 232,15,20,50.71,96.55,Active
+519,SKU-14-0519,Anderson Ultra Perfume 397,14,34,207.89,400.05,Active
+520,SKU-15-0520,Parks-Pace Lite Vitamin Pack 601,15,26,164.87,251.61,Discontinued
+521,SKU-04-0521,Aguilar Lite Speaker 851,4,8,14.75,28.11,Active
+522,SKU-11-0522,Johnson Ultra Vacuum 997,11,40,289.94,645.26,Discontinued
+523,SKU-01-0523,Orr Pro Phone 149,1,25,311.94,561.53,Active
+524,SKU-05-0524,Davis Ergonomic T-Shirt 310,5,20,314.36,646.44,Active
+525,SKU-02-0525,Williams Compact Monitor 737,2,7,274.51,402.05,Active
+526,SKU-10-0526,Jackson Pro Desk 216,10,39,354.22,672.06,Active
+527,SKU-05-0527,Underwood-Foster Compact Jeans 466,5,3,318.03,526.16,Active
+528,SKU-15-0528,Reyes Smart Hair Dryer 438,15,6,109.35,143.83,Active
+529,SKU-14-0529,Gomez Elite Hair Dryer 252,14,5,427.5,955.65,Active
+530,SKU-02-0530,Ramirez-Stephenson Eco Speaker 567,2,30,444.96,736.51,Active
+531,SKU-14-0531,Mendez Lite Serume 972,14,21,134.3,303.78,Active
+532,SKU-02-0532,Holland Pro Phone 109,2,11,384.14,805.17,Active
+533,SKU-15-0533,Andrade-Mendoza Ergonomic Trimmer 374,15,22,395.92,558.86,Active
+534,SKU-07-0534,Ramirez Premium Shorts 378,7,31,376.89,801.98,Active
+535,SKU-11-0535,Gonzalez-Wilkerson Lite Chair 235,11,11,314.8,431.39,Active
+536,SKU-15-0536,"Wright, Elite Hair Dryer 921",15,40,258.18,471.38,Active
+537,SKU-06-0537,Mayo Elite Jacket 983,6,9,309.59,713.99,Active
+538,SKU-08-0538,Castillo-Harrington Pro Boots 551,8,21,25.46,41.09,Discontinued
+539,SKU-14-0539,Durham-Shaw Compact Trimmer 841,14,43,256.43,634.27,Active
+540,SKU-09-0540,Nelson-Johnson Compact Sofa 197,9,31,197.62,429.23,Active
+541,SKU-11-0541,"Robinson, Premium Lamp 959",11,40,372.76,883.62,Active
+542,SKU-11-0542,Stokes Lite Coffee Maker 969,11,11,213.83,405.21,Active
+543,SKU-08-0543,"Howard, Classic Jeans 438",8,15,436.71,594.11,Active
+544,SKU-07-0544,Garcia Premium Jeans 180,7,29,209.3,473.33,Active
+545,SKU-08-0545,Adams Ergonomic Dress 221,8,2,441.4,968.56,Active
+546,SKU-07-0546,Gallagher Ultra Sweater 662,7,39,5.08,7.16,Active
+547,SKU-11-0547,"Bradford, Eco Coffee Maker 675",11,22,97.05,204.36,Active
+548,SKU-01-0548,Thompson Smart Watch 439,1,31,254.27,519.65,Active
+549,SKU-06-0549,Drake-Wolfe Ergonomic Sneakers 199,6,22,342.9,537.01,Active
+550,SKU-11-0550,"Johnson, Eco Coffee Maker 634",11,11,171.38,244.66,Active
+551,SKU-14-0551,"Thomas, Premium Moisturizer 360",14,26,276.83,422.18,Active
+552,SKU-14-0552,Weaver-Thompson Smart Vitamin Pack 210,14,41,341.93,463.59,Active
+553,SKU-10-0553,Davis Pro Rug 568,10,9,298.01,729.36,Active
+554,SKU-01-0554,"Robinson, Compact Phone 666",1,31,421.21,971.55,Active
+555,SKU-13-0555,"Harris, Lite Trimmer 277",13,25,330.07,479.94,Active
+556,SKU-10-0556,Brown-Hernandez Classic Coffee Maker 493,10,45,191.31,388.51,Active
+557,SKU-05-0557,"Stark, Premium Dress 401",5,27,206.52,301.53,Active
+558,SKU-15-0558,Yu-Brooks Compact Perfume 963,15,46,317.16,739.89,Active
+559,SKU-09-0559,"Foster, Smart Cookware Set 314",9,23,282.75,466.17,Active
+560,SKU-03-0560,Daugherty Lite Router 655,3,8,313.97,529.62,Active
+561,SKU-09-0561,Conner-Yu Ergonomic Sofa 684,9,44,424.49,913.57,Active
+562,SKU-14-0562,"Stewart, Compact Perfume 998",14,34,382.05,867.24,Active
+563,SKU-07-0563,"Buchanan, Lite Jacket 786",7,11,30.19,48.92,Active
+564,SKU-11-0564,Gray Eco Lamp 959,11,14,32.6,73.06,Active
+565,SKU-01-0565,"Phillips, Classic Watch 204",1,36,279.17,589.22,Active
+566,SKU-12-0566,"Fry, Compact Vacuum 343",12,45,232.36,524.25,Active
+567,SKU-11-0567,"Johnson, Ultra Vacuum 496",11,44,190.37,427.52,Active
+568,SKU-09-0568,"Walker, Ultra Blender 861",9,50,116.85,238.92,Active
+569,SKU-08-0569,Rivera Smart Dress 873,8,13,266.83,583.33,Active
+570,SKU-04-0570,Reed Eco Watch 281,4,12,442.64,614.99,Active
+571,SKU-02-0571,Fields Premium Phone 538,2,11,129.2,208.93,Active
+572,SKU-05-0572,"Santiago, Ultra Dress 577",5,10,320.81,476.65,Active
+573,SKU-10-0573,Baker Ultra Sofa 963,10,37,299.54,565.73,Active
+574,SKU-02-0574,"Jones, Classic Router 325",2,33,430.86,829.29,Active
+575,SKU-09-0575,Williams Compact Vacuum 194,9,43,160.48,378.75,Active
+576,SKU-06-0576,"Barnes, Eco Jeans 870",6,36,280.13,523.8,Active
+577,SKU-11-0577,Bell-Bennett Ultra Chair 784,11,42,158.97,252.51,Active
+578,SKU-10-0578,Kramer-Lane Smart Blender 798,10,8,399.12,701.51,Active
+579,SKU-09-0579,"Perez, Eco Blender 629",9,33,370.84,648.95,Active
+580,SKU-01-0580,Phillips Eco Speaker 428,1,11,233.68,569.68,Active
+581,SKU-13-0581,Lynn-Jones Compact Sunscreen 107,13,41,283.99,441.02,Active
+582,SKU-14-0582,Barron Premium Moisturizer 310,14,48,244.3,523.61,Active
+583,SKU-11-0583,"Jones, Pro Lamp 124",11,6,209.36,355.51,Active
+584,SKU-03-0584,Wheeler-Austin Eco Router 172,3,17,260.86,410.38,Active
+585,SKU-08-0585,Bush-Reynolds Premium Boots 423,8,35,12.52,26.39,Discontinued
+586,SKU-12-0586,"Martin, Elite Chair 874",12,5,336.95,456.44,Active
+587,SKU-09-0587,Rivera Pro Desk 905,9,19,310.22,629.09,Active
+588,SKU-08-0588,Terry-Bowen Premium Boots 941,8,35,299.02,558.8,Active
+589,SKU-12-0589,"Fernandez, Premium Coffee Maker 402",12,44,432.26,636.67,Active
+590,SKU-13-0590,Williams Classic Serume 666,13,3,394.27,579.44,Discontinued
+591,SKU-10-0591,"Larsen, Premium Coffee Maker 660",10,48,426.41,710.24,Active
+592,SKU-12-0592,Miller-Colon Classic Cookware Set 522,12,10,408.0,947.27,Active
+593,SKU-04-0593,"Greene, Elite Monitor 298",4,37,56.01,117.91,Active
+594,SKU-14-0594,Little Compact Hair Dryer 760,14,5,249.6,411.54,Active
+595,SKU-04-0595,Anthony-Parker Elite Watch 438,4,16,163.93,345.16,Active
+596,SKU-10-0596,Ruiz-Jacobson Pro Cookware Set 425,10,43,221.21,374.73,Active
+597,SKU-10-0597,Davis-Stephens Lite Sofa 680,10,28,167.2,280.83,Active
+598,SKU-06-0598,Watson Smart Jeans 829,6,24,334.22,609.4,Active
+599,SKU-12-0599,Lopez-Williams Classic Rug 573,12,32,203.18,453.03,Active
+600,SKU-03-0600,Marshall-Perez Elite Tablet 961,3,35,129.87,297.63,Active
+601,SKU-12-0601,Elliott-Hernandez Pro Chair 119,12,38,383.07,788.34,Active
+602,SKU-13-0602,"Contreras, Elite Shampoo 137",13,35,250.46,488.94,Active
+603,SKU-13-0603,"Gutierrez, Lite Vitamin Pack 501",13,47,104.37,232.39,Active
+604,SKU-03-0604,Randall Ergonomic Router 622,3,1,45.3,78.67,Active
+605,SKU-14-0605,Sheppard-Mcdaniel Elite Massage Gun 875,14,12,233.79,429.11,Active
+606,SKU-10-0606,Armstrong-Young Lite Rug 467,10,15,22.99,50.89,Active
+607,SKU-06-0607,Miller-Orr Smart Jacket 784,6,24,97.01,231.78,Active
+608,SKU-15-0608,"Johnson, Ergonomic Serume 140",15,46,441.36,745.41,Active
+609,SKU-11-0609,"Byrd, Eco Desk 692",11,42,247.24,372.99,Active
+610,SKU-10-0610,Thompson-Joyce Pro Coffee Maker 357,10,34,172.47,411.98,Active
+611,SKU-14-0611,Stokes Classic Hair Dryer 911,14,33,219.54,444.58,Active
+612,SKU-08-0612,Henderson Lite Jeans 178,8,10,233.97,383.0,Active
+613,SKU-06-0613,Harris-Carson Elite Sneakers 776,6,47,107.5,244.39,Active
+614,SKU-11-0614,Flowers Ergonomic Rug 315,11,27,267.9,556.35,Discontinued
+615,SKU-01-0615,Bartlett-Sloan Lite Drone 706,1,3,76.7,157.65,Active
+616,SKU-03-0616,Miller Ultra Headphones 364,3,26,415.49,797.73,Active
+617,SKU-10-0617,Arnold-Gates Ultra Desk 187,10,31,101.38,205.58,Active
+618,SKU-03-0618,"Ellis, Smart Camera 715",3,50,68.51,136.96,Active
+619,SKU-11-0619,"Matthews, Compact Desk 271",11,30,327.26,560.01,Active
+620,SKU-02-0620,Hernandez Smart Camera 494,2,34,63.83,84.25,Active
+621,SKU-09-0621,"Chang, Premium Lamp 720",9,40,47.85,89.53,Active
+622,SKU-15-0622,"Chan, Compact Sunscreen 870",15,9,57.29,107.63,Active
+623,SKU-09-0623,Humphrey-Baker Ultra Vacuum 634,9,45,192.2,451.63,Active
+624,SKU-04-0624,"Washington, Ergonomic Camera 458",4,49,267.13,584.93,Active
+625,SKU-10-0625,Powell-Montgomery Pro Vacuum 237,10,6,118.26,262.42,Active
+626,SKU-15-0626,"Steele, Compact Face Mask 363",15,1,89.11,191.67,Active
+627,SKU-02-0627,Vaughn-Williams Compact Phone 484,2,21,296.27,629.67,Active
+628,SKU-02-0628,Mccall-Prince Lite Camera 767,2,35,265.49,428.38,Active
+629,SKU-06-0629,Morgan Elite Hoodie 796,6,36,181.87,280.89,Active
+630,SKU-08-0630,Ramirez-Vasquez Lite Dress 672,8,20,251.94,404.25,Active
+631,SKU-13-0631,"Cohen, Premium Massage Gun 975",13,15,389.4,561.87,Active
+632,SKU-12-0632,Mccann-Ramos Lite Chair 319,12,36,231.21,518.67,Active
+633,SKU-11-0633,Adams-Butler Ultra Lamp 498,11,6,434.23,567.26,Active
+634,SKU-08-0634,"Davis, Elite Boots 190",8,6,33.52,52.5,Active
+635,SKU-12-0635,Figueroa-Malone Premium Vacuum 728,12,39,297.0,488.2,Active
+636,SKU-13-0636,Nicholson-Robertson Lite Hair Dryer 549,13,34,9.77,22.67,Active
+637,SKU-01-0637,Jones Elite Router 628,1,44,315.81,643.69,Discontinued
+638,SKU-04-0638,"Powell, Ultra Headphones 188",4,23,448.58,1002.85,Active
+639,SKU-07-0639,"Johnson, Elite Jeans 630",7,6,11.84,25.39,Active
+640,SKU-12-0640,Wright Compact Sofa 456,12,15,159.63,363.74,Active
+641,SKU-04-0641,Hull Ergonomic Camera 688,4,33,7.07,10.68,Active
+642,SKU-02-0642,Hill Compact Monitor 448,2,17,426.42,965.21,Active
+643,SKU-14-0643,"Sanders, Elite Perfume 810",14,31,202.03,354.06,Active
+644,SKU-13-0644,Watson Classic Hair Dryer 797,13,2,210.02,420.92,Active
+645,SKU-05-0645,Thompson-Harrell Pro Boots 748,5,45,355.95,556.87,Active
+646,SKU-06-0646,"Arnold, Premium Dress 628",6,17,243.37,521.05,Active
+647,SKU-02-0647,Curry-Barker Premium Charger 177,2,21,251.78,381.24,Active
+648,SKU-15-0648,Johnson-Williams Elite Perfume 287,15,13,426.47,904.0,Active
+649,SKU-04-0649,"Chan, Smart Speaker 993",4,16,123.11,193.9,Active
+650,SKU-06-0650,Byrd Lite Sneakers 222,6,43,414.48,874.96,Active
+651,SKU-01-0651,"Ortiz, Compact Phone 968",1,32,219.62,449.08,Active
+652,SKU-15-0652,"Smith, Elite Perfume 602",15,33,86.38,191.51,Active
+653,SKU-04-0653,"Owen, Elite Headphones 155",4,35,238.95,431.98,Discontinued
+654,SKU-06-0654,Marquez-Fletcher Premium T-Shirt 568,6,30,439.55,939.71,Active
+655,SKU-01-0655,Coleman-Bennett Ultra Speaker 488,1,40,263.55,445.54,Active
+656,SKU-03-0656,Stevens-Robinson Compact Monitor 342,3,22,124.89,306.01,Active
+657,SKU-08-0657,Byrd-Holloway Premium Jeans 529,8,26,316.82,553.41,Active
+658,SKU-03-0658,Silva-Smith Elite Headphones 689,3,47,310.28,706.52,Active
+659,SKU-04-0659,"Levy, Compact Camera 976",4,48,174.49,257.37,Active
+660,SKU-13-0660,"Lynch, Ultra Massage Gun 531",13,41,227.32,567.09,Active
+661,SKU-12-0661,Rogers Classic Rug 407,12,4,116.68,271.89,Active
+662,SKU-12-0662,"Nguyen, Lite Blender 320",12,41,367.15,687.25,Active
+663,SKU-12-0663,"Evans, Classic Desk 469",12,17,165.34,325.55,Active
+664,SKU-07-0664,Trujillo Pro Dress 988,7,37,307.42,623.05,Active
+665,SKU-11-0665,Guerrero-Becker Compact Lamp 899,11,33,131.65,222.5,Active
+666,SKU-12-0666,"Johnson, Ergonomic Chair 490",12,10,278.08,516.26,Active
+667,SKU-11-0667,Sullivan-Doyle Classic Vacuum 746,11,5,277.48,495.5,Active
+668,SKU-06-0668,"Erickson, Smart Dress 424",6,39,295.59,636.26,Active
+669,SKU-05-0669,"Reeves, Ergonomic Dress 865",5,27,266.18,654.44,Active
+670,SKU-14-0670,Knox-Powers Ultra Massage Gun 845,14,48,109.41,175.27,Active
+671,SKU-02-0671,"Evans, Smart Headphones 506",2,31,50.84,69.98,Active
+672,SKU-01-0672,"White, Premium Router 883",1,40,448.23,638.6,Active
+673,SKU-11-0673,Hardy-Hansen Premium Desk 334,11,41,115.09,188.86,Active
+674,SKU-09-0674,Arroyo Lite Blender 135,9,21,300.28,700.39,Active
+675,SKU-08-0675,"Davis, Compact Hoodie 661",8,45,202.96,499.98,Active
+676,SKU-10-0676,Fisher-Eaton Elite Rug 746,10,28,338.27,795.87,Active
+677,SKU-11-0677,Green-Carter Compact Desk 455,11,6,219.33,344.91,Active
+678,SKU-06-0678,Ruiz Premium Hoodie 259,6,49,140.09,182.13,Active
+679,SKU-06-0679,"Carpenter, Eco Shorts 647",6,49,8.7,20.94,Active
+680,SKU-01-0680,Mason Premium Monitor 711,1,24,107.89,141.19,Active
+681,SKU-15-0681,Moreno-Gutierrez Compact Face Mask 504,15,42,116.2,250.75,Active
+682,SKU-07-0682,Taylor Smart Hoodie 181,7,49,192.9,306.22,Active
+683,SKU-10-0683,Ortiz-Hudson Eco Desk 764,10,27,335.6,762.0,Active
+684,SKU-02-0684,Thomas-Huffman Lite Headphones 396,2,29,54.11,99.91,Active
+685,SKU-10-0685,Maxwell Ergonomic Cookware Set 428,10,35,13.63,18.53,Discontinued
+686,SKU-02-0686,Welch-Thompson Eco Monitor 228,2,15,323.26,702.29,Active
+687,SKU-01-0687,"Brown, Ergonomic Speaker 450",1,32,192.01,430.65,Active
+688,SKU-08-0688,Johnston Ultra Dress 182,8,4,380.38,928.88,Active
+689,SKU-07-0689,Glover-Chan Pro Sweater 581,7,17,85.81,203.78,Active
+690,SKU-14-0690,Mendez Ultra Moisturizer 886,14,29,323.03,569.1,Active
+691,SKU-01-0691,Powell-Sanford Smart Watch 852,1,14,348.09,670.2,Active
+692,SKU-11-0692,Smith-Ferguson Eco Air Purifier 262,11,36,284.98,384.9,Active
+693,SKU-05-0693,"Watson, Ergonomic Hoodie 303",5,43,165.39,225.34,Active
+694,SKU-02-0694,"Lee, Smart Camera 432",2,38,11.71,26.39,Active
+695,SKU-13-0695,Perez Smart Serume 143,13,45,263.58,561.14,Active
+696,SKU-06-0696,Anderson-Reyes Pro Jeans 261,6,22,227.46,482.93,Active
+697,SKU-13-0697,"Torres, Ultra Serume 464",13,7,291.84,625.0,Active
+698,SKU-04-0698,Bryant-Meyer Classic Router 907,4,29,291.87,501.08,Active
+699,SKU-01-0699,"Morgan, Premium Charger 841",1,32,64.96,154.5,Active
+700,SKU-09-0700,Ferrell-Henry Eco Coffee Maker 813,9,35,223.09,441.73,Active
+701,SKU-12-0701,Martin Ergonomic Desk 988,12,36,374.95,898.89,Active
+702,SKU-09-0702,Perez Lite Rug 402,9,30,369.64,720.77,Discontinued
+703,SKU-11-0703,Clark Compact Vacuum 851,11,24,87.56,115.79,Active
+704,SKU-04-0704,"Wagner, Classic Tablet 774",4,13,435.39,993.93,Active
+705,SKU-08-0705,Brooks Compact T-Shirt 727,8,21,130.99,234.7,Active
+706,SKU-09-0706,Wise-Dean Pro Blender 955,9,3,422.32,639.55,Active
+707,SKU-08-0707,"Vang, Smart Sneakers 132",8,43,259.1,596.85,Active
+708,SKU-10-0708,Williams Elite Desk 150,10,5,168.03,340.62,Discontinued
+709,SKU-15-0709,Wallace-Martinez Smart Hair Dryer 952,15,4,40.58,91.76,Active
+710,SKU-12-0710,Wells-Hernandez Premium Air Purifier 913,12,18,320.25,732.85,Active
+711,SKU-12-0711,"Jennings, Pro Desk 179",12,7,425.35,1043.26,Active
+712,SKU-04-0712,Bates Compact Camera 294,4,37,90.94,189.91,Active
+713,SKU-03-0713,"Obrien, Compact Router 525",3,37,337.02,748.03,Active
+714,SKU-08-0714,Hunt Premium Sneakers 270,8,33,357.65,700.98,Active
+715,SKU-03-0715,Campbell Compact Drone 553,3,36,420.42,1001.85,Active
+716,SKU-06-0716,Gonzalez-Gonzalez Classic Boots 882,6,21,286.79,657.15,Active
+717,SKU-10-0717,Decker-Dudley Compact Cookware Set 484,10,17,345.74,833.71,Active
+718,SKU-08-0718,Warner-Phillips Ergonomic Boots 100,8,39,328.21,813.81,Discontinued
+719,SKU-03-0719,Kelley Eco Phone 407,3,21,443.06,690.19,Discontinued
+720,SKU-14-0720,"Fitzpatrick, Eco Sunscreen 623",14,10,252.56,608.95,Active
+721,SKU-08-0721,"Davis, Classic T-Shirt 241",8,16,122.92,291.02,Active
+722,SKU-13-0722,Hernandez-Davis Eco Moisturizer 684,13,47,182.91,439.25,Active
+723,SKU-06-0723,"Jones, Ergonomic T-Shirt 599",6,37,372.44,792.37,Active
+724,SKU-02-0724,"Hall, Elite Monitor 138",2,6,330.2,657.61,Active
+725,SKU-15-0725,Williams-Li Classic Vitamin Pack 936,15,8,198.27,479.08,Active
+726,SKU-04-0726,Phelps Elite Phone 749,4,20,350.95,617.32,Active
+727,SKU-06-0727,"Edwards, Compact Coat 253",6,10,150.44,321.54,Active
+728,SKU-12-0728,Smith Premium Rug 870,12,15,269.83,514.21,Active
+729,SKU-13-0729,"Holland, Premium Massage Gun 235",13,48,154.59,289.24,Discontinued
+730,SKU-07-0730,"Adams, Eco Sneakers 508",7,9,228.31,508.81,Active
+731,SKU-08-0731,White-Morales Compact Jeans 599,8,36,180.92,359.23,Active
+732,SKU-12-0732,Nelson-Cruz Compact Cookware Set 348,12,21,36.88,82.32,Active
+733,SKU-10-0733,Marsh-Banks Pro Chair 787,10,13,189.04,328.61,Active
+734,SKU-10-0734,Wilson Ultra Desk 273,10,29,444.51,906.56,Active
+735,SKU-08-0735,"Brown, Ultra Jeans 304",8,47,309.98,461.0,Active
+736,SKU-02-0736,Pruitt-Webb Ultra Speaker 735,2,19,417.39,977.74,Discontinued
+737,SKU-12-0737,"Gregory, Pro Desk 560",12,48,214.68,364.58,Active
+738,SKU-04-0738,Carr-Huffman Compact Router 868,4,47,120.1,225.74,Active
+739,SKU-12-0739,"Mcpherson, Ultra Vacuum 696",12,17,408.19,788.69,Active
+740,SKU-05-0740,Clay Smart Coat 377,5,1,28.62,59.69,Active
+741,SKU-11-0741,Brown Eco Air Purifier 985,11,42,53.01,87.52,Active
+742,SKU-07-0742,Smith-Oneill Compact Sneakers 423,7,6,220.67,444.99,Active
+743,SKU-09-0743,"Saunders, Ergonomic Coffee Maker 829",9,34,14.56,23.25,Active
+744,SKU-08-0744,"Marks, Premium T-Shirt 118",8,41,159.32,274.4,Active
+745,SKU-09-0745,"Davis, Eco Blender 740",9,2,119.67,211.17,Active
+746,SKU-05-0746,Alvarado-Davidson Smart T-Shirt 449,5,6,404.24,844.18,Active
+747,SKU-09-0747,Combs Elite Cookware Set 527,9,20,111.96,166.07,Active
+748,SKU-06-0748,"Brown, Ergonomic Sweater 234",6,35,97.01,142.24,Active
+749,SKU-04-0749,Christian-Booth Lite Monitor 805,4,9,318.79,614.81,Active
+750,SKU-15-0750,Walton Lite Trimmer 261,15,47,146.29,288.02,Active
+751,SKU-06-0751,Rivera Lite Jacket 883,6,27,146.82,362.27,Active
+752,SKU-12-0752,Hunter Eco Lamp 897,12,2,88.63,129.21,Active
+753,SKU-10-0753,"Gray, Elite Desk 720",10,15,257.33,405.83,Active
+754,SKU-01-0754,Solis-West Classic Tablet 804,1,39,352.02,514.27,Active
+755,SKU-11-0755,West-Wilson Classic Lamp 972,11,11,177.42,331.53,Active
+756,SKU-01-0756,Mcgee-Smith Premium Phone 376,1,43,427.84,670.45,Active
+757,SKU-13-0757,Gutierrez-Hawkins Smart Moisturizer 281,13,40,417.56,1036.7,Active
+758,SKU-06-0758,Petersen Ergonomic Jeans 537,6,48,185.17,250.01,Active
+759,SKU-12-0759,"Walsh, Classic Vacuum 726",12,35,422.92,840.06,Active
+760,SKU-15-0760,"Powers, Ultra Sunscreen 211",15,3,205.97,472.17,Active
+761,SKU-04-0761,Velasquez Compact Router 505,4,25,442.8,596.5,Active
+762,SKU-11-0762,Castro-Harvey Ultra Cookware Set 398,11,50,200.6,473.67,Active
+763,SKU-08-0763,Moran-Cox Lite Boots 401,8,34,277.84,379.38,Active
+764,SKU-08-0764,Wilson-Malone Ergonomic Sneakers 839,8,38,227.79,345.27,Active
+765,SKU-12-0765,Smith Compact Lamp 502,12,12,189.03,348.02,Active
+766,SKU-15-0766,"Brandt, Smart Hair Dryer 192",15,46,116.29,247.7,Active
+767,SKU-12-0767,"Rodriguez, Pro Chair 216",12,6,319.27,657.98,Active
+768,SKU-07-0768,"Newton, Compact Coat 263",7,50,173.51,304.81,Active
+769,SKU-06-0769,Lopez Elite T-Shirt 266,6,46,391.62,593.16,Active
+770,SKU-05-0770,Bryant Eco Shorts 395,5,9,283.77,408.93,Active
+771,SKU-01-0771,"Morgan, Elite Monitor 112",1,35,209.1,486.47,Active
+772,SKU-10-0772,"Monroe, Ergonomic Cookware Set 322",10,27,267.04,499.59,Active
+773,SKU-10-0773,Ellis-Lawrence Elite Blender 350,10,41,397.56,649.51,Active
+774,SKU-14-0774,"Taylor, Smart Serume 289",14,3,70.97,147.9,Active
+775,SKU-01-0775,Tran Elite Drone 405,1,7,152.34,214.07,Active
+776,SKU-03-0776,"Webb, Lite Monitor 725",3,37,299.11,640.04,Active
+777,SKU-03-0777,Holt Ergonomic Drone 468,3,20,419.51,592.24,Active
+778,SKU-15-0778,"Ochoa, Premium Moisturizer 876",15,19,195.16,382.62,Active
+779,SKU-02-0779,"Andrade, Eco Charger 639",2,14,189.12,293.48,Active
+780,SKU-02-0780,"Moon, Elite Router 189",2,46,220.23,468.29,Active
+781,SKU-10-0781,Waller-Chavez Classic Desk 638,10,9,260.94,534.38,Active
+782,SKU-08-0782,Taylor Compact Shorts 604,8,15,364.55,860.48,Active
+783,SKU-04-0783,"Tanner, Ultra Tablet 124",4,48,211.87,478.0,Active
+784,SKU-13-0784,"Valencia, Elite Face Mask 523",13,41,25.24,43.4,Active
+785,SKU-11-0785,"Robinson, Smart Desk 360",11,33,356.64,595.35,Active
+786,SKU-13-0786,"Reed, Ultra Moisturizer 802",13,37,153.31,272.16,Active
+787,SKU-01-0787,"Hester, Lite Speaker 438",1,31,376.05,905.05,Active
+788,SKU-13-0788,"Morris, Ultra Massage Gun 593",13,35,74.15,137.38,Active
+789,SKU-08-0789,Aguilar-Bender Premium Jacket 955,8,44,236.88,468.53,Active
+790,SKU-09-0790,"Butler, Ultra Cookware Set 691",9,23,310.04,700.52,Active
+791,SKU-03-0791,Rich-Henderson Eco Phone 447,3,11,442.71,908.36,Active
+792,SKU-07-0792,Mills Lite Coat 219,7,46,389.74,858.15,Active
+793,SKU-12-0793,Thomas-Santiago Ultra Desk 523,12,24,43.63,102.64,Active
+794,SKU-05-0794,Adams Smart Sweater 409,5,3,82.88,144.96,Active
+795,SKU-15-0795,Vega-Thomas Pro Hair Dryer 618,15,33,16.1,30.26,Active
+796,SKU-06-0796,Vaughn Ergonomic Sweater 417,6,7,350.11,515.35,Active
+797,SKU-09-0797,Molina Lite Cookware Set 841,9,34,21.27,37.54,Active
+798,SKU-05-0798,Cervantes-Garcia Ultra Coat 992,5,3,43.75,81.39,Active
+799,SKU-13-0799,"Stevenson, Eco Serume 691",13,14,342.53,707.88,Active
+800,SKU-04-0800,"Price, Eco Monitor 645",4,8,147.02,268.95,Active
+801,SKU-03-0801,"Roberts, Eco Tablet 115",3,7,431.44,850.61,Active
+802,SKU-06-0802,Butler-French Compact Dress 377,6,19,67.99,145.85,Active
+803,SKU-03-0803,"Edwards, Pro Monitor 727",3,4,402.05,783.47,Active
+804,SKU-08-0804,Harris-Melton Ultra Sneakers 492,8,12,28.94,52.43,Active
+805,SKU-15-0805,Greer-Pruitt Elite Hair Dryer 731,15,13,163.25,277.33,Active
+806,SKU-11-0806,"Mckinney, Compact Chair 873",11,6,345.17,683.9,Active
+807,SKU-15-0807,"Morrison, Ergonomic Moisturizer 566",15,50,143.12,296.73,Active
+808,SKU-04-0808,Cole-Lucero Smart Headphones 981,4,24,403.59,649.64,Active
+809,SKU-12-0809,Lopez Classic Air Purifier 564,12,8,221.94,305.93,Active
+810,SKU-08-0810,"Palmer, Lite Hoodie 886",8,33,160.13,318.6,Active
+811,SKU-14-0811,"Baker, Pro Vitamin Pack 669",14,35,294.01,661.79,Active
+812,SKU-10-0812,Rivera Premium Cookware Set 735,10,31,113.44,169.12,Active
+813,SKU-06-0813,Williams Smart Coat 541,6,22,354.02,645.17,Active
+814,SKU-04-0814,"Williams, Lite Tablet 857",4,32,419.23,833.86,Active
+815,SKU-10-0815,"Turner, Ergonomic Air Purifier 668",10,20,48.46,88.89,Active
+816,SKU-02-0816,Bowers Elite Tablet 801,2,25,367.26,817.38,Active
+817,SKU-11-0817,"Robinson, Ultra Chair 322",11,49,368.58,871.59,Active
+818,SKU-01-0818,"Moore, Lite Headphones 563",1,37,241.41,426.81,Active
+819,SKU-04-0819,Walker-Lewis Classic Monitor 683,4,28,358.48,758.35,Active
+820,SKU-15-0820,Rivera-Carter Classic Moisturizer 696,15,26,8.61,21.38,Active
+821,SKU-14-0821,"Moreno, Eco Serume 478",14,1,405.98,999.31,Active
+822,SKU-14-0822,"Smith, Classic Moisturizer 981",14,28,130.58,174.64,Active
+823,SKU-07-0823,"Austin, Classic Boots 515",7,43,174.8,341.58,Active
+824,SKU-03-0824,"Blackwell, Smart Router 493",3,27,380.28,658.78,Active
+825,SKU-14-0825,Cruz Lite Massage Gun 111,14,47,36.93,48.71,Active
+826,SKU-11-0826,"Campbell, Premium Lamp 186",11,30,66.06,149.77,Active
+827,SKU-12-0827,Robertson-Hicks Elite Vacuum 738,12,36,85.01,162.48,Active
+828,SKU-07-0828,Williams-Villanueva Classic Jeans 290,7,32,194.02,253.96,Active
+829,SKU-04-0829,Flores Compact Monitor 520,4,3,417.32,831.14,Active
+830,SKU-10-0830,Jackson Ergonomic Air Purifier 215,10,6,263.22,645.96,Active
+831,SKU-12-0831,"Smith, Compact Desk 576",12,40,235.04,453.16,Active
+832,SKU-08-0832,Hancock Pro Sweater 917,8,22,262.93,535.23,Active
+833,SKU-01-0833,Harris Ergonomic Watch 624,1,22,408.19,811.79,Active
+834,SKU-13-0834,"Rowe, Eco Perfume 271",13,48,20.72,49.88,Active
+835,SKU-13-0835,"Parks, Elite Perfume 162",13,37,285.04,568.3,Active
+836,SKU-05-0836,Miller Elite Jacket 393,5,5,220.72,320.53,Active
+837,SKU-05-0837,Bauer Eco T-Shirt 730,5,1,130.03,302.9,Active
+838,SKU-10-0838,Andrews Lite Sofa 856,10,12,72.26,132.67,Active
+839,SKU-12-0839,Russell-Hayes Smart Rug 285,12,22,360.72,842.07,Active
+840,SKU-03-0840,Hamilton-Smith Elite Headphones 957,3,50,225.7,562.51,Active
+841,SKU-11-0841,"Wilson, Ergonomic Lamp 315",11,4,262.1,605.5,Active
+842,SKU-13-0842,Avila Pro Serume 271,13,31,211.49,395.8,Active
+843,SKU-13-0843,Haynes Compact Shampoo 488,13,17,309.16,546.62,Active
+844,SKU-14-0844,Reilly-Rodriguez Premium Serume 395,14,44,417.61,767.81,Active
+845,SKU-09-0845,"Turner, Ultra Chair 644",9,28,288.65,706.45,Active
+846,SKU-11-0846,James-Short Eco Air Purifier 376,11,42,123.85,175.61,Active
+847,SKU-08-0847,Wells Smart Coat 888,8,45,91.74,156.41,Active
+848,SKU-06-0848,Taylor Compact Jacket 788,6,27,8.77,12.12,Active
+849,SKU-02-0849,"Phillips, Ergonomic Charger 324",2,3,327.74,525.13,Discontinued
+850,SKU-02-0850,"Wong, Ultra Drone 772",2,39,402.82,628.48,Active
+851,SKU-12-0851,"Thomas, Pro Chair 976",12,49,274.09,479.97,Active
+852,SKU-10-0852,Medina-Arroyo Lite Chair 812,10,43,87.0,143.85,Active
+853,SKU-11-0853,Clark-Figueroa Ergonomic Desk 887,11,50,195.01,464.92,Active
+854,SKU-05-0854,"Cooper, Lite Sneakers 383",5,22,350.81,617.2,Active
+855,SKU-05-0855,"Thomas, Eco T-Shirt 551",5,13,35.88,88.81,Active
+856,SKU-03-0856,Lee-White Ergonomic Tablet 247,3,40,245.58,446.34,Active
+857,SKU-15-0857,"Phelps, Ergonomic Perfume 205",15,47,20.51,28.4,Active
+858,SKU-08-0858,"Murray, Ultra Shorts 252",8,3,295.53,384.5,Active
+859,SKU-05-0859,King Lite Dress 500,5,50,260.71,500.16,Active
+860,SKU-07-0860,"Carpenter, Premium Sneakers 653",7,45,105.5,185.82,Active
+861,SKU-08-0861,"Rios, Pro Coat 648",8,44,421.09,728.78,Active
+862,SKU-01-0862,Stewart Pro Charger 647,1,30,384.74,657.16,Active
+863,SKU-05-0863,Jensen-Torres Smart T-Shirt 667,5,13,22.5,39.62,Active
+864,SKU-07-0864,"Hernandez, Pro Dress 598",7,48,42.76,88.06,Active
+865,SKU-01-0865,Jackson-Edwards Smart Phone 837,1,25,448.39,711.23,Active
+866,SKU-09-0866,Joseph Eco Rug 646,9,2,434.4,987.88,Discontinued
+867,SKU-01-0867,Hill-Ward Classic Phone 515,1,43,57.59,130.64,Active
+868,SKU-11-0868,"Quinn, Compact Lamp 858",11,3,262.81,633.31,Active
+869,SKU-08-0869,Hampton-Tucker Ultra Shorts 733,8,9,25.38,54.35,Discontinued
+870,SKU-11-0870,Thompson Ultra Desk 940,11,11,358.2,661.75,Active
+871,SKU-02-0871,Wilkinson Pro Tablet 609,2,5,269.76,549.97,Active
+872,SKU-07-0872,"Gonzalez, Classic Boots 432",7,35,58.76,124.62,Active
+873,SKU-14-0873,"Jones, Smart Serume 707",14,18,82.18,113.07,Active
+874,SKU-07-0874,Hess Lite Dress 666,7,38,78.43,124.89,Discontinued
+875,SKU-02-0875,Hammond-Lewis Elite Camera 896,2,6,75.2,177.14,Discontinued
+876,SKU-03-0876,Arnold Pro Drone 390,3,50,190.22,431.59,Active
+877,SKU-03-0877,"Kennedy, Smart Headphones 755",3,16,125.57,231.11,Active
+878,SKU-10-0878,Vance Ultra Sofa 284,10,6,324.15,659.47,Active
+879,SKU-13-0879,"Vincent, Eco Vitamin Pack 528",13,8,7.03,11.13,Active
+880,SKU-02-0880,Sanders Elite Charger 983,2,15,343.7,669.41,Active
+881,SKU-11-0881,Bates Smart Desk 154,11,44,91.2,205.74,Active
+882,SKU-15-0882,"Martin, Ergonomic Hair Dryer 280",15,4,76.09,183.16,Active
+883,SKU-05-0883,Knight Smart Boots 357,5,49,153.76,348.45,Active
+884,SKU-02-0884,"Brennan, Ultra Router 280",2,33,75.33,100.56,Active
+885,SKU-15-0885,Williams-Juarez Smart Hair Dryer 706,15,48,262.99,474.14,Active
+886,SKU-06-0886,Brown Smart Sneakers 433,6,27,106.36,168.53,Active
+887,SKU-07-0887,Williams Smart Sneakers 582,7,28,265.37,362.29,Active
+888,SKU-15-0888,"Velez, Elite Hair Dryer 282",15,47,177.36,259.6,Active
+889,SKU-06-0889,Keith-Williams Eco Jeans 443,6,4,61.61,131.27,Active
+890,SKU-02-0890,"Nguyen, Ergonomic Watch 528",2,19,81.18,139.0,Active
+891,SKU-13-0891,Davenport-Baker Elite Massage Gun 691,13,6,436.71,1015.79,Active
+892,SKU-09-0892,"Hudson, Ergonomic Cookware Set 705",9,1,215.7,400.19,Active
+893,SKU-12-0893,"Valdez, Smart Cookware Set 435",12,38,198.24,310.62,Active
+894,SKU-15-0894,Kaufman-Walker Elite Serume 527,15,31,441.18,594.74,Active
+895,SKU-09-0895,Gomez-Parrish Ultra Vacuum 643,9,45,180.47,409.97,Active
+896,SKU-08-0896,Sparks-Eaton Ergonomic Jeans 185,8,47,253.53,333.37,Active
+897,SKU-04-0897,Shaw Lite Charger 402,4,2,111.38,278.31,Active
+898,SKU-05-0898,Martin-Jones Lite Shorts 978,5,30,258.82,517.74,Active
+899,SKU-03-0899,"Campbell, Premium Headphones 908",3,46,392.84,806.18,Active
+900,SKU-14-0900,"Love, Pro Face Mask 807",14,28,153.14,205.09,Active
+901,SKU-12-0901,Cortez-Olson Elite Coffee Maker 689,12,6,358.54,805.0,Active
+902,SKU-06-0902,Mendoza-Garza Ultra Sweater 790,6,25,166.98,227.41,Active
+903,SKU-10-0903,"Whitaker, Ultra Air Purifier 475",10,5,82.99,163.54,Active
+904,SKU-13-0904,"Vargas, Smart Massage Gun 442",13,31,111.19,159.7,Active
+905,SKU-13-0905,"Thomas, Elite Shampoo 871",13,23,336.53,528.53,Active
+906,SKU-09-0906,"Mullen, Premium Desk 155",9,32,33.2,56.91,Active
+907,SKU-14-0907,Johns Pro Hair Dryer 826,14,19,241.7,553.6,Active
+908,SKU-06-0908,"Nicholson, Pro Jeans 568",6,12,43.85,77.56,Active
+909,SKU-02-0909,"Haney, Pro Headphones 382",2,10,54.85,81.04,Active
+910,SKU-09-0910,Burke-Norton Ultra Desk 526,9,9,436.46,850.98,Active
+911,SKU-07-0911,Hanson Ergonomic Jacket 398,7,15,89.13,118.23,Active
+912,SKU-09-0912,Jackson-Jennings Classic Vacuum 692,9,21,157.54,326.94,Active
+913,SKU-11-0913,Carlson-Jones Compact Coffee Maker 555,11,20,208.81,413.59,Active
+914,SKU-05-0914,Cruz-Rodriguez Smart Shorts 480,5,4,436.97,971.69,Active
+915,SKU-05-0915,Mills Ergonomic T-Shirt 733,5,19,416.24,896.65,Active
+916,SKU-03-0916,"Barnes, Lite Headphones 343",3,37,57.03,142.15,Active
+917,SKU-05-0917,Valenzuela-Greene Classic T-Shirt 310,5,21,255.31,342.53,Active
+918,SKU-03-0918,"Gordon, Classic Watch 652",3,8,439.08,851.98,Active
+919,SKU-07-0919,Winters Ergonomic T-Shirt 569,7,48,417.88,621.5,Active
+920,SKU-09-0920,Prince Classic Desk 585,9,49,403.71,994.55,Active
+921,SKU-10-0921,"Reynolds, Lite Sofa 846",10,45,408.56,747.88,Active
+922,SKU-08-0922,"Moreno, Ultra T-Shirt 794",8,26,250.18,417.73,Active
+923,SKU-04-0923,Bell-Ballard Ergonomic Charger 194,4,13,150.23,304.93,Active
+924,SKU-04-0924,"Johnston, Eco Speaker 123",4,44,42.2,97.88,Active
+925,SKU-02-0925,Kent Compact Camera 299,2,33,223.26,451.83,Active
+926,SKU-15-0926,George-Stephens Classic Face Mask 251,15,25,323.6,586.74,Active
+927,SKU-05-0927,Lopez-Fletcher Classic Dress 415,5,6,440.0,1033.63,Active
+928,SKU-15-0928,Lane Ergonomic Face Mask 922,15,47,201.91,302.17,Active
+929,SKU-07-0929,"Smith, Premium T-Shirt 955",7,14,266.3,373.7,Active
+930,SKU-14-0930,Ortiz-Rodriguez Compact Vitamin Pack 167,14,25,420.25,844.2,Active
+931,SKU-07-0931,Pearson-King Eco Boots 279,7,49,252.34,543.11,Active
+932,SKU-04-0932,"Henderson, Lite Camera 396",4,20,251.47,339.66,Active
+933,SKU-05-0933,"Sanders, Ergonomic Sweater 857",5,1,211.24,281.42,Active
+934,SKU-05-0934,"Olson, Ergonomic Sneakers 769",5,12,301.33,495.76,Active
+935,SKU-12-0935,Hinton-Lane Smart Blender 222,12,5,345.3,653.19,Active
+936,SKU-06-0936,"Sanders, Elite Shorts 679",6,44,199.05,320.37,Active
+937,SKU-12-0937,Adkins Pro Air Purifier 624,12,17,331.17,437.49,Active
+938,SKU-01-0938,"Avery, Lite Charger 572",1,11,395.85,578.97,Active
+939,SKU-06-0939,Owen-Mendez Premium Dress 149,6,5,133.99,259.34,Active
+940,SKU-13-0940,"Mann, Lite Moisturizer 713",13,21,339.92,663.68,Active
+941,SKU-11-0941,Brock Eco Desk 801,11,35,315.6,547.57,Active
+942,SKU-14-0942,Frost-Graham Lite Serume 240,14,32,235.59,411.72,Active
+943,SKU-15-0943,Baker Lite Moisturizer 323,15,13,73.78,115.49,Active
+944,SKU-09-0944,Lynch Elite Coffee Maker 966,9,49,241.78,474.21,Active
+945,SKU-07-0945,Arias-Morales Ergonomic Sneakers 219,7,31,369.39,889.52,Active
+946,SKU-12-0946,"Meyer, Classic Lamp 936",12,34,201.66,501.14,Active
+947,SKU-06-0947,Bowman Lite Hoodie 129,6,9,336.28,485.02,Active
+948,SKU-03-0948,Harris Smart Monitor 228,3,28,98.38,243.72,Active
+949,SKU-13-0949,"Mitchell, Pro Moisturizer 119",13,3,349.74,772.51,Active
+950,SKU-01-0950,"Hale, Compact Drone 160",1,3,213.74,510.89,Active
+951,SKU-11-0951,Allen-Smith Ultra Chair 901,11,38,60.09,121.51,Active
+952,SKU-03-0952,Miller Classic Phone 192,3,18,69.77,153.18,Active
+953,SKU-06-0953,Gomez-Foster Classic T-Shirt 975,6,16,227.78,495.25,Active
+954,SKU-02-0954,"Gonzalez, Pro Drone 881",2,13,11.22,17.51,Active
+955,SKU-03-0955,Dunn Compact Phone 842,3,33,48.92,76.16,Active
+956,SKU-08-0956,"Herman, Classic Coat 289",8,12,200.65,491.45,Active
+957,SKU-07-0957,Perez-Mccarty Premium Jeans 626,7,21,106.26,152.53,Active
+958,SKU-02-0958,Spears-Andrews Compact Headphones 607,2,36,344.21,738.56,Active
+959,SKU-02-0959,Thompson-Hunter Classic Watch 218,2,48,176.23,325.73,Active
+960,SKU-14-0960,"Jones, Ergonomic Shampoo 667",14,28,186.24,462.24,Active
+961,SKU-02-0961,"Frye, Ergonomic Charger 283",2,44,10.69,22.55,Active
+962,SKU-08-0962,"Wright, Compact Sneakers 222",8,38,68.8,122.52,Active
+963,SKU-12-0963,Carrillo-Todd Lite Chair 472,12,39,438.97,749.04,Active
+964,SKU-07-0964,Maldonado-Mosley Pro Jeans 958,7,49,193.99,368.37,Active
+965,SKU-10-0965,Olson Elite Desk 874,10,26,356.32,738.51,Active
+966,SKU-11-0966,Reyes Elite Vacuum 596,11,30,232.58,343.49,Active
+967,SKU-05-0967,"Haynes, Ergonomic Shorts 336",5,7,284.63,416.0,Active
+968,SKU-14-0968,Black-Smith Pro Hair Dryer 794,14,39,16.9,25.6,Active
+969,SKU-03-0969,Wright-Davis Eco Drone 738,3,49,47.87,66.63,Active
+970,SKU-08-0970,"Goodman, Ergonomic Jeans 400",8,17,299.63,565.79,Active
+971,SKU-13-0971,Woods Compact Sunscreen 118,13,28,428.9,573.83,Active
+972,SKU-02-0972,Shannon Premium Watch 422,2,3,384.53,704.1,Discontinued
+973,SKU-09-0973,Valentine Eco Lamp 603,9,25,196.65,329.38,Active
+974,SKU-02-0974,Porter Elite Watch 775,2,31,251.43,489.6,Active
+975,SKU-14-0975,Moss Lite Sunscreen 157,14,25,179.17,339.28,Active
+976,SKU-06-0976,Perez Eco Dress 162,6,24,17.53,23.74,Active
+977,SKU-12-0977,"Kelly, Elite Blender 883",12,7,401.65,686.62,Active
+978,SKU-06-0978,Lowe Premium Dress 157,6,42,299.25,477.94,Active
+979,SKU-02-0979,Austin-Duran Pro Monitor 217,2,21,155.23,205.47,Discontinued
+980,SKU-11-0980,"Rubio, Premium Sofa 627",11,45,406.13,657.91,Active
+981,SKU-01-0981,Vasquez-Galloway Classic Camera 684,1,32,178.68,355.05,Active
+982,SKU-11-0982,"Melton, Smart Air Purifier 608",11,22,228.73,507.3,Active
+983,SKU-05-0983,"Ramirez, Classic Boots 306",5,5,226.14,523.92,Active
+984,SKU-09-0984,Fox Smart Desk 371,9,26,26.15,65.26,Active
+985,SKU-10-0985,Ayers-Johnson Pro Sofa 197,10,37,268.38,436.93,Active
+986,SKU-08-0986,Long-Parks Premium Jeans 455,8,20,359.07,747.53,Active
+987,SKU-05-0987,Bryant Premium Sweater 420,5,40,94.03,167.63,Active
+988,SKU-11-0988,"Holmes, Compact Lamp 119",11,12,284.39,545.88,Active
+989,SKU-04-0989,"Clark, Ergonomic Monitor 753",4,50,242.06,493.15,Active
+990,SKU-15-0990,"Hensley, Elite Serume 634",15,16,94.29,174.91,Active
+991,SKU-11-0991,Ruiz-Austin Eco Vacuum 520,11,5,146.8,337.09,Active
+992,SKU-14-0992,White-Coleman Premium Perfume 943,14,44,132.73,198.13,Active
+993,SKU-07-0993,Haynes-Watson Smart Sneakers 253,7,20,90.4,144.16,Active
+994,SKU-09-0994,Ramirez-White Premium Vacuum 762,9,18,408.02,629.33,Active
+995,SKU-05-0995,Krause Eco Sweater 280,5,47,291.71,394.01,Active
+996,SKU-01-0996,Olsen Ultra Tablet 421,1,27,272.71,638.31,Active
+997,SKU-11-0997,Brock-Peters Pro Vacuum 959,11,8,327.28,480.67,Active
+998,SKU-09-0998,Gonzalez-Marsh Pro Coffee Maker 780,9,34,373.9,912.17,Active
+999,SKU-15-0999,"Hernandez, Pro Shampoo 714",15,22,59.41,134.74,Active
+1000,SKU-12-1000,Taylor-Barry Premium Cookware Set 533,12,14,102.01,145.69,Active
+1001,SKU-08-1001,"Holmes, Premium Hoodie 983",8,24,267.32,504.82,Active
+1002,SKU-02-1002,King-Garrison Classic Router 533,2,18,216.31,345.15,Active
+1003,SKU-15-1003,Ross Lite Vitamin Pack 586,15,2,323.47,739.34,Active
+1004,SKU-15-1004,Brown Elite Serume 961,15,4,334.06,754.55,Active
+1005,SKU-13-1005,Combs-Davis Smart Perfume 665,13,45,176.19,364.14,Active
+1006,SKU-13-1006,"Cook, Pro Sunscreen 987",13,1,110.19,201.75,Active
+1007,SKU-07-1007,Cooper-Jenkins Eco Hoodie 192,7,20,421.66,931.03,Active
+1008,SKU-15-1008,Dillon-Mccarty Lite Hair Dryer 746,15,42,146.15,332.45,Active
+1009,SKU-01-1009,Ray Eco Tablet 942,1,48,351.86,665.03,Active
+1010,SKU-14-1010,"Ryan, Classic Face Mask 997",14,11,413.75,587.72,Active
+1011,SKU-09-1011,Nunez-Freeman Pro Air Purifier 530,9,48,272.94,621.24,Active
+1012,SKU-12-1012,"Griffin, Ultra Blender 756",12,42,290.51,597.34,Active
+1013,SKU-07-1013,Welch-Thomas Smart Hoodie 421,7,16,261.24,374.36,Active
+1014,SKU-13-1014,Davidson Lite Trimmer 802,13,29,187.59,455.34,Active
+1015,SKU-12-1015,Welch-Duncan Lite Desk 277,12,19,310.92,712.67,Active
+1016,SKU-07-1016,Miller Classic T-Shirt 502,7,37,394.99,961.29,Active
+1017,SKU-01-1017,Edwards Compact Drone 741,1,30,106.77,150.2,Active
+1018,SKU-12-1018,Page-Jacobs Lite Blender 510,12,10,280.01,565.75,Active
+1019,SKU-06-1019,Nelson-Wallace Lite Coat 220,6,50,11.28,21.78,Active
+1020,SKU-08-1020,Adkins-Meyer Ergonomic Sneakers 329,8,18,322.54,493.05,Active
+1021,SKU-08-1021,Gutierrez-White Premium T-Shirt 541,8,19,386.07,779.9,Active
+1022,SKU-04-1022,Martinez Premium Headphones 518,4,17,357.65,477.29,Active
+1023,SKU-08-1023,"King, Smart Dress 696",8,1,309.5,572.51,Active
+1024,SKU-14-1024,Jackson Classic Face Mask 803,14,28,99.44,175.03,Active
+1025,SKU-05-1025,Brown Pro Sneakers 670,5,16,31.14,52.92,Active
+1026,SKU-06-1026,"Brown, Elite Coat 826",6,17,337.97,457.82,Active
+1027,SKU-07-1027,Garcia Eco Boots 787,7,36,170.05,418.61,Discontinued
+1028,SKU-03-1028,Miller Eco Headphones 615,3,30,224.31,382.9,Active
+1029,SKU-06-1029,Perez-Rojas Compact Boots 245,6,9,120.88,202.59,Active
+1030,SKU-14-1030,Sims-Anderson Eco Vitamin Pack 540,14,40,130.9,307.92,Active
+1031,SKU-15-1031,Johnson Eco Sunscreen 420,15,48,198.92,297.98,Active
+1032,SKU-13-1032,Dalton-Nguyen Lite Sunscreen 973,13,29,415.67,857.94,Active
+1033,SKU-03-1033,Mcdonald-Pitts Ultra Speaker 287,3,46,20.96,33.79,Active
+1034,SKU-02-1034,Dunn-Taylor Ergonomic Phone 552,2,32,163.65,351.98,Active
+1035,SKU-02-1035,"Ryan, Lite Tablet 457",2,12,46.64,109.22,Active
+1036,SKU-12-1036,"Fields, Compact Desk 676",12,38,401.45,804.03,Active
+1037,SKU-01-1037,"Ferguson, Compact Drone 284",1,50,190.31,264.95,Active
+1038,SKU-02-1038,Ballard Classic Phone 391,2,26,308.18,652.35,Active
+1039,SKU-15-1039,Diaz-Green Pro Vitamin Pack 257,15,46,17.85,33.06,Active
+1040,SKU-08-1040,Smith-Mills Eco Coat 773,8,42,7.58,18.68,Active
+1041,SKU-08-1041,Cooper Classic Coat 232,8,42,99.06,134.56,Active
+1042,SKU-13-1042,"Smith, Ultra Moisturizer 660",13,26,428.6,753.34,Active
+1043,SKU-04-1043,Evans-Cannon Premium Tablet 121,4,50,384.29,574.72,Active
+1044,SKU-11-1044,Harper-Robles Lite Chair 405,11,20,223.43,406.38,Active
+1045,SKU-10-1045,"Brooks, Lite Air Purifier 781",10,13,47.77,83.17,Active
+1046,SKU-15-1046,Wright-Espinoza Premium Hair Dryer 374,15,49,255.56,461.97,Active
+1047,SKU-06-1047,"Price, Elite T-Shirt 544",6,33,285.66,403.22,Active
+1048,SKU-08-1048,Garrett-Black Smart T-Shirt 607,8,6,239.64,497.65,Active
+1049,SKU-07-1049,"Aguirre, Pro Shorts 407",7,20,71.13,103.38,Active
+1050,SKU-09-1050,"Patel, Premium Desk 682",9,3,26.24,36.52,Active
+1051,SKU-09-1051,White Premium Vacuum 196,9,17,211.77,458.35,Active
+1052,SKU-10-1052,Walsh Pro Coffee Maker 116,10,12,55.7,116.63,Active
+1053,SKU-14-1053,Nelson-Dean Premium Serume 185,14,21,190.23,408.09,Active
+1054,SKU-08-1054,Flores Ergonomic Coat 927,8,12,122.96,302.49,Active
+1055,SKU-02-1055,Booker Elite Monitor 992,2,2,304.67,554.67,Discontinued
+1056,SKU-02-1056,Compton Ultra Headphones 771,2,43,217.32,462.93,Active
+1057,SKU-10-1057,Martinez-Gonzales Ergonomic Desk 733,10,45,366.84,748.39,Active
+1058,SKU-12-1058,Hall Premium Desk 189,12,8,60.66,79.87,Active
+1059,SKU-12-1059,Snyder Smart Blender 314,12,16,219.1,322.99,Active
+1060,SKU-11-1060,Collins-Lloyd Compact Cookware Set 188,11,31,138.91,257.83,Active
+1061,SKU-02-1061,Ford-Moody Lite Headphones 856,2,31,317.66,780.38,Discontinued
+1062,SKU-08-1062,Miller-Christensen Elite Jeans 306,8,26,136.2,312.63,Active
+1063,SKU-01-1063,Brown Pro Camera 525,1,39,382.63,835.85,Active
+1064,SKU-05-1064,Daniels Ultra Shorts 509,5,40,221.31,444.67,Active
+1065,SKU-15-1065,Huang Ergonomic Shampoo 831,15,37,32.01,42.34,Active
+1066,SKU-02-1066,Clayton-Martinez Eco Camera 584,2,42,57.04,116.77,Active
+1067,SKU-12-1067,"Wright, Premium Blender 265",12,23,133.16,203.82,Active
+1068,SKU-09-1068,"Vang, Smart Sofa 801",9,46,155.92,315.35,Active
+1069,SKU-03-1069,Boyd Eco Camera 526,3,48,375.72,791.92,Active
+1070,SKU-08-1070,Price-Ali Lite Coat 312,8,43,130.69,287.4,Active
+1071,SKU-03-1071,Moore-Chandler Smart Headphones 720,3,32,224.02,504.53,Active
+1072,SKU-04-1072,"Pineda, Compact Phone 118",4,44,164.66,265.59,Active
+1073,SKU-14-1073,"Evans, Compact Serume 926",14,40,33.33,60.55,Active
+1074,SKU-09-1074,"Robinson, Smart Rug 364",9,50,447.18,1002.52,Discontinued
+1075,SKU-15-1075,Smith-Bauer Compact Perfume 254,15,39,384.77,903.61,Active
+1076,SKU-12-1076,"Wilson, Ultra Rug 918",12,8,208.43,481.46,Active
+1077,SKU-13-1077,Perkins Elite Trimmer 900,13,36,386.98,550.38,Discontinued
+1078,SKU-02-1078,Barker-Moore Lite Tablet 991,2,47,96.4,167.15,Active
+1079,SKU-08-1079,Wright Compact Shorts 850,8,24,392.37,582.73,Active
+1080,SKU-03-1080,Parks Pro Speaker 549,3,1,436.49,970.34,Active
+1081,SKU-13-1081,"Brown, Ergonomic Vitamin Pack 393",13,24,229.74,322.16,Active
+1082,SKU-07-1082,"Moody, Classic Jeans 255",7,15,340.18,658.45,Active
+1083,SKU-07-1083,"Kramer, Premium Boots 569",7,44,428.57,822.59,Active
+1084,SKU-01-1084,Quinn-Smith Ergonomic Headphones 888,1,5,9.43,21.38,Active
+1085,SKU-06-1085,Howard-Taylor Premium T-Shirt 544,6,43,32.35,71.53,Active
+1086,SKU-03-1086,Washington Elite Phone 746,3,34,441.12,996.44,Active
+1087,SKU-07-1087,"Phillips, Premium Sweater 994",7,23,140.42,307.69,Discontinued
+1088,SKU-05-1088,Stephens Compact Coat 250,5,14,316.63,581.15,Active
+1089,SKU-10-1089,"Mcdonald, Elite Rug 814",10,42,158.64,360.78,Active
+1090,SKU-04-1090,"Martin, Eco Tablet 137",4,47,244.16,431.67,Active
+1091,SKU-03-1091,Weaver-Gibson Compact Router 390,3,20,100.11,191.61,Active
+1092,SKU-13-1092,"Hunter, Lite Serume 128",13,17,401.19,781.49,Active
+1093,SKU-13-1093,"Vincent, Eco Face Mask 617",13,24,54.15,74.29,Active
+1094,SKU-09-1094,"Brown, Classic Chair 148",9,29,341.67,830.13,Active
+1095,SKU-12-1095,Warren Ultra Rug 447,12,38,442.41,1002.71,Active
+1096,SKU-15-1096,"Moore, Compact Trimmer 339",15,46,160.9,264.11,Active
+1097,SKU-03-1097,Rodriguez-Mills Premium Router 855,3,38,115.2,195.08,Active
+1098,SKU-13-1098,Williams Classic Hair Dryer 200,13,27,70.22,127.16,Active
+1099,SKU-01-1099,Russo Premium Headphones 587,1,44,100.58,140.18,Active
+1100,SKU-10-1100,Washington Compact Coffee Maker 897,10,32,180.68,292.06,Active
+1101,SKU-08-1101,Duncan Ergonomic Boots 943,8,32,77.47,147.73,Active
+1102,SKU-03-1102,"Burns, Compact Router 220",3,3,314.04,579.88,Active
+1103,SKU-09-1103,Diaz Classic Chair 716,9,24,384.28,550.44,Active
+1104,SKU-01-1104,"Jones, Compact Headphones 220",1,20,170.3,423.91,Active
+1105,SKU-01-1105,Hebert-Collier Lite Headphones 902,1,20,267.38,363.2,Active
+1106,SKU-04-1106,Owen-Brown Lite Watch 102,4,3,59.44,102.14,Active
+1107,SKU-10-1107,"Paul, Eco Sofa 563",10,31,405.63,907.65,Active
+1108,SKU-14-1108,"Brown, Elite Massage Gun 880",14,49,66.64,137.53,Active
+1109,SKU-08-1109,"Jones, Lite Dress 191",8,27,360.92,756.99,Active
+1110,SKU-15-1110,"Davis, Premium Vitamin Pack 653",15,29,25.39,53.43,Active
+1111,SKU-11-1111,Lee Pro Lamp 824,11,50,16.04,32.98,Active
+1112,SKU-09-1112,Hudson Pro Coffee Maker 187,9,37,90.63,185.11,Active
+1113,SKU-10-1113,"Curry, Compact Cookware Set 868",10,8,216.75,515.05,Active
+1114,SKU-09-1114,"Ray, Lite Blender 381",9,46,355.11,566.17,Active
+1115,SKU-10-1115,Andrade-Jackson Ergonomic Chair 926,10,38,242.43,408.38,Discontinued
+1116,SKU-14-1116,Pierce Ultra Vitamin Pack 547,14,34,85.33,113.39,Active
+1117,SKU-05-1117,Sandoval-Ferguson Pro Sneakers 201,5,12,246.09,404.18,Active
+1118,SKU-02-1118,"Ramos, Lite Monitor 517",2,21,306.98,420.78,Active
+1119,SKU-12-1119,Kirk-Gutierrez Ultra Desk 499,12,21,48.94,71.99,Active
+1120,SKU-14-1120,"Jordan, Pro Serume 307",14,16,111.63,225.09,Active
+1121,SKU-13-1121,"Gardner, Compact Face Mask 217",13,36,124.83,209.96,Active
+1122,SKU-08-1122,"King, Ultra Boots 748",8,18,109.01,257.63,Active
+1123,SKU-10-1123,Smith-Johnson Pro Cookware Set 881,10,20,251.84,564.69,Active
+1124,SKU-08-1124,Larson-Holmes Pro Sweater 308,8,35,353.38,519.77,Active
+1125,SKU-13-1125,Smith-Joyce Smart Sunscreen 533,13,3,432.8,850.96,Discontinued
+1126,SKU-08-1126,Foley Elite Hoodie 768,8,31,437.58,569.14,Active
+1127,SKU-05-1127,"Short, Premium Dress 962",5,33,286.33,573.29,Active
+1128,SKU-03-1128,"Howe, Compact Drone 171",3,8,138.78,246.25,Active
+1129,SKU-12-1129,Moore-Baker Compact Desk 999,12,21,197.22,400.86,Active
+1130,SKU-06-1130,"Wright, Eco Shorts 379",6,22,114.44,283.77,Active
+1131,SKU-10-1131,"Ross, Classic Blender 808",10,39,64.51,155.26,Active
+1132,SKU-15-1132,"Nguyen, Ultra Massage Gun 523",15,32,252.33,538.92,Active
+1133,SKU-09-1133,"Warner, Pro Chair 651",9,43,18.77,43.14,Active
+1134,SKU-02-1134,"Evans, Classic Camera 947",2,50,272.58,480.86,Active
+1135,SKU-01-1135,Deleon Pro Watch 479,1,15,421.63,773.06,Active
+1136,SKU-13-1136,Hobbs-Hamilton Eco Vitamin Pack 296,13,20,45.04,91.71,Active
+1137,SKU-04-1137,Kane Smart Watch 471,4,46,21.37,40.42,Active
+1138,SKU-04-1138,"Delgado, Ultra Speaker 940",4,18,289.1,414.32,Active
+1139,SKU-08-1139,"Reyes, Lite Sweater 298",8,44,298.63,590.94,Active
+1140,SKU-03-1140,"Cunningham, Pro Drone 231",3,37,336.96,489.57,Active
+1141,SKU-15-1141,Williams Compact Perfume 296,15,45,382.21,507.48,Active
+1142,SKU-10-1142,Maddox-Mullins Eco Coffee Maker 564,10,44,5.87,10.64,Active
+1143,SKU-01-1143,"Wagner, Classic Camera 964",1,44,447.82,729.43,Active
+1144,SKU-08-1144,Hernandez-Rogers Classic Sweater 877,8,4,24.34,52.71,Active
+1145,SKU-07-1145,Duncan-Williams Compact Shorts 423,7,6,7.3,11.19,Active
+1146,SKU-13-1146,Baker-Ross Ultra Shampoo 806,13,16,193.6,268.97,Active
+1147,SKU-06-1147,Ayala-Anderson Eco Sneakers 741,6,28,283.26,377.71,Active
+1148,SKU-10-1148,Castillo Classic Desk 353,10,22,52.99,84.04,Active
+1149,SKU-14-1149,Foster-Duncan Classic Sunscreen 913,14,39,110.35,153.11,Active
+1150,SKU-13-1150,"Gilbert, Pro Hair Dryer 692",13,3,60.55,149.52,Active
+1151,SKU-15-1151,Adams Pro Massage Gun 163,15,20,414.01,757.76,Active
+1152,SKU-07-1152,Cohen-Johnston Pro Sneakers 793,7,25,29.83,40.65,Active
+1153,SKU-10-1153,Powers Premium Cookware Set 985,10,1,271.81,568.54,Active
+1154,SKU-08-1154,Bailey-Flores Premium Coat 734,8,44,50.07,104.2,Active
+1155,SKU-08-1155,"Rios, Compact Dress 701",8,39,90.65,129.02,Active
+1156,SKU-10-1156,Jensen-Branch Smart Sofa 229,10,27,288.63,463.99,Active
+1157,SKU-10-1157,Hanson-Alexander Ergonomic Lamp 348,10,9,66.26,89.64,Active
+1158,SKU-07-1158,Gonzalez Compact Dress 418,7,10,264.73,516.06,Active
+1159,SKU-05-1159,Todd Elite Dress 398,5,38,169.13,221.51,Active
+1160,SKU-03-1160,Singh Ultra Speaker 619,3,4,369.54,728.49,Active
+1161,SKU-04-1161,"Mcintosh, Smart Speaker 904",4,31,35.44,54.12,Active
+1162,SKU-08-1162,Cooper Elite Dress 972,8,40,262.39,644.35,Active
+1163,SKU-06-1163,Cole-Johnson Lite Sneakers 565,6,32,394.87,944.79,Active
+1164,SKU-01-1164,Singh Smart Speaker 577,1,48,282.64,448.5,Active
+1165,SKU-14-1165,Payne Classic Face Mask 310,14,1,183.14,419.63,Active
+1166,SKU-02-1166,"Webb, Classic Phone 668",2,13,56.26,92.76,Active
+1167,SKU-15-1167,"Barnett, Classic Serume 130",15,15,93.61,153.61,Active
+1168,SKU-12-1168,"Williams, Lite Air Purifier 967",12,2,251.75,381.21,Active
+1169,SKU-05-1169,"Williamson, Pro Jacket 951",5,8,306.47,537.77,Active
+1170,SKU-04-1170,Jones Eco Watch 345,4,11,169.49,296.07,Active
+1171,SKU-13-1171,Alvarado-Durham Elite Face Mask 999,13,9,321.37,463.48,Active
+1172,SKU-04-1172,Lin-Smith Compact Camera 811,4,41,171.54,346.42,Active
+1173,SKU-01-1173,"Hughes, Elite Drone 293",1,10,385.22,636.78,Active
+1174,SKU-01-1174,"Garcia, Eco Headphones 971",1,32,231.18,462.57,Active
+1175,SKU-02-1175,"Miller, Ergonomic Drone 166",2,42,79.51,140.39,Active
+1176,SKU-06-1176,"House, Ergonomic Sweater 575",6,34,84.65,182.42,Active
+1177,SKU-12-1177,"Torres, Ergonomic Rug 374",12,38,263.63,544.59,Active
+1178,SKU-04-1178,Reed Smart Speaker 562,4,20,389.11,690.7,Active
+1179,SKU-07-1179,Garrett-Young Elite T-Shirt 962,7,9,171.48,336.21,Active
+1180,SKU-05-1180,"Hill, Ergonomic Sweater 460",5,33,107.43,144.96,Active
+1181,SKU-07-1181,Zamora-Briggs Ergonomic Shorts 542,7,21,186.98,423.59,Active
+1182,SKU-01-1182,Raymond Lite Watch 339,1,6,123.2,171.38,Active
+1183,SKU-09-1183,Hernandez Compact Coffee Maker 759,9,15,39.78,64.91,Active
+1184,SKU-02-1184,"Taylor, Classic Phone 659",2,22,94.14,144.6,Active
+1185,SKU-12-1185,"Salazar, Eco Cookware Set 822",12,49,273.8,401.24,Active
+1186,SKU-09-1186,Berry Eco Blender 888,9,26,138.27,316.19,Active
+1187,SKU-14-1187,Browning-Murphy Elite Serume 583,14,10,296.07,736.36,Active
+1188,SKU-04-1188,"Anderson, Smart Speaker 585",4,36,109.01,218.5,Active
+1189,SKU-12-1189,"Mcbride, Ergonomic Air Purifier 910",12,28,43.21,100.03,Active
+1190,SKU-12-1190,"Roach, Premium Cookware Set 549",12,24,205.24,404.35,Active
+1191,SKU-14-1191,Douglas Lite Perfume 855,14,23,9.31,21.16,Active
+1192,SKU-07-1192,Stewart Premium Boots 881,7,21,351.5,683.71,Active
+1193,SKU-10-1193,"Fry, Ultra Lamp 257",10,37,439.87,1096.64,Active
+1194,SKU-10-1194,Acosta Elite Sofa 987,10,26,178.94,314.5,Active
+1195,SKU-07-1195,Ali-Turner Smart Shorts 211,7,41,151.33,371.41,Active
+1196,SKU-02-1196,"Peck, Lite Tablet 791",2,45,251.04,336.01,Active
+1197,SKU-01-1197,Hernandez-Lopez Lite Speaker 171,1,14,410.55,723.83,Active
+1198,SKU-11-1198,Lopez Compact Chair 565,11,11,30.57,58.76,Active
+1199,SKU-15-1199,"Adams, Premium Face Mask 260",15,27,445.37,648.0,Active
+1200,SKU-02-1200,Hall Premium Speaker 233,2,46,392.35,655.89,Active
+1201,SKU-03-1201,Miller-Chan Elite Drone 417,3,44,266.43,507.01,Active
+1202,SKU-04-1202,Shaw Ultra Headphones 556,4,16,33.47,59.55,Active
+1203,SKU-15-1203,Joseph-Brooks Elite Hair Dryer 571,15,6,210.9,284.06,Active
+1204,SKU-15-1204,Henry-Taylor Ergonomic Vitamin Pack 817,15,26,379.97,855.24,Active
+1205,SKU-13-1205,Perez Lite Face Mask 355,13,28,84.91,173.33,Active
+1206,SKU-15-1206,Schaefer Lite Trimmer 197,15,16,180.13,438.58,Active
+1207,SKU-03-1207,Newton Eco Router 398,3,47,301.66,416.32,Active
+1208,SKU-04-1208,Jones Ergonomic Camera 880,4,5,251.01,626.11,Active
+1209,SKU-09-1209,"Burns, Classic Vacuum 561",9,3,78.35,121.35,Active
+1210,SKU-02-1210,Patterson Ergonomic Camera 451,2,26,336.95,784.06,Discontinued
+1211,SKU-05-1211,"Moss, Pro T-Shirt 434",5,30,303.28,563.22,Active
+1212,SKU-09-1212,"Crosby, Smart Rug 243",9,11,214.5,350.7,Active
+1213,SKU-01-1213,"Liu, Elite Tablet 281",1,26,135.89,263.84,Active
+1214,SKU-11-1214,Bryant-Rich Ultra Desk 257,11,46,201.09,304.36,Discontinued
+1215,SKU-11-1215,Stone Compact Cookware Set 552,11,34,315.05,725.81,Active
+1216,SKU-12-1216,"Williams, Pro Vacuum 806",12,1,142.2,193.8,Discontinued
+1217,SKU-07-1217,Lee Smart Jeans 483,7,2,409.4,630.47,Active
+1218,SKU-01-1218,Wilkerson-Ayala Classic Speaker 796,1,7,302.68,473.6,Active
+1219,SKU-14-1219,Murray-Henderson Lite Massage Gun 145,14,21,189.98,271.52,Active
+1220,SKU-11-1220,"Ellison, Smart Sofa 312",11,28,420.78,746.5,Active
+1221,SKU-04-1221,Gallegos-Hayes Pro Charger 431,4,21,82.26,146.63,Discontinued
+1222,SKU-04-1222,"Mason, Ergonomic Speaker 167",4,40,297.79,486.63,Active
+1223,SKU-02-1223,"Payne, Smart Camera 408",2,7,346.56,658.29,Active
+1224,SKU-13-1224,White Elite Massage Gun 357,13,41,431.77,872.11,Active
+1225,SKU-11-1225,"Huang, Lite Air Purifier 279",11,21,287.73,679.26,Active
+1226,SKU-11-1226,Holt-Meadows Ergonomic Chair 443,11,29,12.85,30.77,Active
+1227,SKU-11-1227,Higgins Smart Coffee Maker 701,11,2,318.56,419.21,Active
+1228,SKU-15-1228,Wilson Pro Perfume 342,15,40,333.37,736.31,Active
+1229,SKU-03-1229,"Cox, Classic Watch 403",3,42,94.9,166.16,Discontinued
+1230,SKU-15-1230,"Salazar, Elite Hair Dryer 856",15,21,395.41,577.74,Active
+1231,SKU-13-1231,Tate Ultra Sunscreen 910,13,19,440.02,914.21,Active
+1232,SKU-04-1232,"Savage, Classic Charger 348",4,43,96.59,131.83,Active
+1233,SKU-13-1233,White Smart Trimmer 993,13,29,174.76,294.64,Active
+1234,SKU-02-1234,Barnes Ergonomic Tablet 297,2,14,28.19,70.2,Active
+1235,SKU-03-1235,"Mack, Elite Router 951",3,33,358.88,554.56,Active
+1236,SKU-12-1236,Roach Ergonomic Desk 268,12,12,326.14,519.84,Active
+1237,SKU-05-1237,Dean Eco Coat 559,5,31,435.64,671.62,Active
+1238,SKU-06-1238,Ellis Premium Boots 271,6,40,214.47,387.6,Active
+1239,SKU-13-1239,"Aguirre, Lite Hair Dryer 120",13,6,344.06,623.74,Active
+1240,SKU-15-1240,Chapman Eco Trimmer 650,15,17,73.0,158.55,Active
+1241,SKU-05-1241,Ortiz-Miller Ergonomic Hoodie 484,5,22,255.15,478.92,Active
+1242,SKU-08-1242,"Smith, Smart T-Shirt 294",8,47,6.86,16.01,Active
+1243,SKU-08-1243,"Grant, Premium Boots 504",8,32,436.87,763.55,Active
+1244,SKU-10-1244,Brown Pro Vacuum 139,10,37,446.65,647.36,Active
+1245,SKU-13-1245,Thomas Premium Perfume 889,13,33,411.32,891.2,Active
+1246,SKU-11-1246,"Lane, Classic Blender 766",11,16,176.47,319.21,Active
+1247,SKU-01-1247,Williams Classic Phone 814,1,39,301.23,445.06,Active
+1248,SKU-11-1248,Martin Lite Desk 353,11,11,272.96,666.6,Discontinued
+1249,SKU-13-1249,"Guerrero, Pro Face Mask 507",13,6,319.2,788.1,Active
+1250,SKU-04-1250,"Thompson, Premium Headphones 949",4,33,194.96,415.3,Active
+1251,SKU-11-1251,Davis Premium Sofa 415,11,47,331.6,730.5,Active
+1252,SKU-02-1252,Richardson-Gray Elite Charger 933,2,48,68.51,150.62,Active
+1253,SKU-05-1253,Chang Ultra T-Shirt 935,5,50,223.82,316.98,Active
+1254,SKU-09-1254,Carter Premium Desk 850,9,12,196.77,297.45,Active
+1255,SKU-04-1255,Neal Ergonomic Headphones 614,4,14,427.08,786.17,Active
+1256,SKU-01-1256,Rose-Warren Lite Speaker 365,1,29,442.41,1037.87,Active
+1257,SKU-10-1257,"Clark, Pro Lamp 181",10,18,135.44,237.46,Active
+1258,SKU-01-1258,"Rice, Elite Speaker 589",1,1,220.91,488.79,Active
+1259,SKU-13-1259,"Peck, Ultra Trimmer 908",13,34,444.49,629.49,Active
+1260,SKU-07-1260,"Abbott, Elite Sweater 879",7,49,123.3,232.19,Active
+1261,SKU-07-1261,"Gomez, Classic Dress 798",7,16,401.12,1002.53,Active
+1262,SKU-11-1262,"Daniel, Premium Vacuum 725",11,22,30.47,52.63,Active
+1263,SKU-01-1263,"Hall, Ergonomic Camera 842",1,2,376.76,908.01,Active
+1264,SKU-14-1264,Johnson Compact Perfume 816,14,29,339.39,542.43,Active
+1265,SKU-11-1265,Mclaughlin Ergonomic Coffee Maker 523,11,41,298.8,389.56,Active
+1266,SKU-14-1266,"Duarte, Classic Serume 748",14,48,165.29,223.95,Active
+1267,SKU-08-1267,"Shaffer, Smart Coat 596",8,6,183.07,372.57,Active
+1268,SKU-15-1268,"Campbell, Ergonomic Moisturizer 851",15,46,176.26,357.56,Active
+1269,SKU-09-1269,"Pierce, Elite Coffee Maker 132",9,20,61.9,139.66,Active
+1270,SKU-09-1270,Peterson-Ramsey Ergonomic Lamp 556,9,35,430.0,807.8,Active
+1271,SKU-04-1271,"Choi, Lite Tablet 208",4,11,198.53,428.61,Active
+1272,SKU-06-1272,Nielsen-Mendoza Premium Hoodie 325,6,43,325.03,682.28,Active
+1273,SKU-03-1273,Robles-Brewer Compact Watch 192,3,15,359.02,610.1,Active
+1274,SKU-13-1274,Moore-Murray Elite Moisturizer 759,13,48,157.74,377.35,Active
+1275,SKU-07-1275,"Huang, Compact Boots 927",7,19,108.85,175.35,Active
+1276,SKU-02-1276,"Brown, Classic Drone 292",2,24,336.35,484.12,Active
+1277,SKU-06-1277,"Stewart, Premium Coat 854",6,35,5.75,7.9,Active
+1278,SKU-07-1278,"Rivera, Premium Dress 889",7,9,167.44,354.16,Active
+1279,SKU-10-1279,Montes Elite Cookware Set 209,10,30,180.91,352.04,Active
+1280,SKU-14-1280,Morgan Eco Shampoo 611,14,19,307.59,454.28,Active
+1281,SKU-11-1281,"Ferguson, Ultra Sofa 427",11,8,142.46,354.5,Active
+1282,SKU-14-1282,Larson Elite Hair Dryer 746,14,46,373.77,707.93,Active
+1283,SKU-01-1283,"Hodge, Classic Headphones 947",1,15,323.96,750.84,Active
+1284,SKU-01-1284,Crawford Lite Watch 844,1,43,179.35,445.02,Active
+1285,SKU-03-1285,Hayes-Sampson Ultra Router 501,3,23,155.15,327.91,Active
+1286,SKU-07-1286,Warren Pro Sweater 844,7,13,130.95,279.66,Active
+1287,SKU-09-1287,Brooks Premium Chair 234,9,4,148.92,335.0,Active
+1288,SKU-12-1288,Gentry Eco Rug 770,12,45,77.84,114.04,Active
+1289,SKU-15-1289,"Johnson, Lite Shampoo 323",15,42,362.94,557.04,Discontinued
+1290,SKU-12-1290,Peterson Elite Chair 794,12,25,354.55,826.14,Active
+1291,SKU-07-1291,"Russo, Lite Jacket 198",7,4,163.23,305.02,Active
+1292,SKU-09-1292,Short Classic Sofa 544,9,26,436.53,895.92,Active
+1293,SKU-02-1293,"Haney, Smart Camera 600",2,12,139.7,281.55,Active
+1294,SKU-07-1294,Reeves-Boyd Pro Shorts 985,7,41,369.1,649.07,Active
+1295,SKU-06-1295,Collins Ultra Sneakers 219,6,43,41.77,78.82,Active
+1296,SKU-04-1296,"Charles, Ultra Drone 686",4,45,444.37,833.37,Active
+1297,SKU-13-1297,Garcia Elite Massage Gun 493,13,28,220.47,457.15,Active
+1298,SKU-03-1298,"Edwards, Pro Charger 165",3,35,322.63,753.23,Active
+1299,SKU-14-1299,Flores Ultra Face Mask 669,14,34,368.77,826.11,Active
+1300,SKU-09-1300,Hill-Flores Elite Coffee Maker 830,9,49,369.38,769.06,Active
+1301,SKU-11-1301,Lambert-Nelson Pro Lamp 982,11,36,271.6,411.73,Active
+1302,SKU-06-1302,Hill Pro Jacket 231,6,6,260.91,543.52,Active
+1303,SKU-14-1303,"Castro, Ultra Moisturizer 227",14,35,230.24,399.76,Active
+1304,SKU-11-1304,"Flores, Ultra Cookware Set 407",11,19,25.54,62.19,Active
+1305,SKU-08-1305,Andrews-Jackson Lite Coat 602,8,23,314.32,605.76,Active
+1306,SKU-09-1306,Austin-Morgan Smart Chair 778,9,13,369.79,585.94,Active
+1307,SKU-14-1307,Williams-Johnson Smart Massage Gun 716,14,18,250.67,503.88,Active
+1308,SKU-10-1308,"Williams, Premium Chair 663",10,11,118.46,208.27,Active
+1309,SKU-02-1309,White-Carlson Eco Camera 811,2,41,68.74,106.17,Active
+1310,SKU-11-1310,"Soto, Smart Air Purifier 677",11,39,297.51,679.69,Active
+1311,SKU-14-1311,Edwards-Roth Lite Vitamin Pack 906,14,39,197.96,263.5,Active
+1312,SKU-05-1312,"Chang, Pro Sweater 212",5,22,309.37,553.2,Active
+1313,SKU-06-1313,Bradley-Davis Classic Hoodie 249,6,1,391.64,615.23,Active
+1314,SKU-04-1314,"Mcdonald, Premium Tablet 901",4,47,416.91,629.9,Active
+1315,SKU-10-1315,"Miranda, Ergonomic Chair 641",10,19,160.26,318.37,Active
+1316,SKU-10-1316,Callahan Pro Blender 274,10,12,146.51,322.65,Active
+1317,SKU-12-1317,Durham-Myers Compact Coffee Maker 708,12,38,397.5,708.81,Active
+1318,SKU-01-1318,"Stark, Compact Headphones 773",1,48,61.23,107.43,Active
+1319,SKU-15-1319,Chavez-Johnson Classic Shampoo 794,15,12,275.87,592.61,Active
+1320,SKU-06-1320,Rodriguez-Mendoza Ergonomic Sweater 393,6,46,127.74,231.63,Active
+1321,SKU-14-1321,Campbell Smart Perfume 750,14,27,386.78,942.56,Active
+1322,SKU-14-1322,"Andrews, Pro Moisturizer 178",14,11,329.83,802.75,Active
+1323,SKU-02-1323,"Robles, Eco Router 604",2,28,364.71,478.8,Active
+1324,SKU-15-1324,Patel-Morales Lite Hair Dryer 609,15,35,234.18,584.88,Active
+1325,SKU-07-1325,Allen-Sanchez Ultra Coat 294,7,46,410.34,900.74,Active
+1326,SKU-09-1326,Dickson Classic Cookware Set 856,9,34,299.22,719.49,Active
+1327,SKU-01-1327,Peterson Elite Watch 272,1,34,305.16,719.66,Active
+1328,SKU-03-1328,"Reynolds, Pro Charger 959",3,4,64.33,110.9,Active
+1329,SKU-07-1329,Stephens-Young Lite Dress 215,7,35,155.39,328.63,Active
+1330,SKU-14-1330,"Caldwell, Pro Perfume 406",14,1,219.99,355.88,Active
+1331,SKU-10-1331,Wilson-Carlson Premium Cookware Set 412,10,33,418.45,1025.61,Active
+1332,SKU-01-1332,Peters-Short Ergonomic Drone 968,1,40,222.28,383.85,Active
+1333,SKU-05-1333,Parker Classic Sneakers 105,5,26,160.63,348.07,Active
+1334,SKU-02-1334,George Premium Watch 302,2,10,42.71,81.88,Active
+1335,SKU-15-1335,"Wise, Ergonomic Serume 259",15,31,347.4,555.9,Active
+1336,SKU-05-1336,"Brown, Classic Boots 286",5,29,243.71,395.63,Active
+1337,SKU-08-1337,"Berger, Lite T-Shirt 462",8,46,337.46,441.05,Active
+1338,SKU-04-1338,Guerrero Eco Phone 236,4,3,180.57,395.94,Active
+1339,SKU-04-1339,"Carter, Ergonomic Monitor 221",4,44,192.39,377.11,Active
+1340,SKU-06-1340,Maldonado Premium Sweater 843,6,25,415.98,961.61,Active
+1341,SKU-02-1341,Hudson-Gentry Ultra Headphones 259,2,44,158.13,208.16,Active
+1342,SKU-11-1342,Sellers-Zuniga Classic Vacuum 711,11,19,333.16,606.75,Active
+1343,SKU-02-1343,"Haas, Premium Speaker 732",2,16,72.86,139.42,Active
+1344,SKU-02-1344,Carr Eco Speaker 782,2,46,370.17,569.36,Active
+1345,SKU-02-1345,Abbott-Phelps Compact Drone 285,2,41,88.96,206.91,Active
+1346,SKU-04-1346,Wood Pro Headphones 510,4,10,22.07,54.92,Active
+1347,SKU-10-1347,Smith Smart Chair 985,10,20,27.68,49.51,Active
+1348,SKU-04-1348,Rodriguez-Campbell Smart Charger 536,4,42,218.24,417.24,Active
+1349,SKU-02-1349,Young Eco Charger 387,2,16,424.63,914.61,Active
+1350,SKU-01-1350,"Long, Lite Phone 100",1,14,28.2,61.86,Active
+1351,SKU-05-1351,Graham-Clark Elite Sneakers 541,5,24,87.25,212.71,Active
+1352,SKU-02-1352,Wells Pro Phone 799,2,22,250.54,584.85,Active
+1353,SKU-13-1353,"Cruz, Classic Trimmer 641",13,18,274.1,434.7,Active
+1354,SKU-07-1354,Roberts Pro Sneakers 233,7,3,285.15,576.63,Active
+1355,SKU-15-1355,Taylor Smart Shampoo 821,15,35,203.37,288.45,Active
+1356,SKU-05-1356,"Smith, Ergonomic Jeans 646",5,13,325.74,440.59,Active
+1357,SKU-12-1357,Proctor-Taylor Eco Coffee Maker 455,12,46,403.24,741.23,Active
+1358,SKU-07-1358,May Pro Shorts 529,7,2,238.07,581.59,Active
+1359,SKU-05-1359,English-Dominguez Lite Hoodie 146,5,45,430.33,590.82,Active
+1360,SKU-14-1360,Hanson-Gibson Premium Hair Dryer 801,14,5,241.95,463.62,Active
+1361,SKU-13-1361,Arnold-Cole Compact Face Mask 675,13,18,351.82,626.6,Active
+1362,SKU-01-1362,Perez-Coleman Lite Drone 323,1,33,268.49,351.89,Active
+1363,SKU-12-1363,Lane Compact Desk 410,12,18,384.35,636.34,Active
+1364,SKU-03-1364,Joseph Smart Phone 646,3,10,111.01,149.52,Active
+1365,SKU-05-1365,House-Johnston Lite Hoodie 994,5,16,356.83,738.96,Active
+1366,SKU-04-1366,Good Compact Tablet 101,4,24,293.65,604.69,Active
+1367,SKU-12-1367,Bush-Wilson Compact Desk 839,12,19,64.46,153.29,Active
+1368,SKU-01-1368,Nixon-Miller Ultra Charger 324,1,17,330.06,539.86,Active
+1369,SKU-09-1369,"Simon, Elite Chair 839",9,42,336.87,592.34,Active
+1370,SKU-11-1370,Marshall-Miller Elite Coffee Maker 311,11,18,368.5,576.62,Active
+1371,SKU-11-1371,"Davis, Premium Lamp 556",11,24,108.12,234.79,Active
+1372,SKU-08-1372,"Miller, Pro Shorts 285",8,12,209.43,477.23,Active
+1373,SKU-08-1373,Austin-Berger Lite Hoodie 121,8,26,143.02,337.86,Active
+1374,SKU-04-1374,"Osborne, Pro Headphones 173",4,42,194.75,359.51,Active
+1375,SKU-02-1375,Berry-Rivera Compact Headphones 844,2,7,338.95,445.43,Active
+1376,SKU-01-1376,Yu-Yates Pro Phone 881,1,9,374.58,907.09,Active
+1377,SKU-02-1377,Jackson-Neal Eco Headphones 742,2,1,271.84,611.88,Active
+1378,SKU-02-1378,"Curry, Compact Charger 973",2,31,319.82,493.41,Active
+1379,SKU-15-1379,Soto Ergonomic Massage Gun 414,15,4,152.63,226.72,Active
+1380,SKU-05-1380,Berry Compact Sneakers 121,5,19,372.09,529.62,Active
+1381,SKU-15-1381,Lamb-Weber Premium Massage Gun 101,15,28,410.91,546.02,Active
+1382,SKU-06-1382,Washington-Martinez Eco Jeans 800,6,8,176.21,416.04,Active
+1383,SKU-02-1383,York Smart Tablet 388,2,8,164.0,334.37,Active
+1384,SKU-15-1384,Anderson-Campbell Pro Serume 719,15,22,72.24,131.07,Active
+1385,SKU-11-1385,Smith-Rodriguez Premium Lamp 783,11,19,310.79,637.03,Active
+1386,SKU-02-1386,Kent Eco Watch 777,2,46,169.26,273.94,Active
+1387,SKU-13-1387,Hopkins Ultra Massage Gun 896,13,25,296.86,500.0,Active
+1388,SKU-13-1388,Green Ergonomic Moisturizer 215,13,18,262.14,642.64,Active
+1389,SKU-06-1389,Washington Lite T-Shirt 885,6,28,176.33,296.79,Active
+1390,SKU-07-1390,Cooper Elite Dress 241,7,16,361.95,754.57,Active
+1391,SKU-09-1391,Larson Ergonomic Coffee Maker 646,9,15,224.21,435.74,Active
+1392,SKU-10-1392,Mullins-Gutierrez Premium Coffee Maker 691,10,15,350.58,797.06,Active
+1393,SKU-04-1393,Young-Alexander Classic Phone 308,4,36,447.29,590.68,Active
+1394,SKU-03-1394,"Jackson, Pro Phone 457",3,50,165.58,384.01,Active
+1395,SKU-05-1395,May Ergonomic T-Shirt 955,5,27,384.72,948.79,Active
+1396,SKU-14-1396,Jackson Smart Serume 864,14,46,66.32,162.78,Active
+1397,SKU-12-1397,Turner-Reese Ultra Vacuum 480,12,38,29.07,41.49,Active
+1398,SKU-14-1398,"Hall, Elite Massage Gun 130",14,16,70.36,103.4,Active
+1399,SKU-10-1399,Thomas-Berg Premium Lamp 883,10,48,86.18,188.93,Active
+1400,SKU-05-1400,Roberts Ergonomic Boots 839,5,45,155.11,347.09,Discontinued
+1401,SKU-02-1401,Gregory-Nixon Lite Phone 757,2,33,19.29,42.46,Active
+1402,SKU-07-1402,"Blanchard, Premium Shorts 667",7,37,321.58,517.64,Active
+1403,SKU-12-1403,Blanchard-Reynolds Smart Vacuum 260,12,25,125.96,177.64,Active
+1404,SKU-03-1404,"Garrison, Smart Camera 733",3,48,29.92,52.98,Active
+1405,SKU-10-1405,Scott Pro Rug 588,10,25,144.37,298.88,Active
+1406,SKU-13-1406,Murray-Leonard Classic Face Mask 299,13,24,125.11,178.32,Active
+1407,SKU-14-1407,Navarro Classic Serume 345,14,5,130.58,254.62,Active
+1408,SKU-01-1408,Meyer Eco Speaker 664,1,16,94.77,228.87,Active
+1409,SKU-10-1409,"Kaiser, Elite Blender 677",10,4,443.99,834.95,Active
+1410,SKU-05-1410,Decker Ultra Dress 869,5,13,130.67,232.3,Active
+1411,SKU-07-1411,Davis-Garcia Classic T-Shirt 819,7,48,305.24,518.17,Active
+1412,SKU-09-1412,Bell-Hardy Lite Blender 701,9,3,359.25,672.64,Active
+1413,SKU-03-1413,Lee-Johnson Ergonomic Tablet 740,3,14,46.51,100.56,Active
+1414,SKU-11-1414,Brown Lite Lamp 613,11,42,234.75,510.46,Active
+1415,SKU-13-1415,"Shannon, Classic Hair Dryer 904",13,40,63.38,104.51,Active
+1416,SKU-07-1416,Erickson Ultra Boots 344,7,5,97.93,199.04,Active
+1417,SKU-10-1417,Gates Ergonomic Chair 924,10,20,11.65,25.86,Active
+1418,SKU-13-1418,Douglas-Yoder Pro Hair Dryer 196,13,19,207.39,311.84,Active
+1419,SKU-05-1419,"Pratt, Elite Dress 461",5,50,44.71,67.74,Active
+1420,SKU-08-1420,King Eco Shorts 765,8,37,416.25,1010.57,Active
+1421,SKU-06-1421,"Mayer, Eco Boots 518",6,9,386.37,927.51,Active
+1422,SKU-09-1422,Hammond-Schwartz Elite Air Purifier 482,9,29,42.15,75.69,Active
+1423,SKU-15-1423,"Carrillo, Ultra Trimmer 759",15,45,30.39,68.34,Active
+1424,SKU-01-1424,Ramirez Lite Tablet 397,1,5,172.24,341.75,Active
+1425,SKU-14-1425,Price-Ferrell Ergonomic Moisturizer 457,14,30,212.32,439.71,Active
+1426,SKU-03-1426,Sosa-Baker Pro Camera 886,3,5,197.74,352.34,Active
+1427,SKU-10-1427,Jones-Krause Ergonomic Cookware Set 819,10,30,334.87,481.27,Discontinued
+1428,SKU-03-1428,Bishop Ergonomic Headphones 755,3,39,99.99,198.16,Active
+1429,SKU-01-1429,"Vasquez, Classic Camera 584",1,2,99.97,155.33,Active
+1430,SKU-11-1430,Mendez Premium Desk 358,11,5,287.88,403.12,Active
+1431,SKU-02-1431,Baldwin-Garcia Eco Watch 992,2,17,191.78,298.59,Active
+1432,SKU-01-1432,Jones Pro Camera 450,1,13,433.7,718.33,Active
+1433,SKU-07-1433,Waters-Smith Ergonomic Shorts 648,7,45,311.53,465.06,Active
+1434,SKU-15-1434,Hernandez-Bowman Elite Face Mask 942,15,39,9.42,21.1,Active
+1435,SKU-12-1435,Ortega Elite Sofa 248,12,47,149.06,370.21,Active
+1436,SKU-12-1436,Graves Classic Blender 254,12,32,403.94,977.77,Active
+1437,SKU-02-1437,"Smith, Premium Monitor 633",2,9,326.42,811.44,Active
+1438,SKU-11-1438,Graham-Anthony Elite Chair 137,11,27,102.29,253.15,Active
+1439,SKU-13-1439,Fernandez Lite Trimmer 486,13,13,101.18,157.0,Active
+1440,SKU-10-1440,Finley-Meyers Ultra Air Purifier 933,10,20,166.89,277.43,Active
+1441,SKU-14-1441,Martinez-Nichols Pro Hair Dryer 764,14,23,449.58,807.83,Active
+1442,SKU-09-1442,Cook-Turner Premium Coffee Maker 883,9,30,154.44,372.45,Active
+1443,SKU-03-1443,Chen Compact Drone 266,3,43,246.53,433.37,Active
+1444,SKU-07-1444,Diaz Eco Coat 977,7,7,49.16,69.08,Active
+1445,SKU-01-1445,Randall Elite Camera 206,1,35,225.9,497.45,Active
+1446,SKU-08-1446,"Harris, Compact Coat 925",8,27,19.52,32.17,Active
+1447,SKU-13-1447,"Lee, Ergonomic Sunscreen 490",13,8,55.95,130.23,Active
+1448,SKU-13-1448,"Barker, Ergonomic Face Mask 940",13,26,291.96,654.45,Discontinued
+1449,SKU-06-1449,Moss-Taylor Smart Sweater 390,6,20,124.09,259.4,Active
+1450,SKU-13-1450,Johnson Premium Shampoo 104,13,1,405.58,729.02,Discontinued
+1451,SKU-13-1451,Burns Classic Sunscreen 939,13,11,334.85,562.87,Active
+1452,SKU-07-1452,"Schneider, Smart Sweater 500",7,4,90.73,188.11,Active
+1453,SKU-10-1453,Levy-Smith Premium Lamp 751,10,26,178.73,388.51,Active
+1454,SKU-09-1454,Brown-French Lite Vacuum 336,9,33,49.31,111.51,Active
+1455,SKU-10-1455,Sullivan Premium Desk 957,10,14,251.04,612.15,Active
+1456,SKU-01-1456,"Contreras, Premium Phone 743",1,40,347.66,515.81,Active
+1457,SKU-15-1457,"Hernandez, Pro Trimmer 491",15,30,16.25,35.44,Active
+1458,SKU-13-1458,Moss Classic Massage Gun 345,13,13,295.37,462.58,Active
+1459,SKU-04-1459,"Smith, Premium Monitor 775",4,10,28.03,39.23,Active
+1460,SKU-11-1460,Haynes Elite Chair 213,11,7,209.31,421.77,Active
+1461,SKU-05-1461,Jackson Lite Sneakers 179,5,14,224.94,389.97,Active
+1462,SKU-08-1462,Hoover-Davis Ultra Boots 175,8,14,221.5,454.26,Active
+1463,SKU-07-1463,"Jackson, Classic Shorts 927",7,12,76.69,127.19,Active
+1464,SKU-11-1464,Wilson Elite Blender 220,11,31,439.28,1094.9,Active
+1465,SKU-10-1465,"Walker, Compact Blender 262",10,8,237.18,380.77,Active
+1466,SKU-01-1466,"Gregory, Compact Phone 630",1,24,232.73,345.1,Active
+1467,SKU-04-1467,"Gardner, Ultra Charger 241",4,9,102.79,223.39,Active
+1468,SKU-08-1468,Duran Smart Sneakers 456,8,30,320.1,666.55,Active
+1469,SKU-08-1469,Rogers Premium Sweater 509,8,13,415.44,664.75,Active
+1470,SKU-15-1470,Thomas-Perry Eco Face Mask 205,15,20,264.72,587.61,Active
+1471,SKU-04-1471,"Wood, Ergonomic Camera 556",4,21,193.56,425.15,Active
+1472,SKU-10-1472,"Williams, Premium Vacuum 304",10,41,257.38,450.09,Active
+1473,SKU-08-1473,"Bennett, Lite Jacket 623",8,39,117.61,210.73,Active
+1474,SKU-11-1474,Smith Compact Air Purifier 507,11,21,18.32,27.77,Active
+1475,SKU-03-1475,Mann Classic Speaker 174,3,10,100.76,175.93,Active
+1476,SKU-02-1476,Butler-Aguirre Ultra Charger 804,2,30,9.85,16.69,Active
+1477,SKU-06-1477,Schwartz-Harris Smart Sweater 167,6,34,176.59,357.09,Active
+1478,SKU-09-1478,"Nelson, Eco Sofa 926",9,42,387.66,538.77,Active
+1479,SKU-13-1479,Bishop Premium Vitamin Pack 932,13,32,147.45,226.56,Active
+1480,SKU-05-1480,"White, Premium Sneakers 227",5,38,206.49,417.46,Active
+1481,SKU-10-1481,"Serrano, Ultra Desk 118",10,1,291.43,678.25,Active
+1482,SKU-05-1482,"Young, Lite Boots 137",5,3,403.64,969.4,Active
+1483,SKU-01-1483,Montgomery Pro Watch 197,1,20,374.28,672.99,Active
+1484,SKU-13-1484,"Robinson, Classic Face Mask 181",13,40,252.62,423.34,Discontinued
+1485,SKU-05-1485,Brown-Rodriguez Ergonomic Shorts 969,5,24,290.29,694.54,Active
+1486,SKU-02-1486,Jennings Ultra Speaker 148,2,21,372.33,546.01,Active
+1487,SKU-12-1487,Thompson-Santiago Premium Cookware Set 274,12,24,44.17,95.8,Active
+1488,SKU-09-1488,Brown Ultra Blender 365,9,4,398.08,538.08,Active
+1489,SKU-02-1489,Clark-King Eco Charger 804,2,18,277.67,631.69,Active
+1490,SKU-15-1490,"Trujillo, Lite Trimmer 571",15,10,58.36,98.23,Active
+1491,SKU-15-1491,"Williams, Premium Hair Dryer 784",15,37,59.46,114.94,Active
+1492,SKU-08-1492,Washington Eco Dress 891,8,17,330.23,518.79,Active
+1493,SKU-12-1493,Jacobson Pro Air Purifier 671,12,42,376.82,599.46,Active
+1494,SKU-04-1494,Watkins-Nguyen Pro Tablet 606,4,14,31.82,41.87,Active
+1495,SKU-07-1495,Burgess Smart Shorts 207,7,49,156.5,356.32,Active
+1496,SKU-14-1496,Maxwell Classic Perfume 825,14,33,207.04,307.41,Active
+1497,SKU-03-1497,Garcia Smart Charger 494,3,33,438.9,1027.65,Active
+1498,SKU-07-1498,Kane-Bennett Smart Sneakers 384,7,37,193.28,410.43,Active
+1499,SKU-03-1499,Jones Ergonomic Tablet 862,3,30,54.04,71.33,Active
+1500,SKU-01-1500,Brown-Graham Ergonomic Router 563,1,36,161.62,233.05,Active
+1501,SKU-07-1501,Reilly Smart T-Shirt 506,7,4,228.47,436.27,Active
+1502,SKU-06-1502,Hughes Pro Jacket 764,6,13,175.22,422.92,Active
+1503,SKU-07-1503,Cortez-Chen Lite Coat 382,7,28,240.66,455.41,Active
+1504,SKU-01-1504,Harris-Martinez Smart Tablet 324,1,37,56.26,133.57,Active
+1505,SKU-02-1505,"Carroll, Compact Tablet 382",2,46,105.78,216.24,Active
+1506,SKU-07-1506,Ellis-Jackson Pro Jeans 851,7,32,371.71,791.75,Active
+1507,SKU-13-1507,Robinson-Phillips Smart Vitamin Pack 752,13,47,133.16,268.39,Discontinued
+1508,SKU-03-1508,Clarke Compact Drone 588,3,45,333.9,775.68,Active
+1509,SKU-06-1509,"Whitehead, Pro T-Shirt 291",6,1,152.81,282.13,Active
+1510,SKU-07-1510,Miller Classic Jacket 281,7,11,438.6,1034.0,Active
+1511,SKU-14-1511,Atkins-Robinson Ultra Trimmer 460,14,32,436.45,872.81,Active
+1512,SKU-08-1512,Hood-Ramirez Pro Jacket 938,8,19,12.74,26.96,Active
+1513,SKU-09-1513,"Patterson, Compact Lamp 873",9,20,70.23,99.21,Active
+1514,SKU-06-1514,Riley-Snow Ergonomic Shorts 852,6,43,161.1,314.93,Active
+1515,SKU-06-1515,"Shah, Ergonomic Jacket 947",6,34,161.92,348.48,Active
+1516,SKU-14-1516,Baird-Williams Elite Hair Dryer 215,14,41,125.12,240.63,Discontinued
+1517,SKU-07-1517,Quinn-Gordon Smart T-Shirt 465,7,48,226.54,360.93,Active
+1518,SKU-07-1518,Schmidt-Mendoza Classic Jeans 862,7,25,44.73,107.57,Active
+1519,SKU-05-1519,"Nicholson, Compact Shorts 997",5,44,239.47,387.55,Active
+1520,SKU-06-1520,"Mullins, Premium Coat 527",6,13,425.64,694.43,Discontinued
+1521,SKU-09-1521,Anderson Classic Sofa 225,9,23,197.89,365.31,Active
+1522,SKU-01-1522,Holland Ergonomic Headphones 577,1,19,308.01,593.79,Active
+1523,SKU-11-1523,Castillo Lite Desk 598,11,1,133.28,301.18,Active
+1524,SKU-04-1524,Warner Eco Drone 226,4,28,28.67,47.79,Active
+1525,SKU-14-1525,"Silva, Ultra Serume 357",14,33,66.28,156.05,Active
+1526,SKU-13-1526,Sawyer Compact Massage Gun 188,13,47,322.37,474.26,Active
+1527,SKU-10-1527,Clarke Pro Desk 324,10,16,19.3,46.7,Active
+1528,SKU-11-1528,"Marshall, Premium Vacuum 508",11,17,435.27,617.11,Active
+1529,SKU-10-1529,Cruz Eco Lamp 677,10,38,198.94,467.73,Active
+1530,SKU-13-1530,Schmidt-Phillips Smart Perfume 238,13,20,190.26,292.89,Active
+1531,SKU-10-1531,Wolfe-Salazar Ergonomic Coffee Maker 287,10,28,172.3,405.1,Active
+1532,SKU-09-1532,"Norton, Ergonomic Air Purifier 615",9,30,421.02,907.35,Active
+1533,SKU-08-1533,Fitzgerald-Brown Premium Boots 572,8,50,17.31,34.11,Active
+1534,SKU-13-1534,"Cox, Lite Trimmer 409",13,24,355.05,708.82,Active
+1535,SKU-09-1535,Harvey-Diaz Elite Desk 154,9,26,341.12,604.19,Active
+1536,SKU-08-1536,Wong Compact Shorts 959,8,42,29.18,39.85,Active
+1537,SKU-10-1537,Castro Pro Desk 679,10,4,219.25,372.19,Active
+1538,SKU-10-1538,Zavala Compact Blender 818,10,48,96.25,141.77,Active
+1539,SKU-03-1539,"Wilson, Smart Headphones 408",3,1,284.57,615.52,Active
+1540,SKU-10-1540,"Pitts, Smart Chair 168",10,8,5.02,10.16,Active
+1541,SKU-04-1541,Flores Smart Tablet 585,4,26,15.97,30.45,Active
+1542,SKU-02-1542,"Frazier, Eco Camera 595",2,35,442.3,1010.36,Active
+1543,SKU-10-1543,Chavez-Mason Ergonomic Sofa 226,10,12,197.4,407.32,Active
+1544,SKU-12-1544,Harrison Smart Lamp 623,12,31,335.04,655.34,Active
+1545,SKU-05-1545,"Bryan, Pro Coat 604",5,25,168.47,274.64,Active
+1546,SKU-02-1546,Marsh-Dougherty Ergonomic Camera 933,2,30,194.05,258.78,Active
+1547,SKU-07-1547,Lopez Ultra Coat 410,7,43,20.17,41.96,Active
+1548,SKU-01-1548,Miller Classic Headphones 579,1,1,397.68,735.72,Active
+1549,SKU-06-1549,Mullen-Jones Compact Sweater 315,6,25,160.23,344.09,Active
+1550,SKU-03-1550,Hill Lite Charger 771,3,46,325.05,554.91,Active
+1551,SKU-03-1551,Crawford Eco Monitor 503,3,31,35.35,81.56,Active
+1552,SKU-08-1552,"Crane, Elite T-Shirt 689",8,43,320.28,611.21,Active
+1553,SKU-03-1553,"Weaver, Classic Drone 694",3,26,159.9,326.35,Active
+1554,SKU-01-1554,Rojas-Smith Lite Speaker 198,1,44,301.04,571.77,Active
+1555,SKU-13-1555,Brown Smart Shampoo 207,13,25,405.41,611.68,Active
+1556,SKU-07-1556,"Newman, Pro Jacket 726",7,48,116.47,156.64,Active
+1557,SKU-13-1557,"Buchanan, Classic Trimmer 746",13,21,379.1,912.97,Active
+1558,SKU-08-1558,"Wilkinson, Premium T-Shirt 752",8,17,260.33,400.83,Active
+1559,SKU-11-1559,Villanueva Eco Cookware Set 306,11,34,335.26,610.47,Active
+1560,SKU-04-1560,Mccormick Pro Drone 124,4,14,284.96,599.1,Discontinued
+1561,SKU-03-1561,Watson-Roberts Ultra Charger 892,3,5,186.57,364.91,Active
+1562,SKU-11-1562,Hernandez Compact Rug 294,11,31,375.42,745.0,Active
+1563,SKU-06-1563,Huber-Montgomery Elite Sweater 973,6,28,66.35,91.6,Active
+1564,SKU-14-1564,Joseph Pro Trimmer 180,14,7,61.6,118.31,Active
+1565,SKU-04-1565,Mcpherson Ultra Drone 653,4,19,152.26,238.87,Active
+1566,SKU-05-1566,"Conway, Premium Dress 169",5,19,393.24,585.71,Active
+1567,SKU-10-1567,Williams Smart Coffee Maker 725,10,4,227.52,404.77,Active
+1568,SKU-15-1568,"Martinez, Pro Trimmer 582",15,42,421.93,1047.2,Discontinued
+1569,SKU-06-1569,"Mann, Premium Hoodie 305",6,9,153.87,341.23,Active
+1570,SKU-14-1570,Watson Classic Serume 341,14,37,224.63,509.19,Active
+1571,SKU-12-1571,Ferguson Ultra Air Purifier 172,12,40,427.71,863.02,Active
+1572,SKU-15-1572,Sullivan Compact Hair Dryer 232,15,3,125.38,169.27,Active
+1573,SKU-04-1573,Gould Classic Camera 589,4,15,140.02,324.82,Discontinued
+1574,SKU-01-1574,Smith Ultra Speaker 647,1,44,275.62,483.79,Active
+1575,SKU-09-1575,"Cantrell, Ergonomic Blender 496",9,28,345.73,737.97,Active
+1576,SKU-09-1576,Kemp-Montes Lite Chair 548,9,24,57.51,117.25,Active
+1577,SKU-06-1577,"Estrada, Premium Jacket 343",6,15,108.25,217.19,Active
+1578,SKU-13-1578,Morgan-Rodriguez Compact Trimmer 146,13,47,445.97,587.73,Active
+1579,SKU-01-1579,Mccullough-Taylor Pro Phone 229,1,21,200.16,328.09,Active
+1580,SKU-11-1580,"Wilson, Smart Desk 232",11,8,274.73,514.97,Active
+1581,SKU-02-1581,Griffin Eco Router 310,2,23,225.24,491.53,Active
+1582,SKU-14-1582,Brown-Davidson Smart Hair Dryer 830,14,36,139.71,243.14,Active
+1583,SKU-11-1583,"Fox, Smart Coffee Maker 373",11,7,146.89,286.39,Active
+1584,SKU-15-1584,Johnson Premium Trimmer 597,15,9,129.5,199.98,Active
+1585,SKU-09-1585,Rhodes-Rosario Smart Desk 859,9,47,251.07,363.37,Active
+1586,SKU-03-1586,"Foster, Ultra Speaker 815",3,8,200.92,445.45,Discontinued
+1587,SKU-14-1587,"Harding, Ultra Perfume 384",14,6,266.77,442.97,Active
+1588,SKU-14-1588,Baldwin Elite Face Mask 607,14,29,13.39,23.55,Discontinued
+1589,SKU-04-1589,Hughes-Smith Premium Headphones 775,4,20,196.83,268.22,Discontinued
+1590,SKU-13-1590,Bell-Madden Classic Serume 723,13,17,340.74,580.44,Active
+1591,SKU-10-1591,"Miller, Smart Blender 449",10,28,327.97,670.97,Active
+1592,SKU-15-1592,Lara-Roberts Ultra Moisturizer 666,15,44,177.71,384.84,Active
+1593,SKU-09-1593,"Waller, Ergonomic Vacuum 686",9,17,325.05,722.53,Active
+1594,SKU-07-1594,Houston Ergonomic Jeans 235,7,44,408.93,669.35,Active
+1595,SKU-02-1595,Thomas Smart Router 402,2,40,155.2,275.25,Active
+1596,SKU-05-1596,Mcneil-Fox Eco Coat 112,5,21,60.32,119.56,Active
+1597,SKU-14-1597,Jones-Choi Lite Hair Dryer 573,14,3,12.68,16.62,Active
+1598,SKU-08-1598,Davis-Ortiz Compact Jeans 518,8,18,31.07,75.39,Active
+1599,SKU-09-1599,Perry-Peters Classic Chair 551,9,18,85.01,188.65,Active
+1600,SKU-08-1600,"Bradley, Lite Jeans 745",8,42,82.65,193.85,Discontinued
+1601,SKU-02-1601,Roberts-Henry Ultra Headphones 800,2,21,230.49,421.42,Discontinued
+1602,SKU-12-1602,Davenport-Torres Smart Blender 831,12,2,446.43,1102.83,Active
+1603,SKU-14-1603,"Singh, Classic Sunscreen 835",14,7,24.91,39.4,Active
+1604,SKU-08-1604,Baker Pro Sweater 179,8,24,110.46,186.78,Active
+1605,SKU-11-1605,"Kennedy, Premium Chair 757",11,2,194.78,319.38,Active
+1606,SKU-13-1606,White-Knox Classic Vitamin Pack 517,13,19,404.34,707.46,Active
+1607,SKU-03-1607,"Sanchez, Classic Phone 397",3,2,418.99,1003.17,Active
+1608,SKU-04-1608,George Classic Router 832,4,38,352.49,673.19,Active
+1609,SKU-04-1609,"Castillo, Premium Drone 133",4,49,297.39,440.16,Active
+1610,SKU-02-1610,"Alvarez, Pro Speaker 678",2,36,229.06,455.68,Active
+1611,SKU-09-1611,"Quinn, Pro Coffee Maker 917",9,34,27.89,52.06,Active
+1612,SKU-06-1612,"Brown, Eco Jeans 956",6,22,260.98,624.6,Active
+1613,SKU-13-1613,Howard Classic Shampoo 566,13,45,145.09,357.92,Active
+1614,SKU-12-1614,Ward-Fields Premium Air Purifier 181,12,24,161.63,308.19,Active
+1615,SKU-10-1615,Williams-Carter Smart Rug 905,10,9,191.39,379.57,Active
+1616,SKU-04-1616,"Mayer, Premium Drone 781",4,19,66.47,107.17,Active
+1617,SKU-02-1617,Duran Pro Camera 531,2,32,229.74,339.57,Active
+1618,SKU-13-1618,Stephens Smart Massage Gun 997,13,27,207.06,310.62,Active
+1619,SKU-09-1619,"Marsh, Ergonomic Chair 229",9,2,391.91,901.64,Active
+1620,SKU-02-1620,Davis-Carpenter Lite Router 987,2,28,240.54,424.73,Active
+1621,SKU-07-1621,Smith Compact Jeans 829,7,22,135.56,231.02,Active
+1622,SKU-10-1622,Watson-Washington Pro Blender 175,10,29,333.74,576.02,Active
+1623,SKU-11-1623,Mccall-Martin Ergonomic Vacuum 396,11,47,342.16,732.27,Active
+1624,SKU-13-1624,Moore Elite Sunscreen 185,13,38,72.75,95.25,Active
+1625,SKU-11-1625,Pope Ergonomic Vacuum 428,11,38,200.17,382.4,Active
+1626,SKU-13-1626,"Norris, Pro Shampoo 404",13,34,224.52,304.89,Active
+1627,SKU-10-1627,"Arnold, Compact Vacuum 392",10,12,148.65,250.07,Active
+1628,SKU-01-1628,Moon-Wilson Smart Camera 631,1,21,128.82,303.44,Active
+1629,SKU-05-1629,Mclean Lite Sneakers 394,5,11,126.86,231.74,Active
+1630,SKU-15-1630,Collins-Cox Eco Trimmer 871,15,18,52.22,82.4,Active
+1631,SKU-04-1631,Preston-Harper Compact Router 872,4,3,80.14,161.73,Active
+1632,SKU-09-1632,Jackson-Torres Compact Cookware Set 106,9,24,222.32,508.42,Active
+1633,SKU-10-1633,"Olsen, Premium Rug 633",10,8,61.15,112.8,Active
+1634,SKU-15-1634,Watts Pro Hair Dryer 542,15,9,224.5,315.25,Active
+1635,SKU-12-1635,Clark Pro Air Purifier 922,12,47,40.18,90.48,Active
+1636,SKU-03-1636,Vazquez-Bowers Compact Charger 382,3,44,206.79,451.35,Active
+1637,SKU-12-1637,Smith Classic Blender 543,12,34,49.7,106.66,Active
+1638,SKU-14-1638,Williams-Rodriguez Compact Serume 749,14,38,284.14,453.23,Active
+1639,SKU-04-1639,"Palmer, Smart Monitor 581",4,47,72.39,164.81,Active
+1640,SKU-03-1640,Williams-Turner Smart Tablet 628,3,1,386.43,849.89,Active
+1641,SKU-08-1641,Webster Compact Coat 313,8,45,320.95,432.18,Active
+1642,SKU-07-1642,"Harris, Elite Jeans 753",7,12,160.17,310.18,Active
+1643,SKU-14-1643,Johnson-Thomas Smart Perfume 784,14,26,220.85,498.26,Active
+1644,SKU-09-1644,"Mcmahon, Ergonomic Desk 198",9,49,102.42,251.49,Active
+1645,SKU-07-1645,Wyatt Ergonomic Dress 353,7,30,299.78,431.38,Active
+1646,SKU-11-1646,"Allen, Pro Air Purifier 813",11,31,182.15,264.79,Active
+1647,SKU-14-1647,"Hines, Ergonomic Trimmer 521",14,18,310.81,414.86,Active
+1648,SKU-15-1648,Jackson-Webster Premium Serume 675,15,21,348.45,562.37,Active
+1649,SKU-13-1649,Beltran Ergonomic Face Mask 508,13,32,121.01,165.25,Active
+1650,SKU-06-1650,Knapp Ultra Hoodie 558,6,11,187.37,372.31,Active
+1651,SKU-13-1651,Richardson-Lawrence Pro Trimmer 725,13,2,151.71,307.36,Active
+1652,SKU-01-1652,Nunez-Rodriguez Premium Tablet 899,1,50,318.61,762.97,Active
+1653,SKU-02-1653,Zavala-Coleman Ultra Router 315,2,11,166.13,255.53,Active
+1654,SKU-07-1654,"Perez, Smart Hoodie 920",7,27,76.82,134.33,Active
+1655,SKU-12-1655,Owens Smart Blender 136,12,34,381.24,841.07,Active
+1656,SKU-07-1656,Simpson Ergonomic Jacket 260,7,41,130.97,174.07,Active
+1657,SKU-04-1657,"Roberts, Ultra Monitor 867",4,42,60.02,134.5,Active
+1658,SKU-14-1658,Wilson-Campbell Eco Moisturizer 178,14,49,37.88,82.07,Active
+1659,SKU-01-1659,"Fitzgerald, Ultra Router 719",1,38,413.94,585.59,Active
+1660,SKU-04-1660,Spencer Elite Monitor 903,4,2,149.06,285.42,Active
+1661,SKU-08-1661,Lopez-Jones Smart Sneakers 370,8,25,436.32,868.91,Active
+1662,SKU-02-1662,Crosby-Richardson Smart Camera 674,2,45,128.96,211.66,Active
+1663,SKU-04-1663,Lutz Premium Phone 608,4,49,328.76,802.75,Active
+1664,SKU-02-1664,"Garcia, Ergonomic Speaker 691",2,15,438.96,779.95,Active
+1665,SKU-08-1665,Wilson Elite Sneakers 758,8,41,143.22,210.9,Active
+1666,SKU-02-1666,Neal-Madden Compact Headphones 312,2,16,389.85,735.95,Active
+1667,SKU-07-1667,"Schaefer, Elite Shorts 635",7,15,326.75,646.95,Active
+1668,SKU-08-1668,Morgan Eco Boots 418,8,3,334.53,769.82,Active
+1669,SKU-10-1669,Martinez-Massey Elite Vacuum 992,10,49,7.48,15.92,Active
+1670,SKU-08-1670,"Porter, Compact Shorts 420",8,30,431.97,683.76,Active
+1671,SKU-09-1671,"Nelson, Compact Chair 207",9,9,194.44,270.86,Active
+1672,SKU-03-1672,Kelly-Estrada Compact Tablet 270,3,8,92.83,217.57,Discontinued
+1673,SKU-07-1673,Archer-Dixon Ergonomic T-Shirt 741,7,48,362.4,682.99,Active
+1674,SKU-07-1674,Tate Premium Jacket 403,7,47,57.32,143.01,Active
+1675,SKU-11-1675,King Eco Coffee Maker 430,11,42,278.72,486.63,Active
+1676,SKU-05-1676,Fuller Compact Jeans 922,5,34,278.23,600.24,Active
+1677,SKU-08-1677,Garcia Ergonomic Jeans 438,8,9,417.55,903.64,Active
+1678,SKU-12-1678,Jimenez Ergonomic Blender 425,12,5,190.25,281.65,Active
+1679,SKU-01-1679,Reyes Eco Speaker 304,1,22,313.85,610.53,Active
+1680,SKU-10-1680,Hernandez-Howell Ergonomic Sofa 260,10,15,34.71,71.63,Active
+1681,SKU-01-1681,Wolf Smart Monitor 391,1,38,370.24,867.0,Active
+1682,SKU-06-1682,"Saunders, Elite Boots 360",6,13,254.69,527.19,Active
+1683,SKU-03-1683,"Jimenez, Pro Speaker 386",3,9,84.35,166.71,Active
+1684,SKU-10-1684,"Payne, Premium Air Purifier 689",10,18,348.53,700.76,Active
+1685,SKU-12-1685,Beard-Wilson Elite Rug 314,12,14,79.8,178.76,Active
+1686,SKU-13-1686,Edwards-Bennett Elite Massage Gun 246,13,21,78.34,184.06,Active
+1687,SKU-01-1687,Johnson-Thompson Lite Router 926,1,21,200.66,420.95,Active
+1688,SKU-13-1688,"Dalton, Pro Shampoo 673",13,46,179.99,401.14,Active
+1689,SKU-05-1689,Jordan-Edwards Compact Dress 643,5,14,39.8,80.65,Active
+1690,SKU-11-1690,Freeman-Rodriguez Eco Lamp 960,11,45,199.57,365.21,Active
+1691,SKU-11-1691,"Henry, Pro Coffee Maker 545",11,24,295.18,446.79,Active
+1692,SKU-13-1692,Alvarez-Dickerson Classic Face Mask 318,13,13,279.55,657.38,Active
+1693,SKU-03-1693,"Brown, Ultra Speaker 552",3,38,165.64,254.07,Active
+1694,SKU-02-1694,Jensen-Gomez Classic Monitor 614,2,3,415.1,841.88,Active
+1695,SKU-11-1695,Flores-Johnson Ergonomic Vacuum 144,11,18,448.1,961.23,Active
+1696,SKU-10-1696,Anderson Ultra Rug 722,10,31,286.35,540.73,Active
+1697,SKU-11-1697,Pacheco-Silva Compact Chair 139,11,46,169.44,344.9,Active
+1698,SKU-12-1698,"Peterson, Lite Lamp 184",12,4,191.71,443.8,Active
+1699,SKU-12-1699,Jenkins-Brown Ultra Air Purifier 199,12,13,386.76,631.57,Active
+1700,SKU-12-1700,Wright Ultra Air Purifier 957,12,46,304.04,723.49,Active
+1701,SKU-10-1701,Watkins-Lozano Classic Coffee Maker 114,10,43,423.54,755.51,Active
+1702,SKU-02-1702,Melton Smart Router 251,2,29,329.39,461.4,Discontinued
+1703,SKU-10-1703,Jackson-Ryan Smart Coffee Maker 519,10,1,81.97,180.02,Active
+1704,SKU-09-1704,Murray Classic Chair 449,9,6,212.48,489.41,Active
+1705,SKU-08-1705,"Robertson, Pro Sneakers 192",8,21,86.21,121.01,Active
+1706,SKU-01-1706,Chapman-Odom Lite Phone 322,1,47,288.89,535.15,Active
+1707,SKU-05-1707,Hudson-Morris Smart T-Shirt 417,5,12,28.73,61.69,Active
+1708,SKU-10-1708,Stokes Classic Vacuum 331,10,13,376.7,613.03,Active
+1709,SKU-05-1709,"Leonard, Eco Shorts 370",5,24,46.12,79.61,Active
+1710,SKU-11-1710,"Morgan, Compact Rug 949",11,3,285.81,656.81,Active
+1711,SKU-10-1711,Harris-Reid Premium Lamp 650,10,28,258.08,643.27,Active
+1712,SKU-13-1712,Pittman Eco Shampoo 450,13,48,316.35,602.49,Active
+1713,SKU-02-1713,Mitchell Compact Speaker 364,2,8,102.12,164.72,Active
+1714,SKU-11-1714,Davies-Morales Lite Rug 243,11,37,212.92,359.32,Active
+1715,SKU-10-1715,Weber Ultra Air Purifier 818,10,1,51.55,89.22,Active
+1716,SKU-08-1716,"Richard, Classic Dress 763",8,23,406.83,620.23,Active
+1717,SKU-08-1717,Knight Compact T-Shirt 870,8,30,14.68,33.34,Active
+1718,SKU-12-1718,Simmons-Reed Premium Vacuum 584,12,24,376.17,603.03,Active
+1719,SKU-08-1719,Pearson Premium Hoodie 141,8,49,436.99,1028.2,Active
+1720,SKU-15-1720,"Brock, Compact Moisturizer 531",15,37,194.52,315.75,Active
+1721,SKU-01-1721,Perry Lite Router 270,1,45,415.45,982.09,Active
+1722,SKU-04-1722,"Robertson, Elite Headphones 233",4,4,300.22,674.38,Active
+1723,SKU-05-1723,Burton Lite Dress 569,5,43,181.22,335.75,Active
+1724,SKU-15-1724,Ray Lite Perfume 414,15,14,40.77,64.56,Active
+1725,SKU-12-1725,"Hayden, Smart Lamp 801",12,1,252.13,562.43,Active
+1726,SKU-06-1726,"Patel, Pro Shorts 663",6,31,310.62,664.27,Active
+1727,SKU-14-1727,Michael-Barber Ergonomic Shampoo 881,14,21,413.04,729.05,Active
+1728,SKU-03-1728,Boyd Premium Charger 389,3,28,369.81,804.87,Active
+1729,SKU-09-1729,Hernandez-Hernandez Pro Air Purifier 600,9,2,303.1,746.92,Active
+1730,SKU-10-1730,"Cannon, Lite Cookware Set 477",10,1,166.21,316.09,Active
+1731,SKU-13-1731,Walters Premium Moisturizer 761,13,3,107.38,204.02,Active
+1732,SKU-07-1732,Colon-Lucas Pro Dress 493,7,19,296.05,536.1,Active
+1733,SKU-11-1733,Mcdaniel-Young Ergonomic Blender 367,11,11,431.54,779.4,Active
+1734,SKU-09-1734,Wilson Pro Rug 925,9,7,41.78,88.71,Active
+1735,SKU-07-1735,Sanchez Ultra T-Shirt 426,7,44,62.29,118.87,Active
+1736,SKU-08-1736,Washington-Esparza Premium Boots 889,8,48,29.26,52.96,Active
+1737,SKU-10-1737,Lucas-Johnson Ergonomic Coffee Maker 481,10,35,352.55,759.54,Active
+1738,SKU-02-1738,Nelson Lite Camera 644,2,6,343.03,804.19,Active
+1739,SKU-06-1739,Clarke-Ramirez Elite Hoodie 302,6,30,234.13,477.02,Active
+1740,SKU-08-1740,"Thompson, Eco Jacket 224",8,4,391.21,724.64,Active
+1741,SKU-11-1741,Casey-Brown Classic Desk 535,11,2,155.17,256.86,Active
+1742,SKU-03-1742,Edwards Eco Charger 527,3,41,12.8,21.63,Discontinued
+1743,SKU-02-1743,Lester Classic Phone 644,2,6,333.71,533.39,Active
+1744,SKU-03-1744,Powers-Blackwell Lite Watch 541,3,30,402.26,689.66,Active
+1745,SKU-04-1745,Hahn-Ramsey Compact Drone 569,4,3,23.09,39.07,Active
+1746,SKU-12-1746,Young Pro Vacuum 624,12,41,441.22,615.29,Active
+1747,SKU-07-1747,"Mason, Premium Jacket 288",7,42,427.91,688.18,Active
+1748,SKU-02-1748,"Herring, Premium Tablet 912",2,20,90.28,145.64,Active
+1749,SKU-09-1749,Young Smart Blender 483,9,28,260.13,405.35,Active
+1750,SKU-12-1750,Murphy-Silva Lite Desk 613,12,12,303.79,615.34,Active
+1751,SKU-05-1751,Shaffer-Manning Ultra Boots 312,5,9,13.33,23.96,Active
+1752,SKU-08-1752,Robinson-Rodriguez Elite Dress 199,8,21,103.49,136.78,Active
+1753,SKU-10-1753,Booker Eco Sofa 946,10,39,209.99,379.01,Active
+1754,SKU-07-1754,King-Lawrence Ergonomic Sweater 112,7,29,157.61,265.35,Active
+1755,SKU-14-1755,Ferguson-Lyons Ergonomic Shampoo 645,14,17,315.49,664.92,Active
+1756,SKU-11-1756,Stewart Elite Chair 746,11,6,221.51,549.77,Active
+1757,SKU-09-1757,Vega-Richmond Classic Desk 398,9,30,339.13,624.61,Discontinued
+1758,SKU-10-1758,Cox Elite Lamp 739,10,49,161.47,293.53,Discontinued
+1759,SKU-05-1759,Underwood-Smith Compact Shorts 340,5,25,172.0,334.56,Active
+1760,SKU-14-1760,"Johnson, Pro Moisturizer 505",14,37,102.15,254.41,Active
+1761,SKU-14-1761,Vazquez Lite Face Mask 663,14,27,186.79,411.23,Active
+1762,SKU-05-1762,King Classic Dress 745,5,41,52.01,122.83,Active
+1763,SKU-06-1763,Fowler-Haynes Compact Sweater 645,6,32,179.52,418.44,Active
+1764,SKU-05-1764,"Martinez, Ergonomic T-Shirt 994",5,35,84.04,138.34,Active
+1765,SKU-13-1765,Smith-Yu Ergonomic Massage Gun 799,13,42,408.74,719.39,Active
+1766,SKU-07-1766,Turner-Mayer Premium Jeans 751,7,40,17.92,28.12,Active
+1767,SKU-02-1767,Evans Elite Drone 849,2,40,186.9,248.09,Active
+1768,SKU-10-1768,Welch-Suarez Ergonomic Chair 479,10,42,15.11,30.55,Active
+1769,SKU-09-1769,"Sullivan, Smart Lamp 568",9,12,169.23,397.62,Active
+1770,SKU-12-1770,Ruiz-Gutierrez Smart Air Purifier 235,12,14,135.38,321.3,Active
+1771,SKU-08-1771,Love-Mcdowell Smart Coat 554,8,30,445.42,1004.91,Active
+1772,SKU-02-1772,Holloway Elite Charger 993,2,30,414.47,618.02,Active
+1773,SKU-02-1773,Hunter-Bell Ultra Phone 798,2,31,306.21,716.68,Active
+1774,SKU-02-1774,"Daniel, Premium Monitor 833",2,39,244.12,527.04,Active
+1775,SKU-09-1775,"Johnson, Ultra Rug 592",9,26,373.35,512.14,Active
+1776,SKU-12-1776,"Ramos, Ultra Air Purifier 509",12,42,323.9,619.9,Active
+1777,SKU-13-1777,Fuller Pro Moisturizer 249,13,38,381.95,843.93,Active
+1778,SKU-02-1778,"Miller, Lite Charger 522",2,16,297.16,436.93,Active
+1779,SKU-04-1779,"Hines, Eco Tablet 437",4,46,290.71,403.76,Active
+1780,SKU-04-1780,Hayes-Russo Eco Charger 402,4,29,311.69,528.87,Active
+1781,SKU-10-1781,Green Eco Sofa 136,10,19,343.79,507.99,Discontinued
+1782,SKU-15-1782,"Serrano, Classic Trimmer 471",15,46,322.64,538.16,Active
+1783,SKU-11-1783,Richardson-Long Eco Rug 830,11,48,200.74,331.99,Active
+1784,SKU-03-1784,Duffy-Wilkerson Lite Drone 399,3,15,387.32,623.11,Discontinued
+1785,SKU-04-1785,Smith Elite Monitor 251,4,47,264.98,426.96,Active
+1786,SKU-14-1786,"Holland, Compact Face Mask 588",14,23,280.21,421.57,Active
+1787,SKU-10-1787,Gonzalez-Haynes Compact Air Purifier 635,10,32,171.59,401.26,Active
+1788,SKU-14-1788,Williams Compact Hair Dryer 279,14,43,220.38,386.95,Active
+1789,SKU-06-1789,Burke-Hernandez Smart Hoodie 311,6,50,104.82,171.27,Active
+1790,SKU-02-1790,Jackson-Bradley Smart Charger 610,2,1,209.4,501.56,Active
+1791,SKU-14-1791,Higgins Compact Shampoo 859,14,26,95.13,199.5,Active
+1792,SKU-06-1792,Wilcox-Snyder Compact Sneakers 377,6,48,251.21,487.78,Active
+1793,SKU-02-1793,Reeves Ultra Watch 680,2,48,237.71,378.82,Active
+1794,SKU-15-1794,Roberts-Snyder Smart Shampoo 806,15,39,324.23,490.53,Active
+1795,SKU-05-1795,Reynolds Pro Jeans 850,5,9,374.66,515.68,Active
+1796,SKU-01-1796,"Lewis, Smart Speaker 349",1,30,265.63,530.6,Active
+1797,SKU-15-1797,Barnes Ultra Vitamin Pack 908,15,8,287.09,440.89,Active
+1798,SKU-08-1798,Johnson Smart Sneakers 655,8,20,267.27,539.34,Active
+1799,SKU-10-1799,Williamson Premium Chair 837,10,13,399.5,892.03,Active
+1800,SKU-11-1800,Aguilar-Holland Elite Rug 100,11,18,117.03,209.32,Active
+1801,SKU-03-1801,Smith Classic Router 594,3,20,233.82,570.92,Active
+1802,SKU-09-1802,Mccann-Sanders Smart Air Purifier 381,9,41,306.64,583.74,Active
+1803,SKU-13-1803,Reeves Lite Hair Dryer 106,13,31,147.05,363.1,Active
+1804,SKU-03-1804,Fitzgerald-Scott Pro Camera 789,3,29,140.57,338.82,Active
+1805,SKU-11-1805,Hawkins Compact Lamp 298,11,14,351.56,778.85,Active
+1806,SKU-05-1806,Galvan-Ruiz Classic Sweater 583,5,40,50.8,84.33,Active
+1807,SKU-11-1807,Barajas-Crosby Lite Air Purifier 260,11,11,90.4,160.5,Active
+1808,SKU-10-1808,"Mckinney, Lite Air Purifier 628",10,27,441.61,920.4,Active
+1809,SKU-05-1809,"Harvey, Smart Hoodie 583",5,24,420.78,968.35,Active
+1810,SKU-06-1810,Anderson-Mcclain Classic Dress 560,6,49,142.07,280.72,Active
+1811,SKU-13-1811,Carpenter Premium Serume 518,13,30,162.36,367.98,Active
+1812,SKU-01-1812,Gordon Smart Speaker 777,1,24,323.92,535.68,Discontinued
+1813,SKU-07-1813,Anderson-Stewart Premium Dress 671,7,14,254.19,391.29,Active
+1814,SKU-08-1814,"Hamilton, Eco Sneakers 176",8,31,113.2,191.37,Active
+1815,SKU-10-1815,Porter Ergonomic Blender 899,10,46,298.44,634.29,Active
+1816,SKU-05-1816,"Ward, Elite Coat 484",5,22,31.4,42.93,Active
+1817,SKU-06-1817,Austin-Juarez Ergonomic Hoodie 213,6,5,214.97,506.69,Active
+1818,SKU-13-1818,Black-Graham Premium Massage Gun 994,13,13,71.94,119.32,Active
+1819,SKU-08-1819,Stewart Smart Dress 686,8,36,248.23,519.5,Active
+1820,SKU-05-1820,Peters Ultra T-Shirt 890,5,45,347.61,815.1,Active
+1821,SKU-06-1821,"Yates, Classic Shorts 865",6,30,398.64,606.32,Active
+1822,SKU-06-1822,White Classic Jeans 793,6,39,437.29,704.4,Active
+1823,SKU-01-1823,Martin-Mcdonald Lite Tablet 757,1,32,187.8,333.45,Active
+1824,SKU-14-1824,Carney Compact Serume 624,14,3,171.2,338.78,Active
+1825,SKU-14-1825,Alexander Classic Sunscreen 603,14,5,130.78,222.39,Active
+1826,SKU-10-1826,"Washington, Pro Coffee Maker 899",10,33,54.99,81.93,Active
+1827,SKU-02-1827,Martinez Elite Watch 724,2,5,294.33,450.05,Active
+1828,SKU-07-1828,Oneill Eco Shorts 562,7,10,400.76,999.18,Active
+1829,SKU-02-1829,Brady Lite Drone 447,2,48,207.05,463.24,Active
+1830,SKU-07-1830,"Macdonald, Ultra Boots 688",7,25,135.75,278.07,Discontinued
+1831,SKU-04-1831,Fox Classic Camera 254,4,44,120.19,188.39,Active
+1832,SKU-09-1832,Butler Ergonomic Cookware Set 888,9,46,370.58,893.26,Active
+1833,SKU-03-1833,Tate Smart Headphones 311,3,35,142.27,202.18,Active
+1834,SKU-14-1834,Clay Ultra Massage Gun 653,14,21,160.09,221.42,Active
+1835,SKU-11-1835,Maldonado-Becker Smart Cookware Set 410,11,15,77.66,193.31,Active
+1836,SKU-04-1836,Brooks-Hickman Classic Phone 240,4,8,395.55,962.48,Active
+1837,SKU-07-1837,Hood Ultra Shorts 988,7,25,336.05,735.24,Discontinued
+1838,SKU-08-1838,Miller Premium Jeans 310,8,8,348.09,699.06,Active
+1839,SKU-03-1839,"Castillo, Compact Drone 841",3,14,234.84,351.19,Active
+1840,SKU-08-1840,"Smith, Elite Dress 867",8,14,447.93,805.45,Active
+1841,SKU-13-1841,Nguyen-Dennis Compact Vitamin Pack 589,13,30,118.6,170.12,Discontinued
+1842,SKU-07-1842,"Meadows, Premium Boots 978",7,20,49.53,85.81,Active
+1843,SKU-07-1843,Solis Eco Jeans 818,7,25,42.58,88.24,Active
+1844,SKU-01-1844,Yates-Manning Eco Charger 146,1,37,67.63,108.13,Discontinued
+1845,SKU-09-1845,"Crane, Lite Lamp 811",9,39,214.07,288.31,Active
+1846,SKU-14-1846,Allen Eco Vitamin Pack 732,14,12,189.62,282.34,Active
+1847,SKU-09-1847,Smith Lite Lamp 473,9,11,396.19,567.05,Discontinued
+1848,SKU-04-1848,Price Eco Camera 740,4,40,171.07,395.12,Active
+1849,SKU-13-1849,Holland-Best Ultra Vitamin Pack 129,13,10,400.53,537.14,Active
+1850,SKU-01-1850,Martinez Compact Camera 880,1,11,271.34,523.75,Active
+1851,SKU-06-1851,Fitzgerald-Dorsey Smart Sneakers 529,6,31,444.75,638.17,Active
+1852,SKU-07-1852,"Munoz, Compact Shorts 237",7,1,386.33,877.48,Active
+1853,SKU-08-1853,Hunt-Burns Eco T-Shirt 430,8,40,297.09,516.55,Active
+1854,SKU-02-1854,Alvarez-Hart Ergonomic Watch 866,2,9,374.83,744.22,Active
+1855,SKU-03-1855,Davis-Henderson Lite Speaker 775,3,26,41.57,58.77,Active
+1856,SKU-10-1856,Austin-Hamilton Pro Cookware Set 331,10,20,116.55,253.62,Active
+1857,SKU-08-1857,Davis-Palmer Elite Sweater 629,8,49,261.84,618.02,Active
+1858,SKU-06-1858,Rhodes-Holland Premium Dress 777,6,3,69.62,152.03,Active
+1859,SKU-13-1859,"Moore, Premium Serume 913",13,10,93.06,141.32,Active
+1860,SKU-14-1860,"Miller, Smart Massage Gun 506",14,31,148.53,295.06,Active
+1861,SKU-04-1861,Evans-Joyce Elite Camera 562,4,17,446.75,823.73,Active
+1862,SKU-02-1862,"Leach, Eco Router 445",2,17,155.08,367.7,Active
+1863,SKU-14-1863,Carroll-Arnold Ergonomic Sunscreen 567,14,22,300.15,630.8,Active
+1864,SKU-05-1864,Palmer Pro Dress 536,5,9,290.82,714.75,Active
+1865,SKU-08-1865,Gutierrez-Marshall Pro Sneakers 663,8,23,322.15,467.62,Active
+1866,SKU-07-1866,"Carroll, Compact Sneakers 987",7,33,437.4,664.47,Active
+1867,SKU-14-1867,Mack Smart Serume 303,14,39,331.37,571.52,Active
+1868,SKU-10-1868,Yang Compact Coffee Maker 148,10,15,361.12,626.61,Active
+1869,SKU-09-1869,Hartman Lite Air Purifier 262,9,41,49.56,74.28,Active
+1870,SKU-04-1870,Miller Lite Router 724,4,4,193.69,298.79,Active
+1871,SKU-07-1871,Edwards-Ramsey Eco Boots 634,7,30,437.54,1038.06,Active
+1872,SKU-12-1872,"Cole, Eco Blender 176",12,20,116.84,229.81,Active
+1873,SKU-12-1873,Clark Elite Sofa 168,12,10,31.35,56.19,Active
+1874,SKU-03-1874,"Hendrix, Smart Camera 905",3,38,75.95,136.92,Active
+1875,SKU-14-1875,Ferguson-Smith Classic Moisturizer 331,14,26,433.69,707.55,Active
+1876,SKU-12-1876,Smith Elite Lamp 310,12,49,202.3,426.18,Active
+1877,SKU-11-1877,Stevens-Sullivan Pro Coffee Maker 418,11,39,238.29,530.43,Active
+1878,SKU-11-1878,"Church, Ergonomic Desk 941",11,30,60.56,132.72,Active
+1879,SKU-15-1879,"Li, Classic Perfume 141",15,8,174.77,414.09,Active
+1880,SKU-07-1880,"Leonard, Elite T-Shirt 997",7,32,320.84,750.32,Active
+1881,SKU-04-1881,Smith Compact Tablet 190,4,39,448.93,908.63,Active
+1882,SKU-04-1882,Horton Ergonomic Camera 531,4,50,30.21,43.09,Active
+1883,SKU-12-1883,Clark Eco Desk 755,12,17,230.98,416.59,Active
+1884,SKU-02-1884,Santos Ultra Tablet 830,2,32,363.67,578.71,Active
+1885,SKU-07-1885,"Garrison, Eco Sneakers 899",7,39,372.69,702.68,Active
+1886,SKU-07-1886,Hernandez-Henderson Elite Sweater 991,7,39,416.73,733.07,Active
+1887,SKU-14-1887,Martin Pro Trimmer 197,14,24,57.28,126.98,Active
+1888,SKU-12-1888,"Park, Elite Vacuum 934",12,23,180.22,395.25,Active
+1889,SKU-08-1889,Richards-Harris Ergonomic Coat 984,8,41,237.63,577.02,Active
+1890,SKU-07-1890,"Gallegos, Ultra Jeans 680",7,22,85.43,175.7,Active
+1891,SKU-15-1891,Mccoy Premium Serume 846,15,23,208.2,493.25,Active
+1892,SKU-06-1892,Petty-Allison Classic Jeans 383,6,30,203.47,276.18,Active
+1893,SKU-11-1893,"Lane, Eco Lamp 314",11,42,253.52,592.27,Active
+1894,SKU-07-1894,Freeman Classic T-Shirt 964,7,23,227.43,319.91,Active
+1895,SKU-12-1895,"Garza, Smart Air Purifier 948",12,6,141.1,338.22,Active
+1896,SKU-06-1896,Hall-Brown Elite Shorts 754,6,17,87.86,154.57,Active
+1897,SKU-08-1897,Henderson Classic Dress 925,8,11,199.81,346.42,Active
+1898,SKU-06-1898,"Brown, Ultra Sneakers 294",6,45,263.92,630.93,Active
+1899,SKU-05-1899,Wilson-Dean Compact Sweater 282,5,13,182.1,388.74,Active
+1900,SKU-12-1900,"Reed, Elite Vacuum 972",12,35,122.2,263.84,Active
+1901,SKU-03-1901,Barber-Harrison Premium Tablet 965,3,19,430.45,980.34,Active
+1902,SKU-02-1902,Hall-Robinson Classic Speaker 553,2,10,372.63,594.38,Active
+1903,SKU-05-1903,"Morgan, Ultra Shorts 329",5,16,375.8,931.95,Active
+1904,SKU-08-1904,"Mcdonald, Smart T-Shirt 112",8,40,137.07,336.85,Active
+1905,SKU-08-1905,Moyer-Whitaker Premium Sweater 664,8,12,449.28,687.71,Active
+1906,SKU-10-1906,"Delgado, Premium Sofa 496",10,24,337.32,724.6,Active
+1907,SKU-05-1907,Howell Premium Dress 473,5,21,405.52,983.1,Active
+1908,SKU-02-1908,"Curry, Lite Charger 980",2,35,373.21,799.76,Active
+1909,SKU-02-1909,Moore Compact Watch 648,2,39,144.5,327.83,Active
+1910,SKU-06-1910,Leon Compact Jeans 576,6,30,124.76,287.44,Active
+1911,SKU-08-1911,Young-Hawkins Elite Boots 166,8,36,429.16,646.15,Active
+1912,SKU-11-1912,Howard Ultra Air Purifier 588,11,44,391.07,577.79,Active
+1913,SKU-12-1913,Rhodes-Thompson Eco Sofa 358,12,46,426.57,927.07,Active
+1914,SKU-07-1914,"Johnson, Lite Boots 320",7,45,299.5,500.7,Active
+1915,SKU-06-1915,"Perez, Smart Coat 917",6,10,394.81,961.57,Active
+1916,SKU-11-1916,Glover-Hammond Elite Air Purifier 983,11,46,8.02,16.29,Active
+1917,SKU-10-1917,"Adams, Pro Chair 728",10,11,33.31,59.84,Active
+1918,SKU-04-1918,"Munoz, Elite Headphones 955",4,32,85.65,178.09,Active
+1919,SKU-06-1919,Lloyd-Estes Pro Sneakers 513,6,25,260.43,635.15,Active
+1920,SKU-07-1920,Villegas Ergonomic T-Shirt 967,7,23,157.77,223.25,Active
+1921,SKU-07-1921,"Casey, Eco Shorts 192",7,15,87.13,155.24,Active
+1922,SKU-11-1922,Romero Pro Air Purifier 562,11,2,339.56,654.89,Active
+1923,SKU-01-1923,"Wilson, Compact Phone 799",1,34,171.05,256.95,Discontinued
+1924,SKU-06-1924,"Carter, Premium Hoodie 128",6,24,361.02,715.43,Active
+1925,SKU-03-1925,"Harrell, Smart Drone 610",3,23,85.9,134.18,Active
+1926,SKU-11-1926,Martinez Lite Sofa 483,11,46,260.42,617.12,Active
+1927,SKU-13-1927,Montes-Hammond Lite Sunscreen 252,13,40,367.39,673.84,Discontinued
+1928,SKU-09-1928,Sanchez Pro Desk 398,9,38,52.96,112.26,Active
+1929,SKU-15-1929,Mitchell-Jackson Pro Hair Dryer 297,15,22,273.56,683.03,Active
+1930,SKU-15-1930,Watson-Fischer Compact Face Mask 902,15,36,204.33,294.17,Active
+1931,SKU-04-1931,Soto-Sanchez Classic Headphones 345,4,26,432.37,816.71,Discontinued
+1932,SKU-01-1932,"Fisher, Ergonomic Drone 201",1,42,382.26,538.66,Active
+1933,SKU-09-1933,Hardin-Villanueva Elite Sofa 819,9,35,241.71,428.56,Active
+1934,SKU-05-1934,"Norton, Classic T-Shirt 558",5,41,344.77,569.41,Active
+1935,SKU-07-1935,Carrillo Premium Sneakers 602,7,36,15.61,22.25,Active
+1936,SKU-07-1936,"Acevedo, Eco Shorts 905",7,45,347.98,774.26,Active
+1937,SKU-14-1937,Hamilton Ultra Shampoo 191,14,37,141.67,284.04,Active
+1938,SKU-11-1938,Keller Classic Blender 647,11,25,17.44,42.9,Active
+1939,SKU-09-1939,Orr Ultra Vacuum 856,9,33,231.23,536.24,Active
+1940,SKU-12-1940,"Whitney, Ultra Cookware Set 201",12,15,208.47,317.47,Active
+1941,SKU-02-1941,Barnes-Blackwell Smart Watch 311,2,3,259.16,527.55,Active
+1942,SKU-04-1942,"Spencer, Pro Monitor 104",4,22,407.46,852.21,Active
+1943,SKU-07-1943,Smith-Ramirez Smart Dress 957,7,39,183.87,273.44,Active
+1944,SKU-11-1944,"Bishop, Eco Vacuum 796",11,41,258.89,604.89,Active
+1945,SKU-15-1945,"Harris, Eco Face Mask 806",15,25,9.55,21.85,Active
+1946,SKU-15-1946,"Ramos, Smart Hair Dryer 359",15,26,272.06,558.22,Discontinued
+1947,SKU-13-1947,"Sullivan, Ergonomic Massage Gun 778",13,8,311.83,431.77,Active
+1948,SKU-15-1948,Medina Ergonomic Moisturizer 287,15,48,243.94,366.11,Active
+1949,SKU-11-1949,"Higgins, Premium Desk 649",11,17,132.47,308.21,Active
+1950,SKU-02-1950,"Campbell, Premium Speaker 188",2,9,251.86,477.92,Active
+1951,SKU-01-1951,"Peterson, Ergonomic Watch 211",1,25,54.58,73.44,Active
+1952,SKU-13-1952,"Vargas, Pro Shampoo 546",13,10,278.82,509.05,Active
+1953,SKU-13-1953,"Henderson, Ultra Sunscreen 885",13,47,438.66,974.82,Active
+1954,SKU-10-1954,Green-Romero Ultra Lamp 449,10,12,387.47,620.32,Active
+1955,SKU-04-1955,Williams Ultra Camera 489,4,5,73.13,120.68,Active
+1956,SKU-11-1956,West Smart Air Purifier 773,11,29,325.93,433.61,Active
+1957,SKU-04-1957,"Smith, Elite Router 394",4,21,252.8,372.13,Active
+1958,SKU-11-1958,"Zhang, Pro Vacuum 630",11,11,242.75,495.77,Active
+1959,SKU-06-1959,"Wade, Classic Jacket 246",6,1,406.18,861.58,Active
+1960,SKU-10-1960,Mitchell-Glover Ultra Vacuum 887,10,49,257.29,599.07,Active
+1961,SKU-10-1961,"Armstrong, Compact Chair 120",10,37,293.74,702.91,Active
+1962,SKU-05-1962,"Wright, Elite Boots 560",5,32,410.06,650.03,Active
+1963,SKU-06-1963,Gibson-Thomas Ergonomic Shorts 256,6,15,207.13,487.86,Active
+1964,SKU-11-1964,Poole-Miller Lite Vacuum 363,11,2,397.46,692.25,Active
+1965,SKU-05-1965,Coleman Lite Jacket 570,5,15,187.62,441.99,Active
+1966,SKU-03-1966,Lewis-Miller Classic Speaker 515,3,47,192.41,346.58,Active
+1967,SKU-07-1967,"Fox, Ergonomic Dress 445",7,47,150.07,266.92,Active
+1968,SKU-04-1968,Wiggins-Silva Smart Speaker 682,4,43,91.6,215.11,Active
+1969,SKU-06-1969,"Henderson, Ergonomic Sweater 983",6,42,344.97,617.44,Active
+1970,SKU-07-1970,Dennis-Butler Lite Shorts 211,7,50,246.56,454.36,Active
+1971,SKU-07-1971,Thomas Ultra Jeans 322,7,43,155.27,367.67,Active
+1972,SKU-09-1972,Dawson-Anderson Premium Lamp 553,9,37,15.61,24.16,Active
+1973,SKU-05-1973,"Palmer, Elite T-Shirt 756",5,13,183.84,411.48,Active
+1974,SKU-06-1974,Kennedy-Francis Ergonomic Jeans 988,6,32,333.62,739.02,Active
+1975,SKU-15-1975,"Wood, Elite Sunscreen 852",15,7,284.5,381.9,Active
+1976,SKU-02-1976,Rodriguez-Wood Ultra Phone 982,2,6,391.91,665.39,Active
+1977,SKU-15-1977,Williams-Hernandez Classic Shampoo 861,15,5,72.02,112.04,Active
+1978,SKU-15-1978,Torres-Brooks Classic Trimmer 948,15,12,203.74,347.65,Active
+1979,SKU-02-1979,Tucker-Moody Compact Headphones 255,2,40,77.65,111.98,Active
+1980,SKU-09-1980,Bowers Compact Rug 816,9,16,442.57,941.77,Active
+1981,SKU-11-1981,Zuniga Lite Rug 199,11,25,341.27,499.18,Active
+1982,SKU-08-1982,Lewis-Fuentes Lite Jacket 700,8,29,311.21,710.04,Active
+1983,SKU-03-1983,Smith-Kelley Ergonomic Phone 603,3,22,426.24,844.01,Active
+1984,SKU-15-1984,Harrell Classic Moisturizer 281,15,26,65.05,107.99,Active
+1985,SKU-02-1985,Berry-Knight Smart Charger 399,2,6,321.58,784.18,Active
+1986,SKU-13-1986,Harrington-Alvarez Ergonomic Serume 736,13,11,401.52,723.25,Active
+1987,SKU-05-1987,"Bass, Smart Sweater 386",5,2,442.01,1054.25,Active
+1988,SKU-15-1988,"Murray, Lite Serume 764",15,29,111.27,185.59,Active
+1989,SKU-06-1989,"Nguyen, Ultra Hoodie 867",6,43,447.82,935.06,Active
+1990,SKU-09-1990,Hughes-Mccullough Ultra Lamp 992,9,48,440.32,902.22,Active
+1991,SKU-05-1991,Weaver-Rubio Premium Jeans 581,5,44,174.11,233.86,Active
+1992,SKU-07-1992,Fitzgerald-Brewer Classic Dress 922,7,28,233.1,580.97,Active
+1993,SKU-06-1993,Mann Lite Dress 836,6,19,121.41,185.94,Active
+1994,SKU-15-1994,"Hogan, Ergonomic Moisturizer 924",15,33,301.47,507.17,Active
+1995,SKU-01-1995,Schneider Lite Tablet 348,1,10,38.11,66.62,Active
+1996,SKU-04-1996,Friedman Pro Tablet 109,4,22,326.78,713.62,Active
+1997,SKU-10-1997,"Todd, Pro Lamp 696",10,30,283.63,665.29,Active
+1998,SKU-06-1998,Shaw-Smith Pro Coat 224,6,48,29.99,43.98,Active
+1999,SKU-03-1999,"Mayer, Pro Tablet 103",3,14,197.67,419.6,Discontinued
+2000,SKU-02-2000,Sanchez Premium Charger 740,2,13,240.55,450.13,Active

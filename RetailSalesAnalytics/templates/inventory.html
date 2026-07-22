@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block title %}Inventory & Stock Alerts | Retail Sales Analytics{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h3 class="fw-bold mb-1"><i class="fa-solid fa-boxes-stacked text-info me-2"></i>Inventory & Stock Control</h3>
+        <p class="text-secondary small mb-0">Current stock levels, reorder threshold alerts & inventory valuation</p>
+    </div>
+</div>
+
+<!-- Filters -->
+<div class="card bg-dark border-secondary mb-4 p-3">
+    <form method="GET" action="/inventory" class="row g-3">
+        <div class="col-md-3">
+            <label class="form-label small text-secondary">Filter Store</label>
+            <select name="store_id" class="form-select bg-dark text-light border-secondary">
+                <option value="">All Stores</option>
+                {% for st in stores %}
+                <option value="{{ st.StoreID }}" {% if current_store == st.StoreID %}selected{% endif %}>{{ st.StoreName }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="col-md-3">
+            <label class="form-label small text-secondary">Filter Category</label>
+            <select name="category_id" class="form-select bg-dark text-light border-secondary">
+                <option value="">All Categories</option>
+                {% for cat in categories %}
+                <option value="{{ cat.CategoryID }}" {% if current_category == cat.CategoryID %}selected{% endif %}>{{ cat.CategoryName }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="col-md-3 d-flex align-items-center">
+            <div class="form-check mt-3">
+                <input class="form-check-input" type="checkbox" name="low_stock" value="1" id="lowStockCheck" {% if low_stock_only %}checked{% endif %}>
+                <label class="form-check-label text-warning fw-bold small" for="lowStockCheck">
+                    <i class="fa-solid fa-triangle-exclamation me-1"></i> Show Low Stock Only
+                </label>
+            </div>
+        </div>
+        <div class="col-md-3 d-flex align-items-end gap-2">
+            <button type="submit" class="btn btn-info w-100">Apply Filter</button>
+            <a href="/inventory" class="btn btn-outline-secondary">Reset</a>
+        </div>
+    </form>
+</div>
+
+<!-- Inventory Table -->
+<div class="card bg-dark border-secondary">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-custom align-middle mb-0">
+                <thead>
+                    <tr>
+                        <th>SKU</th>
+                        <th>Product Name</th>
+                        <th>Category</th>
+                        <th>Store Location</th>
+                        <th>Stock Qty</th>
+                        <th>Reorder Level</th>
+                        <th>Unit Cost</th>
+                        <th>Cost Value</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in items %}
+                    <tr>
+                        <td class="fw-bold text-info">{{ item.SKU }}</td>
+                        <td class="text-light fw-bold">{{ item.ProductName }}</td>
+                        <td>{{ item.CategoryName }}</td>
+                        <td>{{ item.StoreName }}</td>
+                        <td class="fw-bold fs-6">{{ item.StockQuantity }}</td>
+                        <td class="text-secondary">{{ item.ReorderLevel }}</td>
+                        <td>${{ "{:,.2f}".format(item.CostPrice) }}</td>
+                        <td class="fw-bold text-light">${{ "{:,.2f}".format(item.InventoryCostValue) }}</td>
+                        <td>
+                            {% if item.StockStatus == 'In Stock' %}
+                                <span class="badge badge-instock">In Stock</span>
+                            {% elif item.StockStatus == 'Low Stock' %}
+                                <span class="badge badge-lowstock">Low Stock</span>
+                            {% else %}
+                                <span class="badge badge-outstock">Out of Stock</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
