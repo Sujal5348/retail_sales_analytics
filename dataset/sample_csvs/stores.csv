@@ -1,0 +1,21 @@
+StoreID,StoreName,Location,City,Region,StoreType,ManagerName,SquareFeet,OpenedDate
+1,Zudio - New Delhi,"50, Mall Road, New Delhi",New Delhi,North,High Street Store,Jyoti Lala,13801,2025-01-29
+2,Zudio - Jaipur,"45, Mall Road, Jaipur",Jaipur,North,High Street Store,Kamya Chokshi,11582,2025-06-18
+3,Zudio - Lucknow,"83, Mall Road, Lucknow",Lucknow,North,Mall Store,Urishilla Bakshi,17441,2025-03-24
+4,Zudio - Chandigarh,"34, Mall Road, Chandigarh",Chandigarh,North,Flagship Store,Timothy Bhatnagar,11272,2025-04-18
+5,Zudio - Bangalore,"90, Mall Road, Bangalore",Bangalore,South,High Street Store,Chasmum Rege,9750,2023-02-02
+6,Zudio - Hyderabad,"85, Mall Road, Hyderabad",Hyderabad,South,High Street Store,Chakradev Barad,9883,2023-11-20
+7,Zudio - Chennai,"41, Mall Road, Chennai",Chennai,South,Mall Store,Jack Chatterjee,15229,2023-08-04
+8,Zudio - Kochi,"70, Mall Road, Kochi",Kochi,South,Flagship Store,Lipika Setty,11135,2024-03-03
+9,Zudio - Mumbai,"75, Mall Road, Mumbai",Mumbai,West,Flagship Store,Mohammed Sachdeva,12293,2025-05-18
+10,Zudio - Pune,"28, Mall Road, Pune",Pune,West,High Street Store,Vrishti Reddy,11269,2023-10-13
+11,Zudio - Ahmedabad,"20, Mall Road, Ahmedabad",Ahmedabad,West,High Street Store,Kamala Kalla,14043,2024-06-23
+12,Zudio - Surat,"69, Mall Road, Surat",Surat,West,High Street Store,Warinder Patil,17924,2023-01-06
+13,Zudio - Kolkata,"44, Mall Road, Kolkata",Kolkata,East,Flagship Store,Jagrati Bhat,13364,2024-04-14
+14,Zudio - Patna,"59, Mall Road, Patna",Patna,East,Flagship Store,Ranveer Das,10525,2024-07-11
+15,Zudio - Bhubaneswar,"28, Mall Road, Bhubaneswar",Bhubaneswar,East,Mall Store,Simon Bail,6967,2022-10-22
+16,Zudio - Guwahati,"70, Mall Road, Guwahati",Guwahati,East,Flagship Store,Yagnesh Dass,9659,2024-12-29
+17,Zudio - Indore,"91, Mall Road, Indore",Indore,Central,Flagship Store,Ekapad Johal,11361,2025-01-31
+18,Zudio - Bhopal,"55, Mall Road, Bhopal",Bhopal,Central,High Street Store,Viraj Narasimhan,13906,2023-03-22
+19,Zudio - Nagpur,"81, Mall Road, Nagpur",Nagpur,Central,Flagship Store,Aradhana Dhillon,10468,2023-02-22
+20,Zudio - Raipur,"50, Mall Road, Raipur",Raipur,Central,Mall Store,Owen Choudhary,11147,2025-05-27

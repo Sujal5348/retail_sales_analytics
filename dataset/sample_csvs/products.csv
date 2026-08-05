@@ -1,0 +1,2001 @@
+ProductID,SKU,ProductName,CategoryID,SupplierID,CostPrice,SellingPrice,Status
+1,ZUD-13-0001,Zudio Sporty Flat Sandals 69,13,36,305.96,699.0,Active
+2,ZUD-01-0002,Zudio Cozy Polo T-Shirt 97,1,50,460.86,899.0,Active
+3,ZUD-04-0003,Zudio Solid Joggers 30,4,47,319.99,799.0,Active
+4,ZUD-09-0004,Zudio Denim Denim Shorts 74,9,20,79.06,149.0,Active
+5,ZUD-17-0005,Zudio Stretch Eau de Toilette 29,17,35,76.64,149.0,Active
+6,ZUD-17-0006,Zudio Casual Ankle Socks 51,17,24,80.18,199.0,Active
+7,ZUD-10-0007,Zudio Printed Printed Tee 40,10,6,216.27,399.0,Active
+8,ZUD-03-0008,Zudio Denim Casual Shirt 26,3,11,433.08,799.0,Active
+9,ZUD-14-0009,Zudio Printed Flat Sandals 98,14,26,202.27,399.0,Active
+10,ZUD-12-0010,Zudio Ethnic Flat Sandals 67,12,5,130.72,299.0,Active
+11,ZUD-08-0011,Zudio Stretch Straight Kurti 10,8,4,126.04,249.0,Active
+12,ZUD-02-0012,Zudio Classic Polo T-Shirt 75,2,32,176.27,399.0,Active
+13,ZUD-05-0013,Zudio Stylish Leggings 41,5,13,416.38,799.0,Active
+14,ZUD-14-0014,Zudio Classic Flip Flops 62,14,4,317.22,599.0,Active
+15,ZUD-04-0015,Zudio Casual Joggers 53,4,13,108.89,249.0,Active
+16,ZUD-05-0016,Zudio Sporty Anarkali Kurta 45,5,5,349.54,799.0,Active
+17,ZUD-04-0017,Zudio Casual Track Pants 11,4,16,134.2,249.0,Active
+18,ZUD-16-0018,Zudio Ethnic Eau de Toilette 61,16,1,33.55,79.0,Active
+19,ZUD-09-0019,Zudio Ethnic Frock 64,9,36,271.26,499.0,Active
+20,ZUD-16-0020,Zudio Regular Eau de Toilette 47,16,38,53.99,99.0,Active
+21,ZUD-02-0021,Zudio Stylish Denim Jeans 17,2,33,97.04,199.0,Active
+22,ZUD-17-0022,Zudio Regular Deodorant Spray 75,17,5,41.69,79.0,Active
+23,ZUD-08-0023,Zudio Sporty Cropped Top 82,8,3,194.25,399.0,Active
+24,ZUD-14-0024,Zudio Cozy Flat Sandals 82,14,17,312.77,699.0,Active
+25,ZUD-11-0025,Zudio Printed Frock 60,11,20,99.65,199.0,Active
+26,ZUD-03-0026,Zudio Casual Hoodie 89,3,5,548.87,999.0,Active
+27,ZUD-17-0027,Zudio Solid Eau de Toilette 54,17,24,42.02,79.0,Active
+28,ZUD-15-0028,Zudio Denim Canvas Backpack 48,15,42,136.35,249.0,Active
+29,ZUD-10-0029,Zudio Cozy Printed Tee 27,10,7,103.91,249.0,Active
+30,ZUD-05-0030,Zudio Solid Skinny Jeans 87,5,14,202.55,399.0,Active
+31,ZUD-09-0031,Zudio Denim Jumpsuit 42,9,41,244.16,599.0,Active
+32,ZUD-09-0032,Zudio Casual Printed Tee 52,9,17,251.35,599.0,Active
+33,ZUD-15-0033,Zudio Denim Canvas Backpack 64,15,5,99.96,249.0,Active
+34,ZUD-05-0034,Zudio Denim Graphic Tee 57,5,28,482.4,999.0,Active
+35,ZUD-10-0035,Zudio Classic Printed Tee 55,10,43,99.96,199.0,Active
+36,ZUD-14-0036,Zudio Stretch Canvas Shoes 29,14,12,211.35,399.0,Active
+37,ZUD-01-0037,Zudio Regular Denim Jeans 62,1,45,175.57,399.0,Active
+38,ZUD-02-0038,Zudio Ethnic Chino Pants 35,2,15,361.51,799.0,Active
+39,ZUD-07-0039,Zudio Sporty Palazzo Pants 45,7,18,135.71,249.0,Active
+40,ZUD-17-0040,Zudio Sporty Canvas Backpack 78,17,8,80.59,149.0,Active
+41,ZUD-09-0041,Zudio Regular Tracksuit 43,9,28,62.02,149.0,Active
+42,ZUD-11-0042,Zudio Sporty Tracksuit 75,11,37,68.21,149.0,Active
+43,ZUD-02-0043,Zudio Stylish Joggers 10,2,35,484.41,899.0,Active
+44,ZUD-07-0044,Zudio Classic Maxi Dress 18,7,43,295.59,599.0,Active
+45,ZUD-10-0045,Zudio Denim Frock 95,10,45,134.23,299.0,Active
+46,ZUD-05-0046,Zudio Printed Maxi Dress 95,5,12,350.62,699.0,Active
+47,ZUD-10-0047,Zudio Sporty Tracksuit 10,10,28,110.32,249.0,Active
+48,ZUD-11-0048,Zudio Ethnic Jumpsuit 66,11,31,215.6,499.0,Active
+49,ZUD-06-0049,Zudio Cozy Cropped Top 46,6,40,449.12,899.0,Active
+50,ZUD-08-0050,Zudio Cozy Skinny Jeans 38,8,3,168.42,399.0,Active
+51,ZUD-16-0051,Zudio Stretch Leather Belt 19,16,41,91.97,199.0,Active
+52,ZUD-13-0052,Zudio Ethnic Flip Flops 41,13,1,198.87,399.0,Active
+53,ZUD-04-0053,Zudio Sporty Chino Pants 32,4,36,422.24,899.0,Active
+54,ZUD-04-0054,Zudio Ethnic Casual Shirt 69,4,39,492.82,899.0,Active
+55,ZUD-15-0055,Zudio Stretch Leather Belt 74,15,36,104.39,199.0,Active
+56,ZUD-06-0056,Zudio Stylish Leggings 67,6,41,255.87,499.0,Active
+57,ZUD-17-0057,Zudio Ethnic Canvas Backpack 40,17,46,69.43,149.0,Active
+58,ZUD-09-0058,Zudio Classic Frock 79,9,15,62.69,149.0,Active
+59,ZUD-05-0059,Zudio Stylish Straight Kurti 18,5,35,322.34,699.0,Active
+60,ZUD-02-0060,Zudio Printed Joggers 59,2,2,541.37,999.0,Active
+61,ZUD-13-0061,Zudio Ethnic Sneakers 55,13,27,256.0,499.0,Active
+62,ZUD-08-0062,Zudio Ethnic Straight Kurti 44,8,25,330.52,699.0,Active
+63,ZUD-13-0063,Zudio Stylish Slides 69,13,35,218.3,399.0,Discontinued
+64,ZUD-13-0064,Zudio Stretch Flat Sandals 94,13,28,123.37,299.0,Active
+65,ZUD-15-0065,Zudio Regular Deodorant Spray 43,15,30,89.37,199.0,Active
+66,ZUD-13-0066,Zudio Solid Loafers 63,13,31,262.09,499.0,Discontinued
+67,ZUD-02-0067,Zudio Classic Chino Pants 93,2,42,128.78,249.0,Active
+68,ZUD-01-0068,Zudio Printed Chino Pants 12,1,9,422.43,999.0,Active
+69,ZUD-04-0069,Zudio Stretch Chino Pants 69,4,11,257.0,499.0,Active
+70,ZUD-04-0070,Zudio Regular Cargo Shorts 23,4,20,403.45,999.0,Active
+71,ZUD-13-0071,Zudio Sporty Canvas Shoes 35,13,41,146.16,299.0,Active
+72,ZUD-10-0072,Zudio Cozy Tracksuit 25,10,3,328.0,599.0,Active
+73,ZUD-14-0073,Zudio Cozy Running Shoes 18,14,1,347.49,699.0,Active
+74,ZUD-16-0074,Zudio Slim-Fit Nail Polish 56,16,30,159.59,299.0,Active
+75,ZUD-14-0075,Zudio Regular Canvas Shoes 76,14,35,351.97,799.0,Active
+76,ZUD-15-0076,Zudio Sporty Leather Belt 85,15,16,66.8,149.0,Active
+77,ZUD-03-0077,Zudio Solid Hoodie 41,3,43,387.9,799.0,Active
+78,ZUD-01-0078,Zudio Ethnic Denim Jeans 33,1,17,345.02,799.0,Active
+79,ZUD-09-0079,Zudio Denim Printed Tee 76,9,47,82.16,199.0,Active
+80,ZUD-08-0080,Zudio Stylish Leggings 92,8,2,373.31,799.0,Active
+81,ZUD-08-0081,Zudio Sporty Straight Kurti 49,8,36,454.9,999.0,Active
+82,ZUD-14-0082,Zudio Stylish Flat Sandals 52,14,18,252.21,499.0,Active
+83,ZUD-08-0083,Zudio Slim-Fit Straight Kurti 50,8,49,127.35,249.0,Active
+84,ZUD-07-0084,Zudio Printed Leggings 45,7,34,545.94,999.0,Active
+85,ZUD-04-0085,Zudio Printed Cargo Shorts 39,4,1,255.72,599.0,Active
+86,ZUD-05-0086,Zudio Solid Graphic Tee 16,5,9,398.99,899.0,Active
+87,ZUD-16-0087,Zudio Slim-Fit Leather Belt 11,16,31,110.22,249.0,Active
+88,ZUD-06-0088,Zudio Casual Skinny Jeans 71,6,26,130.31,249.0,Active
+89,ZUD-02-0089,Zudio Regular Casual Shirt 82,2,16,205.98,499.0,Active
+90,ZUD-14-0090,Zudio Stretch Flat Sandals 89,14,25,206.03,399.0,Active
+91,ZUD-15-0091,Zudio Solid Leather Belt 85,15,40,88.72,199.0,Active
+92,ZUD-04-0092,Zudio Printed Chino Pants 43,4,12,105.47,249.0,Active
+93,ZUD-06-0093,Zudio Casual Maxi Dress 67,6,3,470.02,999.0,Active
+94,ZUD-10-0094,Zudio Stylish Jumpsuit 19,10,17,217.07,499.0,Active
+95,ZUD-07-0095,Zudio Sporty Cropped Top 79,7,18,198.36,399.0,Active
+96,ZUD-03-0096,Zudio Casual Casual Shirt 49,3,37,511.83,999.0,Active
+97,ZUD-15-0097,Zudio Slim-Fit Nail Polish 98,15,18,75.24,149.0,Active
+98,ZUD-16-0098,Zudio Ethnic Deodorant Spray 86,16,48,42.14,79.0,Active
+99,ZUD-09-0099,Zudio Casual Printed Tee 39,9,37,262.17,499.0,Active
+100,ZUD-01-0100,Zudio Cozy Cargo Shorts 83,1,12,102.38,199.0,Active
+101,ZUD-15-0101,Zudio Solid Eau de Toilette 84,15,32,98.55,199.0,Active
+102,ZUD-16-0102,Zudio Classic Nail Polish 52,16,11,74.58,149.0,Active
+103,ZUD-16-0103,Zudio Solid Canvas Backpack 61,16,6,100.97,249.0,Active
+104,ZUD-11-0104,Zudio Slim-Fit Jumpsuit 75,11,43,328.38,599.0,Active
+105,ZUD-15-0105,Zudio Sporty Deodorant Spray 34,15,49,113.11,249.0,Active
+106,ZUD-15-0106,Zudio Casual Eau de Toilette 44,15,19,104.49,249.0,Active
+107,ZUD-16-0107,Zudio Slim-Fit Deodorant Spray 90,16,46,129.45,249.0,Active
+108,ZUD-01-0108,Zudio Denim Joggers 21,1,8,218.99,399.0,Active
+109,ZUD-04-0109,Zudio Cozy Casual Shirt 73,4,18,237.69,499.0,Active
+110,ZUD-16-0110,Zudio Ethnic Eau de Toilette 68,16,13,105.0,249.0,Active
+111,ZUD-17-0111,Zudio Stylish Eau de Toilette 18,17,27,76.87,149.0,Active
+112,ZUD-17-0112,Zudio Solid Leather Belt 10,17,38,75.83,149.0,Active
+113,ZUD-16-0113,Zudio Regular Nail Polish 78,16,36,89.9,199.0,Active
+114,ZUD-13-0114,Zudio Ethnic Running Shoes 34,13,25,348.22,799.0,Active
+115,ZUD-14-0115,Zudio Casual Running Shoes 70,14,25,429.07,799.0,Active
+116,ZUD-05-0116,Zudio Ethnic Graphic Tee 26,5,22,489.78,899.0,Active
+117,ZUD-15-0117,Zudio Slim-Fit Ankle Socks 68,15,27,40.16,79.0,Active
+118,ZUD-05-0118,Zudio Slim-Fit Leggings 43,5,26,295.6,599.0,Active
+119,ZUD-11-0119,Zudio Cozy Tracksuit 58,11,49,123.01,249.0,Active
+120,ZUD-02-0120,Zudio Stretch Polo T-Shirt 40,2,48,274.26,499.0,Active
+121,ZUD-04-0121,Zudio Cozy Polo T-Shirt 66,4,2,150.73,299.0,Active
+122,ZUD-02-0122,Zudio Solid Denim Jeans 57,2,34,294.86,699.0,Active
+123,ZUD-06-0123,Zudio Regular Anarkali Kurta 20,6,40,530.1,999.0,Active
+124,ZUD-16-0124,Zudio Stretch Eau de Toilette 39,16,30,98.64,199.0,Active
+125,ZUD-01-0125,Zudio Ethnic Cargo Shorts 96,1,29,380.9,899.0,Active
+126,ZUD-10-0126,Zudio Cozy Jumpsuit 98,10,20,116.66,249.0,Active
+127,ZUD-13-0127,Zudio Ethnic Sneakers 40,13,37,290.99,599.0,Active
+128,ZUD-10-0128,Zudio Casual Pajama Set 60,10,44,99.9,249.0,Active
+129,ZUD-02-0129,Zudio Stretch Hoodie 46,2,23,195.93,399.0,Active
+130,ZUD-07-0130,Zudio Stretch Skinny Jeans 96,7,41,147.78,299.0,Active
+131,ZUD-10-0131,Zudio Ethnic Printed Tee 84,10,6,126.95,249.0,Active
+132,ZUD-11-0132,Zudio Stylish Jumpsuit 32,11,35,83.54,199.0,Active
+133,ZUD-12-0133,Zudio Denim Flat Sandals 44,12,31,381.79,899.0,Active
+134,ZUD-10-0134,Zudio Stylish Frock 24,10,10,162.79,299.0,Active
+135,ZUD-08-0135,Zudio Cozy Maxi Dress 81,8,26,247.71,599.0,Discontinued
+136,ZUD-04-0136,Zudio Ethnic Denim Jeans 96,4,41,243.35,499.0,Active
+137,ZUD-04-0137,Zudio Cozy Chino Pants 70,4,36,98.09,199.0,Active
+138,ZUD-08-0138,Zudio Cozy Cropped Top 91,8,20,428.59,799.0,Active
+139,ZUD-04-0139,Zudio Regular T-Shirt 14,4,8,274.15,499.0,Active
+140,ZUD-05-0140,Zudio Sporty Leggings 57,5,48,416.12,899.0,Active
+141,ZUD-14-0141,Zudio Cozy Sneakers 72,14,18,322.39,699.0,Active
+142,ZUD-12-0142,Zudio Printed Flip Flops 66,12,7,210.8,399.0,Active
+143,ZUD-12-0143,Zudio Denim Canvas Shoes 55,12,13,137.46,299.0,Active
+144,ZUD-15-0144,Zudio Slim-Fit Canvas Backpack 37,15,2,148.28,299.0,Active
+145,ZUD-11-0145,Zudio Printed Denim Shorts 82,11,49,81.65,199.0,Active
+146,ZUD-07-0146,Zudio Printed Palazzo Pants 28,7,10,400.02,999.0,Active
+147,ZUD-09-0147,Zudio Regular Printed Tee 94,9,1,241.92,599.0,Active
+148,ZUD-08-0148,Zudio Stretch Palazzo Pants 12,8,9,131.5,299.0,Active
+149,ZUD-17-0149,Zudio Slim-Fit Canvas Backpack 18,17,24,92.98,199.0,Active
+150,ZUD-04-0150,Zudio Ethnic Track Pants 38,4,43,406.1,999.0,Active
+151,ZUD-15-0151,Zudio Cozy Deodorant Spray 17,15,28,104.89,199.0,Active
+152,ZUD-16-0152,Zudio Stylish Nail Polish 19,16,10,35.42,79.0,Active
+153,ZUD-09-0153,Zudio Stretch Pajama Set 84,9,25,202.22,399.0,Active
+154,ZUD-17-0154,Zudio Solid Nail Polish 74,17,45,115.67,249.0,Active
+155,ZUD-07-0155,Zudio Sporty Leggings 39,7,30,315.14,699.0,Active
+156,ZUD-04-0156,Zudio Classic Joggers 50,4,10,227.62,499.0,Active
+157,ZUD-16-0157,Zudio Slim-Fit Deodorant Spray 20,16,48,36.72,79.0,Active
+158,ZUD-05-0158,Zudio Denim Graphic Tee 85,5,43,435.34,899.0,Active
+159,ZUD-12-0159,Zudio Cozy Loafers 64,12,4,483.1,899.0,Active
+160,ZUD-10-0160,Zudio Classic Printed Tee 83,10,43,172.33,399.0,Active
+161,ZUD-04-0161,Zudio Classic Track Pants 57,4,37,128.08,249.0,Active
+162,ZUD-14-0162,Zudio Denim Loafers 89,14,36,350.37,699.0,Discontinued
+163,ZUD-09-0163,Zudio Casual Denim Shorts 44,9,22,256.67,499.0,Active
+164,ZUD-06-0164,Zudio Regular Maxi Dress 18,6,2,152.83,299.0,Active
+165,ZUD-17-0165,Zudio Printed Nail Polish 63,17,24,89.78,199.0,Active
+166,ZUD-11-0166,Zudio Stretch Tracksuit 20,11,49,63.08,149.0,Active
+167,ZUD-03-0167,Zudio Solid Hoodie 94,3,29,330.52,699.0,Active
+168,ZUD-07-0168,Zudio Denim Cropped Top 54,7,44,291.23,699.0,Active
+169,ZUD-16-0169,Zudio Denim Canvas Backpack 49,16,39,34.21,79.0,Active
+170,ZUD-07-0170,Zudio Solid Straight Kurti 27,7,8,221.27,499.0,Discontinued
+171,ZUD-14-0171,Zudio Regular Slides 58,14,33,353.38,699.0,Active
+172,ZUD-12-0172,Zudio Slim-Fit Flip Flops 15,12,5,241.28,599.0,Active
+173,ZUD-14-0173,Zudio Stretch Flip Flops 91,14,26,265.61,599.0,Discontinued
+174,ZUD-11-0174,Zudio Regular Tracksuit 68,11,24,301.56,599.0,Active
+175,ZUD-04-0175,Zudio Printed Joggers 85,4,26,334.54,699.0,Active
+176,ZUD-11-0176,Zudio Printed Frock 31,11,8,71.01,149.0,Active
+177,ZUD-07-0177,Zudio Classic Palazzo Pants 92,7,10,130.2,299.0,Active
+178,ZUD-06-0178,Zudio Stretch Anarkali Kurta 93,6,50,106.22,249.0,Active
+179,ZUD-15-0179,Zudio Stretch Leather Belt 84,15,37,99.93,199.0,Active
+180,ZUD-11-0180,Zudio Cozy Frock 29,11,29,122.66,299.0,Active
+181,ZUD-09-0181,Zudio Stretch Printed Tee 55,9,30,164.04,399.0,Active
+182,ZUD-02-0182,Zudio Classic Cargo Shorts 19,2,33,122.57,249.0,Active
+183,ZUD-02-0183,Zudio Ethnic Chino Pants 51,2,10,470.87,999.0,Active
+184,ZUD-15-0184,Zudio Slim-Fit Leather Belt 53,15,42,123.38,299.0,Active
+185,ZUD-08-0185,Zudio Stylish Leggings 66,8,11,430.09,899.0,Active
+186,ZUD-10-0186,Zudio Sporty Jumpsuit 53,10,41,244.35,499.0,Active
+187,ZUD-03-0187,Zudio Classic Polo T-Shirt 81,3,47,309.39,699.0,Active
+188,ZUD-05-0188,Zudio Classic Cropped Top 84,5,20,160.72,299.0,Active
+189,ZUD-13-0189,Zudio Regular Flat Sandals 20,13,42,241.44,499.0,Active
+190,ZUD-05-0190,Zudio Cozy Sports Bra 21,5,2,332.92,699.0,Active
+191,ZUD-06-0191,Zudio Printed Palazzo Pants 72,6,9,173.16,399.0,Active
+192,ZUD-10-0192,Zudio Slim-Fit Tracksuit 79,10,34,305.97,599.0,Active
+193,ZUD-11-0193,Zudio Stretch Denim Shorts 86,11,12,126.52,299.0,Active
+194,ZUD-06-0194,Zudio Stylish Leggings 15,6,47,317.8,699.0,Active
+195,ZUD-15-0195,Zudio Stretch Matte Lipstick 67,15,20,47.53,99.0,Active
+196,ZUD-16-0196,Zudio Printed Matte Lipstick 96,16,30,136.37,249.0,Active
+197,ZUD-13-0197,Zudio Denim Flat Sandals 63,13,39,208.49,399.0,Active
+198,ZUD-09-0198,Zudio Casual Pajama Set 71,9,7,272.95,599.0,Active
+199,ZUD-17-0199,Zudio Slim-Fit Matte Lipstick 20,17,33,43.65,99.0,Active
+200,ZUD-14-0200,Zudio Slim-Fit Slides 67,14,27,269.25,499.0,Active
+201,ZUD-17-0201,Zudio Classic Eau de Toilette 59,17,2,36.04,79.0,Active
+202,ZUD-04-0202,Zudio Stylish Denim Jeans 28,4,31,121.32,299.0,Active
+203,ZUD-05-0203,Zudio Stylish Leggings 67,5,6,400.39,999.0,Discontinued
+204,ZUD-07-0204,Zudio Regular Sports Bra 87,7,50,416.68,899.0,Active
+205,ZUD-10-0205,Zudio Slim-Fit Printed Tee 40,10,40,148.26,299.0,Active
+206,ZUD-04-0206,Zudio Ethnic Track Pants 12,4,46,437.15,899.0,Active
+207,ZUD-14-0207,Zudio Casual Flat Sandals 55,14,12,193.75,399.0,Active
+208,ZUD-03-0208,Zudio Denim Denim Jeans 18,3,33,432.97,899.0,Active
+209,ZUD-13-0209,Zudio Ethnic Sneakers 91,13,17,327.75,599.0,Active
+210,ZUD-12-0210,Zudio Slim-Fit Running Shoes 40,12,7,398.35,799.0,Active
+211,ZUD-11-0211,Zudio Regular Printed Tee 55,11,42,179.86,399.0,Active
+212,ZUD-15-0212,Zudio Stylish Nail Polish 90,15,5,51.65,99.0,Active
+213,ZUD-15-0213,Zudio Casual Matte Lipstick 35,15,3,40.97,79.0,Active
+214,ZUD-10-0214,Zudio Denim Jumpsuit 79,10,49,130.96,299.0,Active
+215,ZUD-10-0215,Zudio Classic Printed Tee 93,10,24,109.8,249.0,Active
+216,ZUD-13-0216,Zudio Stylish Flip Flops 59,13,32,272.48,499.0,Active
+217,ZUD-12-0217,Zudio Denim Running Shoes 20,12,28,370.48,799.0,Active
+218,ZUD-06-0218,Zudio Denim Skinny Jeans 51,6,43,102.59,249.0,Active
+219,ZUD-15-0219,Zudio Stretch Canvas Backpack 64,15,23,49.84,99.0,Active
+220,ZUD-12-0220,Zudio Stretch Flip Flops 45,12,4,437.06,799.0,Active
+221,ZUD-13-0221,Zudio Classic Flat Sandals 96,13,10,216.62,399.0,Active
+222,ZUD-15-0222,Zudio Casual Eau de Toilette 18,15,24,51.16,99.0,Active
+223,ZUD-02-0223,Zudio Stretch Casual Shirt 96,2,24,433.32,799.0,Active
+224,ZUD-03-0224,Zudio Stretch Casual Shirt 77,3,42,275.36,599.0,Active
+225,ZUD-04-0225,Zudio Casual Casual Shirt 73,4,36,411.79,899.0,Active
+226,ZUD-09-0226,Zudio Stylish Jumpsuit 37,9,32,176.69,399.0,Active
+227,ZUD-05-0227,Zudio Slim-Fit Leggings 32,5,44,439.12,799.0,Active
+228,ZUD-11-0228,Zudio Cozy Frock 18,11,20,192.05,399.0,Active
+229,ZUD-06-0229,Zudio Classic Sports Bra 38,6,9,136.39,249.0,Active
+230,ZUD-16-0230,Zudio Casual Matte Lipstick 80,16,36,113.38,249.0,Active
+231,ZUD-03-0231,Zudio Slim-Fit Cargo Shorts 60,3,50,382.6,799.0,Active
+232,ZUD-03-0232,Zudio Regular Denim Jeans 92,3,44,116.41,249.0,Active
+233,ZUD-05-0233,Zudio Denim Anarkali Kurta 26,5,4,332.33,699.0,Active
+234,ZUD-17-0234,Zudio Regular Matte Lipstick 31,17,46,44.39,99.0,Active
+235,ZUD-17-0235,Zudio Solid Leather Belt 20,17,36,63.99,149.0,Active
+236,ZUD-10-0236,Zudio Stretch Tracksuit 21,10,38,197.96,399.0,Active
+237,ZUD-05-0237,Zudio Regular Palazzo Pants 82,5,2,104.23,199.0,Active
+238,ZUD-09-0238,Zudio Cozy Denim Shorts 83,9,2,147.32,299.0,Active
+239,ZUD-10-0239,Zudio Cozy Frock 71,10,44,103.62,199.0,Active
+240,ZUD-15-0240,Zudio Slim-Fit Canvas Backpack 17,15,31,46.13,99.0,Active
+241,ZUD-11-0241,Zudio Stretch Denim Shorts 50,11,47,304.14,599.0,Active
+242,ZUD-12-0242,Zudio Sporty Slides 57,12,21,338.49,699.0,Active
+243,ZUD-04-0243,Zudio Solid Hoodie 41,4,19,123.94,299.0,Active
+244,ZUD-14-0244,Zudio Printed Loafers 30,14,37,403.75,899.0,Active
+245,ZUD-07-0245,Zudio Regular Leggings 75,7,20,379.38,799.0,Active
+246,ZUD-03-0246,Zudio Sporty Track Pants 68,3,23,172.48,399.0,Active
+247,ZUD-10-0247,Zudio Ethnic Tracksuit 93,10,35,234.82,499.0,Discontinued
+248,ZUD-04-0248,Zudio Sporty Casual Shirt 43,4,24,308.23,599.0,Active
+249,ZUD-02-0249,Zudio Stretch Track Pants 34,2,5,289.31,599.0,Active
+250,ZUD-15-0250,Zudio Denim Matte Lipstick 89,15,9,147.01,299.0,Active
+251,ZUD-13-0251,Zudio Classic Loafers 53,13,49,378.05,699.0,Active
+252,ZUD-17-0252,Zudio Sporty Ankle Socks 15,17,46,32.06,79.0,Active
+253,ZUD-16-0253,Zudio Denim Nail Polish 29,16,9,132.96,249.0,Active
+254,ZUD-11-0254,Zudio Regular Jumpsuit 88,11,38,262.67,499.0,Active
+255,ZUD-17-0255,Zudio Denim Nail Polish 82,17,2,70.21,149.0,Active
+256,ZUD-04-0256,Zudio Sporty Cargo Shorts 98,4,17,97.42,199.0,Active
+257,ZUD-08-0257,Zudio Stylish Graphic Tee 84,8,41,340.04,799.0,Active
+258,ZUD-13-0258,Zudio Regular Loafers 97,13,45,161.49,399.0,Active
+259,ZUD-01-0259,Zudio Ethnic Denim Jeans 63,1,14,138.12,299.0,Active
+260,ZUD-16-0260,Zudio Stylish Canvas Backpack 17,16,14,125.79,299.0,Active
+261,ZUD-16-0261,Zudio Denim Nail Polish 50,16,35,46.43,99.0,Active
+262,ZUD-12-0262,Zudio Cozy Loafers 97,12,17,415.92,799.0,Active
+263,ZUD-07-0263,Zudio Printed Skinny Jeans 81,7,20,216.43,499.0,Active
+264,ZUD-07-0264,Zudio Stylish Leggings 50,7,47,361.4,799.0,Active
+265,ZUD-04-0265,Zudio Stretch Track Pants 58,4,50,365.41,699.0,Active
+266,ZUD-10-0266,Zudio Casual Frock 20,10,42,134.11,249.0,Active
+267,ZUD-16-0267,Zudio Printed Eau de Toilette 78,16,45,80.45,149.0,Active
+268,ZUD-04-0268,Zudio Stretch Chino Pants 41,4,34,99.59,199.0,Active
+269,ZUD-08-0269,Zudio Casual Cropped Top 62,8,7,304.05,599.0,Active
+270,ZUD-05-0270,Zudio Casual Sports Bra 30,5,31,348.06,699.0,Active
+271,ZUD-07-0271,Zudio Solid Palazzo Pants 46,7,6,106.7,199.0,Active
+272,ZUD-08-0272,Zudio Denim Graphic Tee 32,8,12,372.1,699.0,Active
+273,ZUD-02-0273,Zudio Sporty Hoodie 33,2,1,265.22,499.0,Active
+274,ZUD-04-0274,Zudio Classic Cargo Shorts 68,4,9,430.3,899.0,Active
+275,ZUD-15-0275,Zudio Solid Eau de Toilette 24,15,30,63.23,149.0,Active
+276,ZUD-06-0276,Zudio Casual Palazzo Pants 47,6,13,500.66,999.0,Active
+277,ZUD-13-0277,Zudio Sporty Flat Sandals 51,13,7,137.58,299.0,Active
+278,ZUD-05-0278,Zudio Ethnic Palazzo Pants 41,5,16,87.38,199.0,Active
+279,ZUD-09-0279,Zudio Classic Frock 84,9,17,242.48,499.0,Active
+280,ZUD-08-0280,Zudio Casual Cropped Top 69,8,44,211.55,499.0,Active
+281,ZUD-10-0281,Zudio Stylish Printed Tee 91,10,15,113.33,249.0,Active
+282,ZUD-05-0282,Zudio Ethnic Anarkali Kurta 68,5,45,455.59,999.0,Active
+283,ZUD-16-0283,Zudio Denim Leather Belt 95,16,44,50.91,99.0,Active
+284,ZUD-03-0284,Zudio Denim Hoodie 77,3,37,246.62,599.0,Active
+285,ZUD-17-0285,Zudio Printed Ankle Socks 78,17,34,42.04,99.0,Active
+286,ZUD-07-0286,Zudio Stylish Leggings 21,7,4,419.67,899.0,Active
+287,ZUD-17-0287,Zudio Sporty Nail Polish 82,17,44,38.22,79.0,Active
+288,ZUD-01-0288,Zudio Sporty Cargo Shorts 10,1,3,194.21,399.0,Active
+289,ZUD-03-0289,Zudio Denim T-Shirt 18,3,27,323.4,799.0,Active
+290,ZUD-05-0290,Zudio Cozy Maxi Dress 57,5,25,326.63,699.0,Active
+291,ZUD-05-0291,Zudio Cozy Palazzo Pants 25,5,26,164.13,299.0,Active
+292,ZUD-08-0292,Zudio Casual Graphic Tee 48,8,35,400.32,799.0,Active
+293,ZUD-13-0293,Zudio Printed Slides 68,13,13,211.21,499.0,Active
+294,ZUD-04-0294,Zudio Casual Joggers 88,4,5,86.78,199.0,Active
+295,ZUD-02-0295,Zudio Ethnic T-Shirt 41,2,15,91.61,199.0,Active
+296,ZUD-02-0296,Zudio Regular Track Pants 47,2,47,208.42,399.0,Active
+297,ZUD-11-0297,Zudio Printed Frock 28,11,27,238.62,499.0,Active
+298,ZUD-02-0298,Zudio Denim Casual Shirt 90,2,4,337.88,699.0,Active
+299,ZUD-13-0299,Zudio Denim Running Shoes 99,13,20,276.28,599.0,Active
+300,ZUD-16-0300,Zudio Printed Leather Belt 38,16,10,78.77,149.0,Active
+301,ZUD-02-0301,Zudio Denim Joggers 63,2,25,431.07,899.0,Active
+302,ZUD-07-0302,Zudio Classic Cropped Top 67,7,47,247.91,599.0,Active
+303,ZUD-02-0303,Zudio Solid Joggers 96,2,5,489.95,999.0,Active
+304,ZUD-07-0304,Zudio Ethnic Straight Kurti 52,7,1,271.23,499.0,Active
+305,ZUD-07-0305,Zudio Stylish Cropped Top 71,7,46,201.23,399.0,Active
+306,ZUD-08-0306,Zudio Denim Palazzo Pants 46,8,42,328.49,699.0,Active
+307,ZUD-09-0307,Zudio Classic Tracksuit 73,9,47,124.02,299.0,Active
+308,ZUD-11-0308,Zudio Printed Frock 50,11,15,121.65,299.0,Active
+309,ZUD-01-0309,Zudio Solid Track Pants 84,1,19,507.49,999.0,Active
+310,ZUD-11-0310,Zudio Printed Jumpsuit 82,11,36,261.68,599.0,Active
+311,ZUD-11-0311,Zudio Solid Jumpsuit 92,11,11,236.32,499.0,Active
+312,ZUD-12-0312,Zudio Regular Slides 79,12,35,256.14,599.0,Active
+313,ZUD-02-0313,Zudio Denim T-Shirt 19,2,27,102.42,199.0,Active
+314,ZUD-08-0314,Zudio Slim-Fit Anarkali Kurta 11,8,24,189.87,399.0,Active
+315,ZUD-16-0315,Zudio Cozy Nail Polish 12,16,27,37.91,79.0,Discontinued
+316,ZUD-17-0316,Zudio Stylish Matte Lipstick 78,17,45,59.98,149.0,Active
+317,ZUD-06-0317,Zudio Slim-Fit Cropped Top 77,6,40,130.41,299.0,Active
+318,ZUD-12-0318,Zudio Solid Loafers 60,12,26,136.33,299.0,Active
+319,ZUD-08-0319,Zudio Stylish Straight Kurti 48,8,42,124.02,249.0,Active
+320,ZUD-03-0320,Zudio Sporty Joggers 58,3,41,423.79,899.0,Discontinued
+321,ZUD-06-0321,Zudio Slim-Fit Leggings 65,6,7,290.44,599.0,Active
+322,ZUD-02-0322,Zudio Printed Chino Pants 98,2,3,470.85,999.0,Active
+323,ZUD-09-0323,Zudio Denim Tracksuit 94,9,21,63.61,149.0,Discontinued
+324,ZUD-07-0324,Zudio Stretch Anarkali Kurta 60,7,37,110.78,249.0,Active
+325,ZUD-13-0325,Zudio Cozy Flat Sandals 52,13,9,307.49,599.0,Active
+326,ZUD-03-0326,Zudio Denim Denim Jeans 16,3,5,115.93,249.0,Active
+327,ZUD-13-0327,Zudio Classic Sneakers 91,13,29,258.25,499.0,Active
+328,ZUD-12-0328,Zudio Denim Flip Flops 65,12,43,200.28,399.0,Active
+329,ZUD-10-0329,Zudio Printed Pajama Set 19,10,25,65.59,149.0,Active
+330,ZUD-05-0330,Zudio Stylish Maxi Dress 50,5,1,249.17,599.0,Active
+331,ZUD-15-0331,Zudio Classic Leather Belt 44,15,12,33.17,79.0,Active
+332,ZUD-17-0332,Zudio Sporty Deodorant Spray 13,17,6,35.79,79.0,Active
+333,ZUD-11-0333,Zudio Sporty Printed Tee 47,11,6,136.99,299.0,Active
+334,ZUD-08-0334,Zudio Stretch Sports Bra 31,8,18,297.37,699.0,Active
+335,ZUD-16-0335,Zudio Regular Deodorant Spray 31,16,20,87.84,199.0,Active
+336,ZUD-03-0336,Zudio Classic Cargo Shorts 41,3,13,390.77,799.0,Active
+337,ZUD-05-0337,Zudio Solid Graphic Tee 60,5,25,315.22,599.0,Active
+338,ZUD-11-0338,Zudio Ethnic Frock 65,11,42,313.59,599.0,Active
+339,ZUD-05-0339,Zudio Solid Palazzo Pants 87,5,12,188.27,399.0,Active
+340,ZUD-11-0340,Zudio Solid Pajama Set 98,11,37,236.35,499.0,Active
+341,ZUD-11-0341,Zudio Sporty Frock 60,11,37,103.85,249.0,Active
+342,ZUD-06-0342,Zudio Cozy Sports Bra 13,6,14,432.62,799.0,Active
+343,ZUD-10-0343,Zudio Stylish Printed Tee 62,10,41,236.97,499.0,Active
+344,ZUD-09-0344,Zudio Cozy Denim Shorts 64,9,29,273.47,599.0,Active
+345,ZUD-16-0345,Zudio Stretch Nail Polish 78,16,45,134.09,249.0,Active
+346,ZUD-02-0346,Zudio Classic Track Pants 86,2,16,103.68,249.0,Active
+347,ZUD-12-0347,Zudio Regular Canvas Shoes 88,12,42,144.86,299.0,Active
+348,ZUD-13-0348,Zudio Classic Loafers 65,13,17,120.07,299.0,Active
+349,ZUD-17-0349,Zudio Denim Ankle Socks 98,17,24,107.86,249.0,Active
+350,ZUD-17-0350,Zudio Regular Matte Lipstick 13,17,27,82.72,199.0,Active
+351,ZUD-03-0351,Zudio Slim-Fit Casual Shirt 54,3,14,225.28,499.0,Active
+352,ZUD-12-0352,Zudio Ethnic Sneakers 66,12,21,403.11,799.0,Active
+353,ZUD-02-0353,Zudio Stylish Polo T-Shirt 12,2,44,297.82,599.0,Active
+354,ZUD-08-0354,Zudio Denim Anarkali Kurta 80,8,28,134.44,299.0,Active
+355,ZUD-08-0355,Zudio Sporty Anarkali Kurta 33,8,48,321.08,699.0,Active
+356,ZUD-07-0356,Zudio Ethnic Maxi Dress 59,7,14,100.64,199.0,Active
+357,ZUD-03-0357,Zudio Stretch Polo T-Shirt 78,3,13,136.01,299.0,Active
+358,ZUD-09-0358,Zudio Cozy Jumpsuit 77,9,25,223.06,499.0,Active
+359,ZUD-04-0359,Zudio Classic Denim Jeans 68,4,44,425.45,999.0,Active
+360,ZUD-10-0360,Zudio Stretch Tracksuit 20,10,8,209.63,499.0,Active
+361,ZUD-04-0361,Zudio Regular Denim Jeans 98,4,27,142.51,299.0,Active
+362,ZUD-13-0362,Zudio Sporty Slides 72,13,42,384.0,799.0,Active
+363,ZUD-06-0363,Zudio Denim Anarkali Kurta 72,6,21,210.1,499.0,Active
+364,ZUD-02-0364,Zudio Classic T-Shirt 72,2,25,128.35,299.0,Active
+365,ZUD-17-0365,Zudio Cozy Nail Polish 62,17,46,141.65,299.0,Active
+366,ZUD-16-0366,Zudio Regular Deodorant Spray 82,16,15,41.03,79.0,Active
+367,ZUD-09-0367,Zudio Printed Tracksuit 46,9,37,102.91,199.0,Active
+368,ZUD-16-0368,Zudio Denim Ankle Socks 24,16,50,103.87,249.0,Active
+369,ZUD-12-0369,Zudio Denim Loafers 15,12,35,456.55,899.0,Active
+370,ZUD-14-0370,Zudio Slim-Fit Canvas Shoes 93,14,3,392.98,899.0,Active
+371,ZUD-12-0371,Zudio Slim-Fit Flip Flops 25,12,14,469.08,899.0,Active
+372,ZUD-12-0372,Zudio Stylish Flat Sandals 90,12,9,254.51,599.0,Active
+373,ZUD-07-0373,Zudio Casual Palazzo Pants 78,7,11,244.27,499.0,Active
+374,ZUD-10-0374,Zudio Solid Tracksuit 44,10,44,285.82,599.0,Active
+375,ZUD-05-0375,Zudio Sporty Graphic Tee 45,5,9,151.06,299.0,Active
+376,ZUD-11-0376,Zudio Printed Pajama Set 60,11,41,125.98,299.0,Active
+377,ZUD-14-0377,Zudio Sporty Flip Flops 19,14,50,414.83,799.0,Active
+378,ZUD-17-0378,Zudio Stylish Matte Lipstick 98,17,32,69.76,149.0,Active
+379,ZUD-01-0379,Zudio Stylish Polo T-Shirt 68,1,35,315.98,599.0,Active
+380,ZUD-14-0380,Zudio Printed Flip Flops 44,14,22,261.6,499.0,Active
+381,ZUD-05-0381,Zudio Stretch Leggings 53,5,41,80.97,199.0,Active
+382,ZUD-15-0382,Zudio Casual Deodorant Spray 30,15,28,93.23,199.0,Active
+383,ZUD-05-0383,Zudio Cozy Skinny Jeans 30,5,24,206.59,499.0,Active
+384,ZUD-12-0384,Zudio Cozy Canvas Shoes 31,12,20,137.38,299.0,Active
+385,ZUD-08-0385,Zudio Sporty Cropped Top 22,8,5,85.97,199.0,Active
+386,ZUD-08-0386,Zudio Denim Leggings 11,8,8,100.36,199.0,Active
+387,ZUD-14-0387,Zudio Stylish Slides 71,14,6,129.87,299.0,Active
+388,ZUD-04-0388,Zudio Slim-Fit Denim Jeans 57,4,50,209.86,499.0,Active
+389,ZUD-05-0389,Zudio Cozy Anarkali Kurta 18,5,40,435.56,899.0,Active
+390,ZUD-15-0390,Zudio Classic Canvas Backpack 37,15,27,153.16,299.0,Active
+391,ZUD-15-0391,Zudio Printed Deodorant Spray 22,15,38,50.77,99.0,Active
+392,ZUD-12-0392,Zudio Sporty Running Shoes 27,12,6,176.18,399.0,Active
+393,ZUD-10-0393,Zudio Stylish Printed Tee 94,10,39,107.27,249.0,Active
+394,ZUD-13-0394,Zudio Solid Canvas Shoes 16,13,16,480.68,899.0,Active
+395,ZUD-04-0395,Zudio Printed Hoodie 91,4,1,410.24,999.0,Active
+396,ZUD-11-0396,Zudio Regular Jumpsuit 82,11,44,135.99,299.0,Active
+397,ZUD-16-0397,Zudio Slim-Fit Deodorant Spray 85,16,14,31.76,79.0,Active
+398,ZUD-02-0398,Zudio Sporty Track Pants 46,2,28,463.04,899.0,Active
+399,ZUD-03-0399,Zudio Cozy Track Pants 78,3,6,422.48,999.0,Active
+400,ZUD-17-0400,Zudio Printed Leather Belt 29,17,38,111.8,249.0,Active
+401,ZUD-03-0401,Zudio Solid Joggers 40,3,28,86.9,199.0,Active
+402,ZUD-02-0402,Zudio Solid Casual Shirt 25,2,45,100.73,199.0,Discontinued
+403,ZUD-16-0403,Zudio Classic Ankle Socks 76,16,24,131.23,299.0,Active
+404,ZUD-09-0404,Zudio Stylish Printed Tee 13,9,18,129.75,249.0,Active
+405,ZUD-09-0405,Zudio Stylish Tracksuit 90,9,33,70.69,149.0,Active
+406,ZUD-16-0406,Zudio Stretch Eau de Toilette 57,16,7,43.39,99.0,Active
+407,ZUD-04-0407,Zudio Printed Track Pants 10,4,1,105.23,199.0,Active
+408,ZUD-16-0408,Zudio Classic Nail Polish 29,16,3,53.43,99.0,Active
+409,ZUD-14-0409,Zudio Printed Running Shoes 41,14,21,321.89,599.0,Active
+410,ZUD-03-0410,Zudio Stretch Denim Jeans 25,3,4,450.4,899.0,Active
+411,ZUD-17-0411,Zudio Casual Nail Polish 18,17,50,105.45,199.0,Active
+412,ZUD-11-0412,Zudio Slim-Fit Tracksuit 68,11,19,67.85,149.0,Active
+413,ZUD-10-0413,Zudio Stylish Tracksuit 41,10,32,136.12,299.0,Active
+414,ZUD-07-0414,Zudio Stylish Sports Bra 41,7,27,119.89,299.0,Discontinued
+415,ZUD-12-0415,Zudio Cozy Loafers 98,12,1,162.25,299.0,Active
+416,ZUD-13-0416,Zudio Stylish Canvas Shoes 49,13,16,128.8,299.0,Active
+417,ZUD-02-0417,Zudio Regular Cargo Shorts 21,2,34,107.1,199.0,Active
+418,ZUD-12-0418,Zudio Ethnic Canvas Shoes 20,12,9,289.62,699.0,Active
+419,ZUD-13-0419,Zudio Slim-Fit Flat Sandals 82,13,9,139.11,299.0,Active
+420,ZUD-09-0420,Zudio Classic Jumpsuit 99,9,21,305.67,599.0,Active
+421,ZUD-08-0421,Zudio Slim-Fit Straight Kurti 27,8,7,415.93,999.0,Active
+422,ZUD-15-0422,Zudio Classic Nail Polish 25,15,50,112.98,249.0,Active
+423,ZUD-10-0423,Zudio Ethnic Frock 25,10,44,63.12,149.0,Active
+424,ZUD-02-0424,Zudio Printed Denim Jeans 28,2,23,126.16,249.0,Active
+425,ZUD-02-0425,Zudio Cozy Cargo Shorts 43,2,26,120.99,299.0,Active
+426,ZUD-08-0426,Zudio Slim-Fit Leggings 23,8,4,125.05,299.0,Active
+427,ZUD-08-0427,Zudio Regular Straight Kurti 61,8,42,301.26,599.0,Active
+428,ZUD-09-0428,Zudio Slim-Fit Printed Tee 18,9,29,106.54,199.0,Active
+429,ZUD-03-0429,Zudio Classic Polo T-Shirt 15,3,37,325.67,799.0,Active
+430,ZUD-13-0430,Zudio Ethnic Sneakers 58,13,23,370.74,799.0,Active
+431,ZUD-06-0431,Zudio Solid Skinny Jeans 67,6,40,121.15,299.0,Active
+432,ZUD-10-0432,Zudio Ethnic Jumpsuit 80,10,18,122.33,299.0,Active
+433,ZUD-14-0433,Zudio Printed Canvas Shoes 77,14,35,197.35,399.0,Active
+434,ZUD-13-0434,Zudio Stylish Running Shoes 71,13,23,361.53,699.0,Active
+435,ZUD-17-0435,Zudio Classic Nail Polish 44,17,39,39.99,99.0,Active
+436,ZUD-09-0436,Zudio Casual Jumpsuit 77,9,15,128.24,249.0,Active
+437,ZUD-04-0437,Zudio Printed Chino Pants 44,4,48,469.68,899.0,Active
+438,ZUD-08-0438,Zudio Stretch Maxi Dress 55,8,38,127.5,299.0,Active
+439,ZUD-12-0439,Zudio Stretch Sneakers 99,12,37,270.52,499.0,Active
+440,ZUD-07-0440,Zudio Ethnic Sports Bra 49,7,6,141.6,299.0,Active
+441,ZUD-08-0441,Zudio Casual Sports Bra 71,8,40,89.5,199.0,Active
+442,ZUD-05-0442,Zudio Classic Anarkali Kurta 51,5,38,80.25,199.0,Active
+443,ZUD-05-0443,Zudio Slim-Fit Sports Bra 56,5,43,113.55,249.0,Active
+444,ZUD-04-0444,Zudio Classic Cargo Shorts 51,4,47,163.37,299.0,Active
+445,ZUD-16-0445,Zudio Cozy Matte Lipstick 32,16,45,163.05,299.0,Active
+446,ZUD-12-0446,Zudio Printed Canvas Shoes 85,12,20,383.25,899.0,Active
+447,ZUD-10-0447,Zudio Regular Denim Shorts 10,10,26,270.61,499.0,Active
+448,ZUD-02-0448,Zudio Regular Denim Jeans 88,2,7,197.88,399.0,Active
+449,ZUD-05-0449,Zudio Classic Cropped Top 40,5,11,327.87,599.0,Active
+450,ZUD-03-0450,Zudio Stylish Denim Jeans 67,3,16,87.52,199.0,Active
+451,ZUD-12-0451,Zudio Solid Loafers 23,12,25,319.75,799.0,Active
+452,ZUD-14-0452,Zudio Regular Flip Flops 73,14,25,271.16,599.0,Active
+453,ZUD-16-0453,Zudio Stretch Canvas Backpack 97,16,5,42.02,99.0,Active
+454,ZUD-02-0454,Zudio Solid T-Shirt 50,2,5,270.83,499.0,Active
+455,ZUD-13-0455,Zudio Regular Canvas Shoes 19,13,6,378.35,699.0,Active
+456,ZUD-16-0456,Zudio Stylish Deodorant Spray 65,16,28,127.0,299.0,Active
+457,ZUD-04-0457,Zudio Classic Chino Pants 34,4,47,352.7,699.0,Active
+458,ZUD-09-0458,Zudio Cozy Frock 48,9,26,82.46,199.0,Active
+459,ZUD-16-0459,Zudio Regular Deodorant Spray 56,16,19,36.67,79.0,Active
+460,ZUD-16-0460,Zudio Printed Deodorant Spray 13,16,19,42.14,99.0,Active
+461,ZUD-16-0461,Zudio Slim-Fit Matte Lipstick 60,16,43,94.2,199.0,Active
+462,ZUD-13-0462,Zudio Regular Running Shoes 58,13,3,213.57,499.0,Active
+463,ZUD-15-0463,Zudio Solid Eau de Toilette 44,15,49,101.9,249.0,Active
+464,ZUD-04-0464,Zudio Slim-Fit Denim Jeans 79,4,38,381.38,699.0,Active
+465,ZUD-02-0465,Zudio Sporty Track Pants 63,2,31,452.25,899.0,Active
+466,ZUD-08-0466,Zudio Ethnic Skinny Jeans 20,8,46,374.26,699.0,Active
+467,ZUD-17-0467,Zudio Stretch Canvas Backpack 89,17,49,41.39,99.0,Active
+468,ZUD-06-0468,Zudio Printed Straight Kurti 26,6,44,92.24,199.0,Active
+469,ZUD-05-0469,Zudio Stretch Skinny Jeans 50,5,36,102.85,249.0,Active
+470,ZUD-11-0470,Zudio Solid Tracksuit 68,11,45,240.71,599.0,Active
+471,ZUD-17-0471,Zudio Sporty Deodorant Spray 63,17,38,41.8,99.0,Active
+472,ZUD-04-0472,Zudio Slim-Fit Polo T-Shirt 46,4,27,478.29,899.0,Active
+473,ZUD-16-0473,Zudio Stretch Ankle Socks 70,16,26,33.64,79.0,Active
+474,ZUD-13-0474,Zudio Casual Flip Flops 52,13,48,348.07,799.0,Active
+475,ZUD-09-0475,Zudio Classic Printed Tee 53,9,20,310.91,599.0,Active
+476,ZUD-16-0476,Zudio Stylish Canvas Backpack 22,16,48,41.6,99.0,Active
+477,ZUD-11-0477,Zudio Solid Pajama Set 63,11,13,198.24,399.0,Active
+478,ZUD-14-0478,Zudio Stylish Flip Flops 76,14,4,410.02,899.0,Active
+479,ZUD-06-0479,Zudio Slim-Fit Skinny Jeans 74,6,34,293.82,699.0,Active
+480,ZUD-01-0480,Zudio Regular Chino Pants 35,1,30,87.05,199.0,Active
+481,ZUD-12-0481,Zudio Stylish Slides 45,12,33,261.24,499.0,Active
+482,ZUD-04-0482,Zudio Cozy T-Shirt 40,4,29,283.52,599.0,Active
+483,ZUD-16-0483,Zudio Stretch Ankle Socks 54,16,17,63.25,149.0,Active
+484,ZUD-03-0484,Zudio Solid T-Shirt 59,3,37,84.46,199.0,Active
+485,ZUD-07-0485,Zudio Printed Straight Kurti 96,7,27,175.7,399.0,Active
+486,ZUD-01-0486,Zudio Ethnic Casual Shirt 92,1,1,146.56,299.0,Active
+487,ZUD-10-0487,Zudio Stylish Pajama Set 92,10,25,115.43,249.0,Active
+488,ZUD-15-0488,Zudio Solid Eau de Toilette 69,15,40,74.74,149.0,Active
+489,ZUD-04-0489,Zudio Casual Track Pants 94,4,39,290.05,599.0,Active
+490,ZUD-10-0490,Zudio Cozy Printed Tee 71,10,18,67.12,149.0,Active
+491,ZUD-09-0491,Zudio Solid Pajama Set 93,9,34,106.64,249.0,Active
+492,ZUD-02-0492,Zudio Stretch Joggers 94,2,47,300.77,599.0,Discontinued
+493,ZUD-16-0493,Zudio Solid Matte Lipstick 63,16,3,91.19,199.0,Active
+494,ZUD-07-0494,Zudio Classic Straight Kurti 97,7,31,445.68,899.0,Active
+495,ZUD-12-0495,Zudio Denim Running Shoes 31,12,36,448.28,899.0,Active
+496,ZUD-04-0496,Zudio Ethnic Casual Shirt 43,4,12,462.48,899.0,Active
+497,ZUD-11-0497,Zudio Cozy Printed Tee 38,11,20,107.94,249.0,Active
+498,ZUD-11-0498,Zudio Classic Frock 84,11,8,116.92,249.0,Active
+499,ZUD-03-0499,Zudio Ethnic Chino Pants 74,3,25,132.0,249.0,Active
+500,ZUD-14-0500,Zudio Casual Loafers 29,14,22,218.99,399.0,Active
+501,ZUD-15-0501,Zudio Regular Matte Lipstick 33,15,41,37.38,79.0,Active
+502,ZUD-11-0502,Zudio Cozy Printed Tee 10,11,49,131.87,299.0,Active
+503,ZUD-06-0503,Zudio Ethnic Cropped Top 26,6,28,464.59,999.0,Active
+504,ZUD-16-0504,Zudio Sporty Deodorant Spray 14,16,24,107.05,249.0,Active
+505,ZUD-11-0505,Zudio Denim Denim Shorts 12,11,47,199.91,499.0,Active
+506,ZUD-12-0506,Zudio Solid Slides 23,12,20,284.82,599.0,Active
+507,ZUD-02-0507,Zudio Solid Cargo Shorts 68,2,22,440.02,899.0,Active
+508,ZUD-05-0508,Zudio Classic Leggings 55,5,26,169.47,399.0,Discontinued
+509,ZUD-08-0509,Zudio Stylish Anarkali Kurta 37,8,11,97.2,199.0,Active
+510,ZUD-02-0510,Zudio Sporty Cargo Shorts 78,2,4,406.88,999.0,Active
+511,ZUD-01-0511,Zudio Casual Polo T-Shirt 63,1,36,365.17,799.0,Active
+512,ZUD-05-0512,Zudio Printed Graphic Tee 48,5,43,348.98,699.0,Active
+513,ZUD-05-0513,Zudio Sporty Cropped Top 75,5,8,417.24,999.0,Active
+514,ZUD-16-0514,Zudio Printed Ankle Socks 35,16,13,78.18,149.0,Active
+515,ZUD-14-0515,Zudio Solid Slides 15,14,14,331.64,699.0,Active
+516,ZUD-16-0516,Zudio Classic Eau de Toilette 10,16,8,39.56,79.0,Active
+517,ZUD-16-0517,Zudio Regular Deodorant Spray 75,16,7,40.17,79.0,Active
+518,ZUD-08-0518,Zudio Ethnic Skinny Jeans 43,8,12,325.6,799.0,Active
+519,ZUD-10-0519,Zudio Classic Pajama Set 50,10,7,152.72,299.0,Active
+520,ZUD-02-0520,Zudio Casual Casual Shirt 94,2,29,134.34,299.0,Active
+521,ZUD-09-0521,Zudio Stylish Printed Tee 57,9,8,270.39,599.0,Active
+522,ZUD-15-0522,Zudio Solid Leather Belt 59,15,27,157.75,299.0,Active
+523,ZUD-06-0523,Zudio Slim-Fit Anarkali Kurta 99,6,11,108.9,199.0,Active
+524,ZUD-16-0524,Zudio Stretch Canvas Backpack 66,16,50,48.68,99.0,Active
+525,ZUD-01-0525,Zudio Cozy Casual Shirt 71,1,27,333.14,799.0,Active
+526,ZUD-03-0526,Zudio Solid Denim Jeans 11,3,37,463.1,899.0,Active
+527,ZUD-08-0527,Zudio Cozy Palazzo Pants 76,8,40,452.41,899.0,Active
+528,ZUD-08-0528,Zudio Ethnic Palazzo Pants 94,8,36,295.19,699.0,Active
+529,ZUD-02-0529,Zudio Casual Casual Shirt 74,2,11,421.7,799.0,Active
+530,ZUD-16-0530,Zudio Classic Eau de Toilette 52,16,15,60.73,149.0,Active
+531,ZUD-13-0531,Zudio Sporty Loafers 40,13,37,140.19,299.0,Active
+532,ZUD-16-0532,Zudio Ethnic Matte Lipstick 25,16,2,101.85,199.0,Active
+533,ZUD-14-0533,Zudio Casual Flat Sandals 80,14,39,156.64,299.0,Active
+534,ZUD-10-0534,Zudio Denim Tracksuit 36,10,22,249.86,499.0,Active
+535,ZUD-02-0535,Zudio Printed Hoodie 52,2,39,463.09,899.0,Active
+536,ZUD-12-0536,Zudio Stylish Flip Flops 24,12,15,153.66,299.0,Discontinued
+537,ZUD-12-0537,Zudio Cozy Loafers 47,12,45,334.33,699.0,Active
+538,ZUD-06-0538,Zudio Ethnic Anarkali Kurta 62,6,13,109.1,249.0,Active
+539,ZUD-13-0539,Zudio Printed Flip Flops 34,13,49,360.1,799.0,Active
+540,ZUD-04-0540,Zudio Ethnic Hoodie 94,4,9,542.89,999.0,Active
+541,ZUD-01-0541,Zudio Denim T-Shirt 80,1,31,367.55,699.0,Active
+542,ZUD-06-0542,Zudio Stylish Anarkali Kurta 26,6,39,114.07,249.0,Active
+543,ZUD-11-0543,Zudio Denim Jumpsuit 63,11,49,214.42,399.0,Active
+544,ZUD-13-0544,Zudio Classic Running Shoes 67,13,27,377.59,899.0,Active
+545,ZUD-17-0545,Zudio Solid Leather Belt 99,17,46,131.75,249.0,Active
+546,ZUD-07-0546,Zudio Printed Straight Kurti 89,7,44,250.99,499.0,Active
+547,ZUD-06-0547,Zudio Denim Sports Bra 98,6,49,303.43,599.0,Active
+548,ZUD-16-0548,Zudio Stretch Ankle Socks 95,16,48,138.32,299.0,Active
+549,ZUD-10-0549,Zudio Sporty Printed Tee 76,10,10,60.16,149.0,Active
+550,ZUD-02-0550,Zudio Printed Cargo Shorts 30,2,10,250.75,499.0,Active
+551,ZUD-10-0551,Zudio Printed Tracksuit 14,10,7,130.0,249.0,Active
+552,ZUD-08-0552,Zudio Stylish Sports Bra 59,8,45,190.18,399.0,Active
+553,ZUD-02-0553,Zudio Sporty Joggers 63,2,4,326.38,599.0,Discontinued
+554,ZUD-09-0554,Zudio Printed Tracksuit 66,9,41,259.87,599.0,Active
+555,ZUD-12-0555,Zudio Stretch Flat Sandals 87,12,13,206.05,399.0,Active
+556,ZUD-06-0556,Zudio Cozy Cropped Top 33,6,8,152.57,299.0,Active
+557,ZUD-14-0557,Zudio Solid Flat Sandals 43,14,17,169.23,399.0,Discontinued
+558,ZUD-15-0558,Zudio Stylish Eau de Toilette 15,15,39,53.39,99.0,Active
+559,ZUD-10-0559,Zudio Ethnic Tracksuit 80,10,46,102.32,249.0,Active
+560,ZUD-08-0560,Zudio Regular Sports Bra 18,8,35,381.09,899.0,Active
+561,ZUD-03-0561,Zudio Classic Chino Pants 37,3,19,269.35,599.0,Active
+562,ZUD-17-0562,Zudio Ethnic Ankle Socks 93,17,23,32.96,79.0,Active
+563,ZUD-08-0563,Zudio Casual Palazzo Pants 58,8,35,114.01,249.0,Active
+564,ZUD-01-0564,Zudio Denim Denim Jeans 75,1,3,419.68,899.0,Active
+565,ZUD-07-0565,Zudio Classic Sports Bra 20,7,50,105.85,249.0,Active
+566,ZUD-01-0566,Zudio Cozy Polo T-Shirt 36,1,28,211.37,399.0,Active
+567,ZUD-07-0567,Zudio Denim Maxi Dress 92,7,10,127.5,249.0,Discontinued
+568,ZUD-11-0568,Zudio Casual Printed Tee 19,11,17,63.58,149.0,Active
+569,ZUD-08-0569,Zudio Solid Maxi Dress 59,8,28,395.13,799.0,Active
+570,ZUD-13-0570,Zudio Cozy Sneakers 78,13,40,148.37,299.0,Active
+571,ZUD-02-0571,Zudio Stylish Polo T-Shirt 55,2,44,373.91,899.0,Active
+572,ZUD-03-0572,Zudio Solid Hoodie 58,3,2,365.8,699.0,Active
+573,ZUD-08-0573,Zudio Regular Maxi Dress 79,8,10,271.47,499.0,Active
+574,ZUD-12-0574,Zudio Casual Flat Sandals 81,12,1,166.98,399.0,Active
+575,ZUD-13-0575,Zudio Denim Flat Sandals 20,13,48,215.32,499.0,Active
+576,ZUD-12-0576,Zudio Printed Flip Flops 92,12,11,428.72,899.0,Active
+577,ZUD-09-0577,Zudio Printed Printed Tee 33,9,4,259.45,499.0,Active
+578,ZUD-15-0578,Zudio Cozy Ankle Socks 19,15,17,74.61,149.0,Active
+579,ZUD-16-0579,Zudio Classic Matte Lipstick 26,16,7,149.0,299.0,Active
+580,ZUD-03-0580,Zudio Printed Denim Jeans 72,3,43,358.95,799.0,Active
+581,ZUD-05-0581,Zudio Stretch Palazzo Pants 50,5,21,297.28,699.0,Active
+582,ZUD-08-0582,Zudio Stylish Maxi Dress 45,8,47,251.67,599.0,Active
+583,ZUD-16-0583,Zudio Ethnic Nail Polish 55,16,7,70.48,149.0,Active
+584,ZUD-03-0584,Zudio Solid Casual Shirt 78,3,41,175.35,399.0,Active
+585,ZUD-03-0585,Zudio Casual Track Pants 90,3,38,103.86,199.0,Active
+586,ZUD-07-0586,Zudio Casual Sports Bra 43,7,35,480.15,899.0,Active
+587,ZUD-05-0587,Zudio Classic Maxi Dress 38,5,19,509.47,999.0,Active
+588,ZUD-17-0588,Zudio Denim Deodorant Spray 60,17,43,70.82,149.0,Active
+589,ZUD-06-0589,Zudio Denim Anarkali Kurta 67,6,37,127.63,299.0,Active
+590,ZUD-05-0590,Zudio Stylish Leggings 55,5,32,86.13,199.0,Active
+591,ZUD-09-0591,Zudio Classic Denim Shorts 15,9,24,215.08,499.0,Active
+592,ZUD-15-0592,Zudio Casual Deodorant Spray 93,15,34,61.91,149.0,Active
+593,ZUD-09-0593,Zudio Stylish Frock 84,9,25,193.72,399.0,Active
+594,ZUD-12-0594,Zudio Stretch Canvas Shoes 19,12,15,305.98,699.0,Active
+595,ZUD-12-0595,Zudio Classic Flip Flops 71,12,9,280.29,699.0,Active
+596,ZUD-08-0596,Zudio Slim-Fit Sports Bra 92,8,12,215.43,499.0,Active
+597,ZUD-04-0597,Zudio Cozy Chino Pants 63,4,31,304.31,599.0,Active
+598,ZUD-16-0598,Zudio Printed Ankle Socks 30,16,2,156.98,299.0,Active
+599,ZUD-05-0599,Zudio Stretch Anarkali Kurta 27,5,37,364.88,899.0,Active
+600,ZUD-06-0600,Zudio Solid Anarkali Kurta 76,6,37,342.44,699.0,Active
+601,ZUD-10-0601,Zudio Slim-Fit Denim Shorts 67,10,31,219.02,399.0,Active
+602,ZUD-14-0602,Zudio Stretch Slides 84,14,40,463.1,899.0,Active
+603,ZUD-09-0603,Zudio Regular Pajama Set 97,9,39,134.05,249.0,Active
+604,ZUD-08-0604,Zudio Sporty Maxi Dress 26,8,34,100.22,249.0,Active
+605,ZUD-17-0605,Zudio Cozy Nail Polish 29,17,31,103.2,249.0,Active
+606,ZUD-02-0606,Zudio Denim Track Pants 25,2,9,117.61,249.0,Active
+607,ZUD-01-0607,Zudio Cozy Joggers 76,1,3,318.43,699.0,Active
+608,ZUD-14-0608,Zudio Printed Loafers 71,14,23,463.26,899.0,Active
+609,ZUD-04-0609,Zudio Sporty Casual Shirt 42,4,6,411.39,799.0,Active
+610,ZUD-14-0610,Zudio Solid Slides 10,14,1,408.73,799.0,Active
+611,ZUD-04-0611,Zudio Denim T-Shirt 58,4,21,200.76,399.0,Active
+612,ZUD-04-0612,Zudio Regular Joggers 93,4,35,437.61,999.0,Active
+613,ZUD-12-0613,Zudio Stretch Running Shoes 97,12,27,307.43,599.0,Active
+614,ZUD-16-0614,Zudio Regular Matte Lipstick 81,16,20,117.67,249.0,Active
+615,ZUD-13-0615,Zudio Stylish Slides 94,13,29,153.14,299.0,Active
+616,ZUD-06-0616,Zudio Slim-Fit Straight Kurti 75,6,36,362.02,699.0,Active
+617,ZUD-02-0617,Zudio Regular Joggers 91,2,10,103.61,199.0,Active
+618,ZUD-14-0618,Zudio Slim-Fit Sneakers 43,14,39,181.79,399.0,Active
+619,ZUD-13-0619,Zudio Sporty Flat Sandals 93,13,39,309.64,699.0,Active
+620,ZUD-06-0620,Zudio Cozy Leggings 66,6,43,85.62,199.0,Active
+621,ZUD-17-0621,Zudio Solid Eau de Toilette 14,17,45,118.67,249.0,Active
+622,ZUD-06-0622,Zudio Cozy Graphic Tee 56,6,11,198.8,399.0,Active
+623,ZUD-09-0623,Zudio Sporty Frock 95,9,13,137.78,299.0,Active
+624,ZUD-03-0624,Zudio Slim-Fit Track Pants 46,3,23,482.99,899.0,Active
+625,ZUD-09-0625,Zudio Printed Tracksuit 34,9,37,161.3,299.0,Discontinued
+626,ZUD-06-0626,Zudio Sporty Sports Bra 23,6,19,369.36,899.0,Active
+627,ZUD-04-0627,Zudio Denim Cargo Shorts 78,4,29,437.08,999.0,Active
+628,ZUD-16-0628,Zudio Printed Leather Belt 53,16,38,99.95,199.0,Active
+629,ZUD-16-0629,Zudio Slim-Fit Matte Lipstick 18,16,15,98.51,199.0,Active
+630,ZUD-08-0630,Zudio Classic Maxi Dress 55,8,45,431.83,899.0,Active
+631,ZUD-08-0631,Zudio Solid Cropped Top 61,8,12,246.43,599.0,Active
+632,ZUD-12-0632,Zudio Printed Flat Sandals 44,12,44,216.29,399.0,Active
+633,ZUD-07-0633,Zudio Ethnic Straight Kurti 40,7,14,211.83,399.0,Active
+634,ZUD-08-0634,Zudio Stretch Palazzo Pants 29,8,6,104.08,249.0,Active
+635,ZUD-16-0635,Zudio Stretch Deodorant Spray 79,16,24,41.65,79.0,Active
+636,ZUD-16-0636,Zudio Stretch Leather Belt 45,16,49,85.06,199.0,Active
+637,ZUD-09-0637,Zudio Sporty Denim Shorts 83,9,28,81.22,199.0,Active
+638,ZUD-02-0638,Zudio Denim Denim Jeans 60,2,8,140.11,299.0,Active
+639,ZUD-15-0639,Zudio Classic Canvas Backpack 11,15,25,39.59,79.0,Active
+640,ZUD-11-0640,Zudio Classic Tracksuit 43,11,16,95.97,199.0,Active
+641,ZUD-11-0641,Zudio Classic Denim Shorts 73,11,45,129.04,299.0,Active
+642,ZUD-12-0642,Zudio Sporty Running Shoes 67,12,37,193.8,399.0,Active
+643,ZUD-04-0643,Zudio Stylish Cargo Shorts 40,4,25,417.88,899.0,Active
+644,ZUD-05-0644,Zudio Ethnic Graphic Tee 32,5,41,331.98,699.0,Active
+645,ZUD-11-0645,Zudio Ethnic Frock 42,11,4,210.98,399.0,Active
+646,ZUD-06-0646,Zudio Casual Straight Kurti 42,6,7,420.15,799.0,Active
+647,ZUD-11-0647,Zudio Solid Frock 56,11,17,192.97,399.0,Active
+648,ZUD-14-0648,Zudio Slim-Fit Running Shoes 96,14,37,300.46,699.0,Active
+649,ZUD-06-0649,Zudio Solid Palazzo Pants 51,6,48,425.34,899.0,Active
+650,ZUD-03-0650,Zudio Sporty Cargo Shorts 69,3,41,158.54,299.0,Active
+651,ZUD-11-0651,Zudio Sporty Pajama Set 88,11,5,183.83,399.0,Active
+652,ZUD-11-0652,Zudio Printed Frock 50,11,18,221.41,499.0,Active
+653,ZUD-13-0653,Zudio Solid Flip Flops 56,13,29,389.94,799.0,Active
+654,ZUD-06-0654,Zudio Casual Anarkali Kurta 40,6,45,269.99,499.0,Active
+655,ZUD-07-0655,Zudio Regular Maxi Dress 23,7,31,101.98,249.0,Active
+656,ZUD-01-0656,Zudio Sporty Track Pants 20,1,10,109.4,249.0,Active
+657,ZUD-13-0657,Zudio Solid Slides 41,13,41,353.66,799.0,Active
+658,ZUD-17-0658,Zudio Regular Deodorant Spray 14,17,21,135.6,299.0,Active
+659,ZUD-15-0659,Zudio Denim Matte Lipstick 80,15,45,83.63,199.0,Active
+660,ZUD-15-0660,Zudio Cozy Canvas Backpack 91,15,41,115.85,249.0,Active
+661,ZUD-10-0661,Zudio Classic Jumpsuit 79,10,29,103.62,199.0,Active
+662,ZUD-14-0662,Zudio Solid Slides 48,14,49,119.6,299.0,Active
+663,ZUD-12-0663,Zudio Solid Flip Flops 78,12,32,150.45,299.0,Active
+664,ZUD-16-0664,Zudio Solid Deodorant Spray 65,16,1,72.94,149.0,Active
+665,ZUD-07-0665,Zudio Sporty Sports Bra 65,7,46,305.8,699.0,Active
+666,ZUD-13-0666,Zudio Sporty Slides 43,13,16,138.54,299.0,Active
+667,ZUD-09-0667,Zudio Solid Pajama Set 78,9,13,263.75,599.0,Active
+668,ZUD-06-0668,Zudio Regular Skinny Jeans 24,6,18,393.63,799.0,Active
+669,ZUD-16-0669,Zudio Printed Matte Lipstick 12,16,35,40.34,99.0,Discontinued
+670,ZUD-04-0670,Zudio Solid Cargo Shorts 26,4,15,406.74,799.0,Active
+671,ZUD-01-0671,Zudio Ethnic Chino Pants 53,1,32,312.27,699.0,Active
+672,ZUD-15-0672,Zudio Stylish Leather Belt 14,15,49,61.39,149.0,Active
+673,ZUD-02-0673,Zudio Solid Joggers 19,2,13,423.0,899.0,Active
+674,ZUD-09-0674,Zudio Sporty Printed Tee 25,9,25,303.81,599.0,Active
+675,ZUD-15-0675,Zudio Printed Canvas Backpack 14,15,50,46.44,99.0,Active
+676,ZUD-07-0676,Zudio Ethnic Maxi Dress 97,7,11,269.68,499.0,Active
+677,ZUD-02-0677,Zudio Stylish Track Pants 76,2,41,109.06,249.0,Active
+678,ZUD-12-0678,Zudio Casual Loafers 95,12,16,217.85,399.0,Active
+679,ZUD-11-0679,Zudio Casual Denim Shorts 45,11,16,166.76,399.0,Discontinued
+680,ZUD-02-0680,Zudio Stretch Hoodie 98,2,50,422.83,999.0,Active
+681,ZUD-06-0681,Zudio Ethnic Cropped Top 97,6,49,450.31,999.0,Active
+682,ZUD-02-0682,Zudio Classic Casual Shirt 99,2,9,466.33,899.0,Active
+683,ZUD-11-0683,Zudio Denim Pajama Set 54,11,47,319.73,599.0,Active
+684,ZUD-13-0684,Zudio Classic Canvas Shoes 27,13,32,266.86,499.0,Active
+685,ZUD-10-0685,Zudio Denim Pajama Set 72,10,35,96.52,199.0,Active
+686,ZUD-15-0686,Zudio Solid Leather Belt 86,15,34,105.59,249.0,Active
+687,ZUD-10-0687,Zudio Solid Tracksuit 56,10,41,119.63,299.0,Active
+688,ZUD-06-0688,Zudio Casual Palazzo Pants 89,6,5,178.79,399.0,Active
+689,ZUD-13-0689,Zudio Printed Flat Sandals 97,13,10,308.4,599.0,Active
+690,ZUD-11-0690,Zudio Sporty Pajama Set 51,11,43,61.75,149.0,Active
+691,ZUD-05-0691,Zudio Regular Graphic Tee 35,5,7,117.73,249.0,Active
+692,ZUD-13-0692,Zudio Cozy Flip Flops 77,13,17,353.13,699.0,Active
+693,ZUD-08-0693,Zudio Stretch Cropped Top 11,8,6,198.85,399.0,Active
+694,ZUD-02-0694,Zudio Classic Track Pants 63,2,4,310.96,599.0,Active
+695,ZUD-09-0695,Zudio Denim Printed Tee 19,9,14,266.91,599.0,Active
+696,ZUD-04-0696,Zudio Slim-Fit Chino Pants 78,4,34,299.46,699.0,Active
+697,ZUD-06-0697,Zudio Denim Sports Bra 63,6,37,128.22,249.0,Active
+698,ZUD-15-0698,Zudio Stylish Canvas Backpack 64,15,12,33.58,79.0,Active
+699,ZUD-17-0699,Zudio Classic Canvas Backpack 30,17,29,136.89,249.0,Active
+700,ZUD-11-0700,Zudio Denim Frock 57,11,28,153.87,299.0,Active
+701,ZUD-11-0701,Zudio Stretch Denim Shorts 82,11,50,172.4,399.0,Active
+702,ZUD-09-0702,Zudio Classic Jumpsuit 67,9,3,119.61,299.0,Active
+703,ZUD-01-0703,Zudio Denim Casual Shirt 48,1,15,88.56,199.0,Active
+704,ZUD-11-0704,Zudio Casual Pajama Set 45,11,37,190.2,399.0,Active
+705,ZUD-05-0705,Zudio Slim-Fit Graphic Tee 68,5,17,253.63,599.0,Active
+706,ZUD-08-0706,Zudio Printed Skinny Jeans 48,8,37,120.91,249.0,Active
+707,ZUD-03-0707,Zudio Stylish Denim Jeans 71,3,45,141.5,299.0,Active
+708,ZUD-04-0708,Zudio Stretch Cargo Shorts 14,4,50,456.77,999.0,Active
+709,ZUD-11-0709,Zudio Classic Jumpsuit 63,11,50,250.43,599.0,Active
+710,ZUD-01-0710,Zudio Cozy Joggers 16,1,21,238.85,499.0,Active
+711,ZUD-05-0711,Zudio Classic Sports Bra 99,5,44,168.77,399.0,Active
+712,ZUD-13-0712,Zudio Ethnic Loafers 86,13,15,332.52,699.0,Active
+713,ZUD-13-0713,Zudio Regular Slides 53,13,48,140.94,299.0,Active
+714,ZUD-13-0714,Zudio Solid Sneakers 61,13,45,325.16,699.0,Active
+715,ZUD-05-0715,Zudio Ethnic Sports Bra 35,5,37,366.98,799.0,Active
+716,ZUD-17-0716,Zudio Printed Eau de Toilette 19,17,21,76.96,149.0,Active
+717,ZUD-03-0717,Zudio Slim-Fit Joggers 64,3,21,270.9,599.0,Active
+718,ZUD-01-0718,Zudio Solid Casual Shirt 54,1,29,522.71,999.0,Active
+719,ZUD-15-0719,Zudio Casual Leather Belt 39,15,10,49.78,99.0,Active
+720,ZUD-03-0720,Zudio Slim-Fit T-Shirt 41,3,19,538.47,999.0,Discontinued
+721,ZUD-04-0721,Zudio Solid Hoodie 70,4,48,89.51,199.0,Active
+722,ZUD-07-0722,Zudio Denim Sports Bra 43,7,47,424.74,899.0,Active
+723,ZUD-01-0723,Zudio Sporty Track Pants 15,1,19,212.35,499.0,Active
+724,ZUD-09-0724,Zudio Casual Jumpsuit 93,9,43,61.09,149.0,Active
+725,ZUD-12-0725,Zudio Slim-Fit Sneakers 47,12,25,478.73,899.0,Active
+726,ZUD-13-0726,Zudio Denim Canvas Shoes 22,13,39,235.88,499.0,Active
+727,ZUD-06-0727,Zudio Printed Sports Bra 68,6,2,484.52,899.0,Active
+728,ZUD-17-0728,Zudio Solid Matte Lipstick 72,17,2,101.82,199.0,Active
+729,ZUD-12-0729,Zudio Classic Canvas Shoes 48,12,33,219.21,399.0,Active
+730,ZUD-02-0730,Zudio Cozy Cargo Shorts 59,2,18,107.78,199.0,Active
+731,ZUD-11-0731,Zudio Sporty Pajama Set 27,11,34,75.91,149.0,Active
+732,ZUD-08-0732,Zudio Sporty Straight Kurti 83,8,20,138.73,299.0,Active
+733,ZUD-11-0733,Zudio Ethnic Tracksuit 26,11,38,99.08,199.0,Active
+734,ZUD-07-0734,Zudio Regular Skinny Jeans 98,7,28,482.25,899.0,Active
+735,ZUD-05-0735,Zudio Cozy Anarkali Kurta 50,5,47,120.42,249.0,Active
+736,ZUD-11-0736,Zudio Regular Pajama Set 13,11,27,268.23,599.0,Active
+737,ZUD-10-0737,Zudio Ethnic Pajama Set 91,10,50,220.09,499.0,Active
+738,ZUD-05-0738,Zudio Regular Graphic Tee 88,5,37,439.59,999.0,Active
+739,ZUD-08-0739,Zudio Printed Graphic Tee 55,8,31,125.3,249.0,Active
+740,ZUD-16-0740,Zudio Stylish Canvas Backpack 57,16,32,52.25,99.0,Active
+741,ZUD-06-0741,Zudio Printed Straight Kurti 14,6,1,359.76,699.0,Active
+742,ZUD-14-0742,Zudio Printed Canvas Shoes 95,14,5,204.95,399.0,Active
+743,ZUD-15-0743,Zudio Stretch Nail Polish 98,15,16,78.97,149.0,Active
+744,ZUD-02-0744,Zudio Stretch Joggers 50,2,48,343.72,699.0,Active
+745,ZUD-17-0745,Zudio Cozy Canvas Backpack 14,17,30,103.68,249.0,Active
+746,ZUD-02-0746,Zudio Printed Track Pants 78,2,3,382.75,699.0,Active
+747,ZUD-17-0747,Zudio Cozy Deodorant Spray 34,17,20,69.42,149.0,Active
+748,ZUD-10-0748,Zudio Ethnic Denim Shorts 64,10,4,122.5,249.0,Active
+749,ZUD-05-0749,Zudio Ethnic Leggings 21,5,50,374.86,899.0,Active
+750,ZUD-05-0750,Zudio Sporty Maxi Dress 51,5,30,322.59,799.0,Active
+751,ZUD-07-0751,Zudio Ethnic Cropped Top 42,7,46,301.75,599.0,Active
+752,ZUD-04-0752,Zudio Slim-Fit Polo T-Shirt 67,4,46,247.26,599.0,Active
+753,ZUD-17-0753,Zudio Stretch Eau de Toilette 58,17,50,113.82,249.0,Active
+754,ZUD-11-0754,Zudio Stretch Pajama Set 29,11,12,105.53,199.0,Active
+755,ZUD-02-0755,Zudio Sporty Cargo Shorts 49,2,12,354.21,799.0,Active
+756,ZUD-05-0756,Zudio Printed Graphic Tee 89,5,32,200.51,499.0,Active
+757,ZUD-01-0757,Zudio Stretch Hoodie 40,1,31,194.84,399.0,Active
+758,ZUD-15-0758,Zudio Slim-Fit Ankle Socks 86,15,36,34.5,79.0,Active
+759,ZUD-07-0759,Zudio Casual Anarkali Kurta 28,7,3,99.1,199.0,Active
+760,ZUD-02-0760,Zudio Cozy Cargo Shorts 52,2,27,101.43,249.0,Active
+761,ZUD-06-0761,Zudio Cozy Skinny Jeans 88,6,36,485.36,999.0,Active
+762,ZUD-15-0762,Zudio Stylish Ankle Socks 56,15,20,32.7,79.0,Active
+763,ZUD-13-0763,Zudio Slim-Fit Loafers 64,13,19,433.83,899.0,Active
+764,ZUD-04-0764,Zudio Stylish Cargo Shorts 52,4,14,415.4,899.0,Active
+765,ZUD-02-0765,Zudio Slim-Fit Track Pants 21,2,39,406.38,799.0,Active
+766,ZUD-10-0766,Zudio Sporty Tracksuit 50,10,40,119.22,249.0,Active
+767,ZUD-05-0767,Zudio Stretch Leggings 76,5,12,378.63,799.0,Active
+768,ZUD-08-0768,Zudio Stylish Skinny Jeans 34,8,30,83.13,199.0,Active
+769,ZUD-04-0769,Zudio Stylish Chino Pants 88,4,22,323.01,699.0,Active
+770,ZUD-07-0770,Zudio Casual Straight Kurti 98,7,5,218.64,499.0,Active
+771,ZUD-17-0771,Zudio Denim Matte Lipstick 10,17,22,39.73,79.0,Active
+772,ZUD-01-0772,Zudio Regular Chino Pants 52,1,31,322.47,599.0,Active
+773,ZUD-02-0773,Zudio Cozy Casual Shirt 71,2,35,147.73,299.0,Active
+774,ZUD-15-0774,Zudio Sporty Canvas Backpack 17,15,47,110.78,249.0,Active
+775,ZUD-01-0775,Zudio Printed Denim Jeans 55,1,18,135.82,249.0,Active
+776,ZUD-11-0776,Zudio Sporty Pajama Set 78,11,39,254.51,599.0,Active
+777,ZUD-04-0777,Zudio Solid Denim Jeans 14,4,32,230.58,499.0,Active
+778,ZUD-12-0778,Zudio Ethnic Loafers 48,12,12,191.03,399.0,Active
+779,ZUD-02-0779,Zudio Printed Polo T-Shirt 66,2,31,362.96,899.0,Active
+780,ZUD-05-0780,Zudio Printed Palazzo Pants 71,5,21,401.45,899.0,Active
+781,ZUD-04-0781,Zudio Denim Casual Shirt 36,4,46,93.31,199.0,Active
+782,ZUD-04-0782,Zudio Casual Cargo Shorts 15,4,22,530.25,999.0,Active
+783,ZUD-02-0783,Zudio Slim-Fit Track Pants 94,2,49,201.28,499.0,Active
+784,ZUD-07-0784,Zudio Classic Straight Kurti 34,7,21,220.31,499.0,Active
+785,ZUD-04-0785,Zudio Solid Casual Shirt 30,4,40,208.17,499.0,Active
+786,ZUD-04-0786,Zudio Printed Track Pants 54,4,10,402.55,899.0,Active
+787,ZUD-10-0787,Zudio Stretch Denim Shorts 31,10,22,66.56,149.0,Active
+788,ZUD-02-0788,Zudio Regular T-Shirt 70,2,4,82.76,199.0,Active
+789,ZUD-13-0789,Zudio Regular Canvas Shoes 86,13,45,345.6,699.0,Active
+790,ZUD-12-0790,Zudio Solid Running Shoes 35,12,35,410.49,799.0,Active
+791,ZUD-15-0791,Zudio Stretch Eau de Toilette 21,15,30,140.6,299.0,Active
+792,ZUD-15-0792,Zudio Ethnic Eau de Toilette 38,15,40,52.39,99.0,Active
+793,ZUD-12-0793,Zudio Sporty Slides 99,12,21,359.19,799.0,Active
+794,ZUD-01-0794,Zudio Slim-Fit Hoodie 24,1,11,282.61,599.0,Active
+795,ZUD-12-0795,Zudio Stretch Flat Sandals 26,12,46,290.39,699.0,Active
+796,ZUD-11-0796,Zudio Denim Pajama Set 19,11,30,266.75,599.0,Active
+797,ZUD-14-0797,Zudio Printed Flat Sandals 41,14,31,296.27,699.0,Active
+798,ZUD-11-0798,Zudio Printed Pajama Set 85,11,28,154.78,299.0,Active
+799,ZUD-11-0799,Zudio Denim Pajama Set 40,11,5,99.38,199.0,Active
+800,ZUD-16-0800,Zudio Slim-Fit Ankle Socks 86,16,7,89.31,199.0,Active
+801,ZUD-06-0801,Zudio Solid Maxi Dress 18,6,39,415.9,999.0,Active
+802,ZUD-13-0802,Zudio Classic Flip Flops 92,13,14,326.97,799.0,Active
+803,ZUD-01-0803,Zudio Regular Casual Shirt 67,1,40,398.91,899.0,Active
+804,ZUD-07-0804,Zudio Printed Palazzo Pants 48,7,44,518.63,999.0,Active
+805,ZUD-14-0805,Zudio Stylish Running Shoes 21,14,33,280.45,699.0,Active
+806,ZUD-05-0806,Zudio Solid Graphic Tee 57,5,1,490.12,899.0,Active
+807,ZUD-12-0807,Zudio Slim-Fit Loafers 46,12,28,363.81,899.0,Active
+808,ZUD-13-0808,Zudio Cozy Running Shoes 58,13,35,273.88,599.0,Active
+809,ZUD-06-0809,Zudio Ethnic Anarkali Kurta 34,6,24,411.46,899.0,Active
+810,ZUD-05-0810,Zudio Solid Anarkali Kurta 27,5,2,81.74,199.0,Active
+811,ZUD-16-0811,Zudio Cozy Nail Polish 27,16,27,33.23,79.0,Active
+812,ZUD-14-0812,Zudio Stretch Slides 68,14,29,324.07,699.0,Active
+813,ZUD-08-0813,Zudio Regular Maxi Dress 87,8,47,96.85,199.0,Active
+814,ZUD-17-0814,Zudio Solid Nail Polish 79,17,3,113.31,249.0,Active
+815,ZUD-12-0815,Zudio Slim-Fit Flat Sandals 71,12,47,329.2,799.0,Active
+816,ZUD-09-0816,Zudio Ethnic Tracksuit 20,9,6,212.86,399.0,Active
+817,ZUD-03-0817,Zudio Cozy Track Pants 84,3,22,245.49,499.0,Active
+818,ZUD-01-0818,Zudio Ethnic Hoodie 75,1,22,388.39,799.0,Active
+819,ZUD-10-0819,Zudio Solid Denim Shorts 14,10,48,268.68,499.0,Active
+820,ZUD-09-0820,Zudio Casual Pajama Set 70,9,4,169.72,399.0,Active
+821,ZUD-10-0821,Zudio Stylish Tracksuit 13,10,9,117.71,249.0,Active
+822,ZUD-09-0822,Zudio Solid Denim Shorts 88,9,17,109.88,249.0,Discontinued
+823,ZUD-04-0823,Zudio Stretch Casual Shirt 85,4,24,149.16,299.0,Active
+824,ZUD-09-0824,Zudio Stylish Denim Shorts 72,9,3,103.46,199.0,Active
+825,ZUD-03-0825,Zudio Regular Casual Shirt 73,3,16,360.37,699.0,Active
+826,ZUD-06-0826,Zudio Printed Palazzo Pants 16,6,8,256.15,499.0,Active
+827,ZUD-15-0827,Zudio Sporty Nail Polish 48,15,49,101.87,199.0,Active
+828,ZUD-08-0828,Zudio Sporty Maxi Dress 70,8,28,210.46,499.0,Discontinued
+829,ZUD-15-0829,Zudio Sporty Canvas Backpack 50,15,3,125.11,249.0,Active
+830,ZUD-12-0830,Zudio Sporty Flat Sandals 93,12,18,396.36,899.0,Active
+831,ZUD-04-0831,Zudio Solid Joggers 69,4,38,203.55,399.0,Active
+832,ZUD-17-0832,Zudio Classic Canvas Backpack 98,17,1,44.25,99.0,Active
+833,ZUD-03-0833,Zudio Casual Joggers 22,3,29,373.61,899.0,Active
+834,ZUD-10-0834,Zudio Solid Denim Shorts 14,10,4,73.44,149.0,Active
+835,ZUD-07-0835,Zudio Stretch Cropped Top 25,7,9,131.59,249.0,Active
+836,ZUD-06-0836,Zudio Slim-Fit Anarkali Kurta 42,6,5,234.55,499.0,Active
+837,ZUD-09-0837,Zudio Sporty Pajama Set 95,9,17,308.8,599.0,Active
+838,ZUD-03-0838,Zudio Solid T-Shirt 58,3,4,314.48,699.0,Active
+839,ZUD-09-0839,Zudio Regular Jumpsuit 18,9,13,163.53,299.0,Active
+840,ZUD-06-0840,Zudio Cozy Leggings 23,6,28,143.85,299.0,Active
+841,ZUD-04-0841,Zudio Ethnic Cargo Shorts 23,4,37,81.78,199.0,Active
+842,ZUD-15-0842,Zudio Casual Nail Polish 29,15,3,148.32,299.0,Active
+843,ZUD-09-0843,Zudio Regular Pajama Set 52,9,33,145.37,299.0,Active
+844,ZUD-16-0844,Zudio Ethnic Nail Polish 61,16,5,154.63,299.0,Active
+845,ZUD-01-0845,Zudio Sporty Hoodie 25,1,23,479.82,999.0,Active
+846,ZUD-10-0846,Zudio Sporty Printed Tee 90,10,35,206.39,499.0,Active
+847,ZUD-11-0847,Zudio Slim-Fit Jumpsuit 47,11,36,214.8,499.0,Active
+848,ZUD-13-0848,Zudio Cozy Slides 48,13,7,366.35,799.0,Active
+849,ZUD-12-0849,Zudio Ethnic Sneakers 90,12,9,305.67,599.0,Active
+850,ZUD-01-0850,Zudio Stylish Chino Pants 72,1,35,286.2,699.0,Active
+851,ZUD-16-0851,Zudio Denim Leather Belt 67,16,4,32.04,79.0,Active
+852,ZUD-02-0852,Zudio Sporty Polo T-Shirt 37,2,44,421.41,899.0,Active
+853,ZUD-05-0853,Zudio Stylish Straight Kurti 19,5,32,101.55,199.0,Active
+854,ZUD-16-0854,Zudio Stretch Deodorant Spray 41,16,1,148.7,299.0,Active
+855,ZUD-02-0855,Zudio Solid Polo T-Shirt 68,2,38,425.18,999.0,Active
+856,ZUD-04-0856,Zudio Slim-Fit Hoodie 86,4,13,432.65,999.0,Active
+857,ZUD-13-0857,Zudio Classic Sneakers 97,13,21,336.84,699.0,Active
+858,ZUD-07-0858,Zudio Casual Anarkali Kurta 52,7,10,104.11,249.0,Active
+859,ZUD-06-0859,Zudio Stylish Palazzo Pants 80,6,38,139.27,299.0,Active
+860,ZUD-04-0860,Zudio Cozy Joggers 30,4,6,105.86,199.0,Discontinued
+861,ZUD-06-0861,Zudio Slim-Fit Skinny Jeans 63,6,14,402.58,799.0,Active
+862,ZUD-09-0862,Zudio Denim Jumpsuit 62,9,40,107.6,199.0,Active
+863,ZUD-06-0863,Zudio Stylish Leggings 88,6,20,123.03,249.0,Active
+864,ZUD-01-0864,Zudio Denim Chino Pants 34,1,7,136.45,249.0,Active
+865,ZUD-17-0865,Zudio Printed Nail Polish 90,17,4,128.93,299.0,Active
+866,ZUD-05-0866,Zudio Cozy Leggings 73,5,3,126.77,299.0,Active
+867,ZUD-12-0867,Zudio Solid Slides 65,12,49,224.62,499.0,Active
+868,ZUD-04-0868,Zudio Stylish T-Shirt 78,4,2,126.69,299.0,Active
+869,ZUD-04-0869,Zudio Slim-Fit Chino Pants 66,4,27,486.48,999.0,Active
+870,ZUD-11-0870,Zudio Printed Printed Tee 51,11,48,82.53,199.0,Active
+871,ZUD-07-0871,Zudio Sporty Straight Kurti 19,7,4,389.72,799.0,Active
+872,ZUD-05-0872,Zudio Printed Leggings 32,5,30,318.76,699.0,Active
+873,ZUD-12-0873,Zudio Solid Slides 52,12,37,161.52,399.0,Active
+874,ZUD-05-0874,Zudio Slim-Fit Leggings 68,5,22,297.55,699.0,Active
+875,ZUD-10-0875,Zudio Stretch Denim Shorts 91,10,37,213.8,399.0,Active
+876,ZUD-08-0876,Zudio Slim-Fit Maxi Dress 76,8,14,422.93,799.0,Active
+877,ZUD-15-0877,Zudio Solid Deodorant Spray 64,15,16,158.74,299.0,Active
+878,ZUD-08-0878,Zudio Stretch Anarkali Kurta 83,8,3,92.07,199.0,Active
+879,ZUD-16-0879,Zudio Stylish Leather Belt 74,16,26,36.64,79.0,Active
+880,ZUD-04-0880,Zudio Ethnic Hoodie 40,4,1,120.46,249.0,Active
+881,ZUD-14-0881,Zudio Printed Slides 55,14,6,217.49,499.0,Discontinued
+882,ZUD-10-0882,Zudio Regular Pajama Set 68,10,38,290.85,599.0,Discontinued
+883,ZUD-15-0883,Zudio Ethnic Leather Belt 27,15,24,137.78,299.0,Active
+884,ZUD-01-0884,Zudio Cozy Polo T-Shirt 59,1,19,287.3,599.0,Active
+885,ZUD-09-0885,Zudio Stylish Tracksuit 79,9,44,207.15,399.0,Active
+886,ZUD-11-0886,Zudio Stylish Printed Tee 75,11,4,226.84,499.0,Active
+887,ZUD-12-0887,Zudio Ethnic Flat Sandals 15,12,42,227.03,499.0,Active
+888,ZUD-03-0888,Zudio Denim Chino Pants 27,3,8,261.04,599.0,Active
+889,ZUD-07-0889,Zudio Stylish Straight Kurti 51,7,33,320.28,599.0,Active
+890,ZUD-09-0890,Zudio Casual Printed Tee 57,9,33,116.5,249.0,Active
+891,ZUD-04-0891,Zudio Ethnic Track Pants 96,4,29,480.89,899.0,Active
+892,ZUD-03-0892,Zudio Printed Hoodie 21,3,12,114.19,249.0,Active
+893,ZUD-03-0893,Zudio Slim-Fit Casual Shirt 45,3,32,125.64,249.0,Active
+894,ZUD-07-0894,Zudio Denim Graphic Tee 47,7,35,381.26,699.0,Active
+895,ZUD-16-0895,Zudio Classic Nail Polish 66,16,19,148.51,299.0,Active
+896,ZUD-01-0896,Zudio Printed Track Pants 92,1,22,276.59,599.0,Active
+897,ZUD-11-0897,Zudio Ethnic Tracksuit 95,11,36,239.28,499.0,Active
+898,ZUD-10-0898,Zudio Stretch Denim Shorts 49,10,15,103.16,199.0,Active
+899,ZUD-10-0899,Zudio Casual Denim Shorts 55,10,11,116.63,249.0,Active
+900,ZUD-06-0900,Zudio Stylish Sports Bra 46,6,46,163.25,299.0,Active
+901,ZUD-05-0901,Zudio Regular Straight Kurti 24,5,37,109.26,199.0,Active
+902,ZUD-09-0902,Zudio Classic Denim Shorts 36,9,43,201.92,399.0,Active
+903,ZUD-12-0903,Zudio Regular Running Shoes 67,12,35,381.88,699.0,Active
+904,ZUD-01-0904,Zudio Sporty Hoodie 28,1,10,430.8,799.0,Discontinued
+905,ZUD-17-0905,Zudio Classic Canvas Backpack 47,17,49,106.34,199.0,Active
+906,ZUD-05-0906,Zudio Stretch Leggings 53,5,3,126.93,249.0,Active
+907,ZUD-04-0907,Zudio Solid T-Shirt 61,4,29,525.61,999.0,Active
+908,ZUD-11-0908,Zudio Casual Tracksuit 92,11,15,97.02,199.0,Active
+909,ZUD-09-0909,Zudio Printed Printed Tee 20,9,44,210.44,399.0,Active
+910,ZUD-03-0910,Zudio Denim Joggers 34,3,39,357.68,799.0,Active
+911,ZUD-02-0911,Zudio Cozy Denim Jeans 60,2,28,151.71,299.0,Active
+912,ZUD-12-0912,Zudio Casual Running Shoes 54,12,29,222.66,499.0,Active
+913,ZUD-03-0913,Zudio Printed Hoodie 63,3,47,354.19,799.0,Active
+914,ZUD-14-0914,Zudio Stylish Flip Flops 27,14,6,438.78,899.0,Active
+915,ZUD-10-0915,Zudio Ethnic Tracksuit 52,10,38,80.46,149.0,Active
+916,ZUD-03-0916,Zudio Casual Joggers 91,3,36,230.63,499.0,Active
+917,ZUD-05-0917,Zudio Printed Anarkali Kurta 58,5,3,241.06,499.0,Active
+918,ZUD-10-0918,Zudio Stretch Frock 73,10,15,203.88,399.0,Discontinued
+919,ZUD-01-0919,Zudio Regular Cargo Shorts 48,1,43,334.48,799.0,Active
+920,ZUD-14-0920,Zudio Regular Flip Flops 98,14,8,348.93,799.0,Active
+921,ZUD-16-0921,Zudio Slim-Fit Ankle Socks 56,16,28,117.55,249.0,Active
+922,ZUD-16-0922,Zudio Stylish Leather Belt 25,16,37,71.05,149.0,Discontinued
+923,ZUD-09-0923,Zudio Regular Tracksuit 17,9,45,89.14,199.0,Active
+924,ZUD-06-0924,Zudio Casual Skinny Jeans 56,6,23,346.31,699.0,Active
+925,ZUD-10-0925,Zudio Denim Pajama Set 19,10,41,171.2,399.0,Active
+926,ZUD-04-0926,Zudio Stretch Casual Shirt 79,4,44,317.99,599.0,Active
+927,ZUD-09-0927,Zudio Cozy Pajama Set 98,9,38,103.18,249.0,Active
+928,ZUD-05-0928,Zudio Casual Anarkali Kurta 76,5,32,227.52,499.0,Active
+929,ZUD-06-0929,Zudio Slim-Fit Straight Kurti 29,6,13,389.42,899.0,Active
+930,ZUD-17-0930,Zudio Denim Canvas Backpack 80,17,8,153.52,299.0,Active
+931,ZUD-03-0931,Zudio Slim-Fit Casual Shirt 12,3,45,361.33,799.0,Active
+932,ZUD-15-0932,Zudio Stretch Ankle Socks 53,15,2,50.14,99.0,Active
+933,ZUD-04-0933,Zudio Printed Casual Shirt 98,4,20,150.46,299.0,Active
+934,ZUD-05-0934,Zudio Slim-Fit Maxi Dress 98,5,50,102.5,249.0,Active
+935,ZUD-14-0935,Zudio Casual Slides 23,14,33,155.17,299.0,Active
+936,ZUD-16-0936,Zudio Slim-Fit Matte Lipstick 15,16,1,35.17,79.0,Active
+937,ZUD-04-0937,Zudio Stretch Chino Pants 85,4,23,170.66,399.0,Discontinued
+938,ZUD-05-0938,Zudio Stylish Skinny Jeans 84,5,33,271.25,599.0,Active
+939,ZUD-08-0939,Zudio Denim Cropped Top 22,8,34,513.97,999.0,Active
+940,ZUD-07-0940,Zudio Solid Anarkali Kurta 78,7,7,108.66,199.0,Active
+941,ZUD-17-0941,Zudio Stylish Nail Polish 56,17,29,146.03,299.0,Active
+942,ZUD-04-0942,Zudio Regular Denim Jeans 58,4,15,302.07,699.0,Active
+943,ZUD-11-0943,Zudio Slim-Fit Jumpsuit 24,11,49,167.73,399.0,Active
+944,ZUD-10-0944,Zudio Denim Pajama Set 15,10,8,66.93,149.0,Active
+945,ZUD-15-0945,Zudio Stretch Canvas Backpack 49,15,29,163.38,299.0,Active
+946,ZUD-14-0946,Zudio Solid Loafers 64,14,31,210.88,399.0,Active
+947,ZUD-12-0947,Zudio Regular Sneakers 96,12,26,299.99,599.0,Active
+948,ZUD-03-0948,Zudio Slim-Fit Casual Shirt 60,3,7,352.47,699.0,Active
+949,ZUD-06-0949,Zudio Slim-Fit Palazzo Pants 35,6,26,257.59,599.0,Active
+950,ZUD-14-0950,Zudio Stylish Flip Flops 45,14,38,455.81,899.0,Active
+951,ZUD-13-0951,Zudio Classic Flip Flops 95,13,32,379.22,699.0,Active
+952,ZUD-05-0952,Zudio Ethnic Cropped Top 25,5,15,236.23,499.0,Active
+953,ZUD-05-0953,Zudio Casual Cropped Top 16,5,2,118.21,249.0,Active
+954,ZUD-13-0954,Zudio Stretch Canvas Shoes 51,13,40,177.72,399.0,Active
+955,ZUD-03-0955,Zudio Cozy Track Pants 73,3,43,343.8,799.0,Active
+956,ZUD-17-0956,Zudio Solid Ankle Socks 53,17,49,120.02,249.0,Active
+957,ZUD-14-0957,Zudio Slim-Fit Flip Flops 67,14,29,263.44,499.0,Active
+958,ZUD-02-0958,Zudio Regular Track Pants 94,2,11,265.82,499.0,Active
+959,ZUD-05-0959,Zudio Solid Maxi Dress 72,5,32,120.85,249.0,Active
+960,ZUD-16-0960,Zudio Ethnic Ankle Socks 30,16,17,101.68,249.0,Active
+961,ZUD-13-0961,Zudio Stretch Canvas Shoes 55,13,21,491.45,899.0,Active
+962,ZUD-02-0962,Zudio Regular Denim Jeans 54,2,41,403.63,999.0,Active
+963,ZUD-04-0963,Zudio Sporty Denim Jeans 55,4,43,316.43,699.0,Active
+964,ZUD-08-0964,Zudio Cozy Skinny Jeans 85,8,5,133.6,249.0,Active
+965,ZUD-04-0965,Zudio Classic Casual Shirt 12,4,30,403.58,899.0,Active
+966,ZUD-14-0966,Zudio Stretch Flat Sandals 63,14,31,201.13,499.0,Active
+967,ZUD-11-0967,Zudio Sporty Tracksuit 59,11,32,120.98,249.0,Active
+968,ZUD-07-0968,Zudio Classic Leggings 74,7,20,254.57,599.0,Active
+969,ZUD-14-0969,Zudio Printed Flip Flops 91,14,5,490.96,899.0,Active
+970,ZUD-07-0970,Zudio Solid Skinny Jeans 16,7,26,274.17,499.0,Active
+971,ZUD-03-0971,Zudio Stylish Polo T-Shirt 85,3,37,264.16,599.0,Active
+972,ZUD-16-0972,Zudio Sporty Eau de Toilette 54,16,20,39.32,79.0,Active
+973,ZUD-10-0973,Zudio Sporty Pajama Set 79,10,26,107.07,249.0,Active
+974,ZUD-17-0974,Zudio Ethnic Canvas Backpack 80,17,41,52.68,99.0,Active
+975,ZUD-06-0975,Zudio Stretch Leggings 37,6,41,351.71,799.0,Active
+976,ZUD-14-0976,Zudio Stretch Canvas Shoes 90,14,24,143.02,299.0,Active
+977,ZUD-08-0977,Zudio Regular Skinny Jeans 65,8,5,313.01,699.0,Active
+978,ZUD-14-0978,Zudio Solid Loafers 46,14,44,338.85,799.0,Active
+979,ZUD-13-0979,Zudio Printed Sneakers 29,13,20,161.26,399.0,Active
+980,ZUD-14-0980,Zudio Sporty Canvas Shoes 14,14,9,169.14,399.0,Discontinued
+981,ZUD-09-0981,Zudio Cozy Tracksuit 32,9,47,263.41,499.0,Active
+982,ZUD-01-0982,Zudio Casual Polo T-Shirt 50,1,5,444.25,999.0,Active
+983,ZUD-14-0983,Zudio Classic Canvas Shoes 94,14,47,137.4,299.0,Active
+984,ZUD-08-0984,Zudio Slim-Fit Sports Bra 25,8,38,449.17,899.0,Active
+985,ZUD-17-0985,Zudio Solid Nail Polish 21,17,50,48.51,99.0,Active
+986,ZUD-11-0986,Zudio Stretch Pajama Set 59,11,16,306.84,599.0,Active
+987,ZUD-07-0987,Zudio Regular Cropped Top 32,7,29,217.65,399.0,Active
+988,ZUD-02-0988,Zudio Ethnic Track Pants 57,2,28,111.42,249.0,Active
+989,ZUD-08-0989,Zudio Solid Anarkali Kurta 56,8,20,405.37,799.0,Discontinued
+990,ZUD-02-0990,Zudio Stylish T-Shirt 98,2,25,174.74,399.0,Active
+991,ZUD-12-0991,Zudio Cozy Sneakers 78,12,29,391.48,899.0,Active
+992,ZUD-13-0992,Zudio Solid Running Shoes 21,13,20,461.64,899.0,Active
+993,ZUD-06-0993,Zudio Ethnic Palazzo Pants 92,6,18,362.36,699.0,Active
+994,ZUD-16-0994,Zudio Ethnic Canvas Backpack 62,16,7,75.63,149.0,Active
+995,ZUD-09-0995,Zudio Denim Printed Tee 55,9,36,146.6,299.0,Active
+996,ZUD-15-0996,Zudio Stylish Deodorant Spray 16,15,41,148.38,299.0,Active
+997,ZUD-05-0997,Zudio Casual Maxi Dress 35,5,6,223.08,499.0,Active
+998,ZUD-08-0998,Zudio Denim Anarkali Kurta 86,8,21,362.71,699.0,Active
+999,ZUD-05-0999,Zudio Solid Anarkali Kurta 97,5,19,523.49,999.0,Active
+1000,ZUD-14-1000,Zudio Classic Slides 60,14,37,324.49,599.0,Active
+1001,ZUD-01-1001,Zudio Denim Chino Pants 21,1,45,343.36,799.0,Active
+1002,ZUD-02-1002,Zudio Sporty Joggers 86,2,24,210.77,499.0,Active
+1003,ZUD-04-1003,Zudio Casual Track Pants 65,4,32,418.75,799.0,Active
+1004,ZUD-07-1004,Zudio Printed Skinny Jeans 46,7,28,365.39,799.0,Active
+1005,ZUD-07-1005,Zudio Solid Straight Kurti 63,7,10,137.92,299.0,Discontinued
+1006,ZUD-09-1006,Zudio Printed Tracksuit 67,9,44,90.63,199.0,Active
+1007,ZUD-03-1007,Zudio Casual Hoodie 27,3,26,327.15,599.0,Active
+1008,ZUD-13-1008,Zudio Stylish Flip Flops 86,13,36,205.07,499.0,Active
+1009,ZUD-11-1009,Zudio Printed Jumpsuit 55,11,39,215.82,399.0,Active
+1010,ZUD-02-1010,Zudio Casual Cargo Shorts 74,2,26,456.68,999.0,Active
+1011,ZUD-05-1011,Zudio Denim Graphic Tee 84,5,33,131.27,299.0,Active
+1012,ZUD-11-1012,Zudio Ethnic Denim Shorts 21,11,28,126.13,249.0,Active
+1013,ZUD-04-1013,Zudio Classic T-Shirt 26,4,18,424.07,799.0,Active
+1014,ZUD-14-1014,Zudio Solid Running Shoes 88,14,17,462.3,899.0,Active
+1015,ZUD-14-1015,Zudio Regular Running Shoes 72,14,36,487.71,899.0,Active
+1016,ZUD-15-1016,Zudio Casual Eau de Toilette 29,15,3,34.32,79.0,Active
+1017,ZUD-06-1017,Zudio Stylish Leggings 65,6,32,136.77,249.0,Active
+1018,ZUD-12-1018,Zudio Stylish Flat Sandals 72,12,47,283.9,599.0,Active
+1019,ZUD-04-1019,Zudio Classic Polo T-Shirt 36,4,11,213.12,499.0,Active
+1020,ZUD-09-1020,Zudio Stretch Pajama Set 84,9,1,97.02,199.0,Active
+1021,ZUD-06-1021,Zudio Sporty Cropped Top 41,6,22,400.73,799.0,Discontinued
+1022,ZUD-04-1022,Zudio Sporty Denim Jeans 85,4,10,130.86,249.0,Discontinued
+1023,ZUD-15-1023,Zudio Stylish Canvas Backpack 71,15,18,98.36,199.0,Active
+1024,ZUD-01-1024,Zudio Classic T-Shirt 93,1,21,542.09,999.0,Active
+1025,ZUD-05-1025,Zudio Printed Graphic Tee 92,5,4,223.79,499.0,Active
+1026,ZUD-13-1026,Zudio Slim-Fit Flip Flops 42,13,50,173.97,399.0,Active
+1027,ZUD-03-1027,Zudio Casual Chino Pants 30,3,19,361.33,699.0,Active
+1028,ZUD-05-1028,Zudio Slim-Fit Skinny Jeans 72,5,20,356.76,699.0,Active
+1029,ZUD-05-1029,Zudio Classic Cropped Top 57,5,29,386.55,899.0,Active
+1030,ZUD-16-1030,Zudio Solid Ankle Socks 86,16,28,82.29,199.0,Active
+1031,ZUD-06-1031,Zudio Sporty Maxi Dress 21,6,30,94.92,199.0,Active
+1032,ZUD-05-1032,Zudio Ethnic Sports Bra 90,5,30,370.92,899.0,Active
+1033,ZUD-16-1033,Zudio Solid Eau de Toilette 26,16,16,160.1,299.0,Active
+1034,ZUD-10-1034,Zudio Stretch Printed Tee 80,10,33,80.1,149.0,Active
+1035,ZUD-14-1035,Zudio Sporty Sneakers 69,14,17,405.93,799.0,Active
+1036,ZUD-03-1036,Zudio Denim T-Shirt 24,3,12,341.12,799.0,Active
+1037,ZUD-02-1037,Zudio Slim-Fit Joggers 48,2,30,292.36,599.0,Active
+1038,ZUD-15-1038,Zudio Stretch Leather Belt 43,15,12,81.21,149.0,Active
+1039,ZUD-03-1039,Zudio Stylish Cargo Shorts 96,3,2,115.8,249.0,Discontinued
+1040,ZUD-04-1040,Zudio Casual Casual Shirt 93,4,26,374.75,799.0,Active
+1041,ZUD-16-1041,Zudio Solid Ankle Socks 88,16,45,75.04,149.0,Active
+1042,ZUD-10-1042,Zudio Slim-Fit Denim Shorts 27,10,2,63.86,149.0,Active
+1043,ZUD-07-1043,Zudio Casual Straight Kurti 71,7,28,148.74,299.0,Active
+1044,ZUD-07-1044,Zudio Slim-Fit Skinny Jeans 69,7,2,140.86,299.0,Active
+1045,ZUD-05-1045,Zudio Stylish Leggings 72,5,29,321.95,799.0,Active
+1046,ZUD-07-1046,Zudio Solid Maxi Dress 16,7,41,240.31,599.0,Active
+1047,ZUD-14-1047,Zudio Sporty Loafers 73,14,47,388.95,799.0,Active
+1048,ZUD-10-1048,Zudio Casual Jumpsuit 61,10,47,142.62,299.0,Active
+1049,ZUD-16-1049,Zudio Printed Canvas Backpack 17,16,37,100.31,249.0,Active
+1050,ZUD-03-1050,Zudio Solid Joggers 70,3,42,118.08,249.0,Active
+1051,ZUD-14-1051,Zudio Casual Slides 46,14,23,342.64,799.0,Active
+1052,ZUD-17-1052,Zudio Printed Ankle Socks 97,17,46,80.2,149.0,Active
+1053,ZUD-05-1053,Zudio Solid Maxi Dress 63,5,11,311.12,599.0,Active
+1054,ZUD-10-1054,Zudio Stylish Pajama Set 21,10,12,235.74,499.0,Active
+1055,ZUD-16-1055,Zudio Slim-Fit Leather Belt 63,16,14,88.66,199.0,Active
+1056,ZUD-01-1056,Zudio Classic Cargo Shorts 55,1,33,127.44,299.0,Active
+1057,ZUD-03-1057,Zudio Classic Joggers 24,3,36,433.57,999.0,Active
+1058,ZUD-09-1058,Zudio Classic Frock 15,9,18,318.46,599.0,Active
+1059,ZUD-17-1059,Zudio Stretch Canvas Backpack 23,17,29,121.86,299.0,Active
+1060,ZUD-04-1060,Zudio Slim-Fit Polo T-Shirt 81,4,11,94.74,199.0,Active
+1061,ZUD-07-1061,Zudio Classic Anarkali Kurta 47,7,32,410.92,799.0,Active
+1062,ZUD-04-1062,Zudio Regular Denim Jeans 52,4,13,125.12,299.0,Active
+1063,ZUD-14-1063,Zudio Casual Slides 70,14,11,221.06,499.0,Active
+1064,ZUD-12-1064,Zudio Stylish Loafers 63,12,16,246.71,499.0,Active
+1065,ZUD-17-1065,Zudio Sporty Leather Belt 39,17,27,51.51,99.0,Active
+1066,ZUD-15-1066,Zudio Denim Leather Belt 97,15,29,80.69,149.0,Active
+1067,ZUD-01-1067,Zudio Stylish Track Pants 18,1,26,112.24,249.0,Active
+1068,ZUD-06-1068,Zudio Sporty Graphic Tee 60,6,42,99.31,199.0,Active
+1069,ZUD-02-1069,Zudio Cozy Track Pants 47,2,44,321.75,699.0,Active
+1070,ZUD-10-1070,Zudio Stylish Pajama Set 50,10,18,99.9,249.0,Active
+1071,ZUD-05-1071,Zudio Stylish Maxi Dress 67,5,40,212.72,399.0,Active
+1072,ZUD-15-1072,Zudio Stylish Matte Lipstick 93,15,20,102.75,199.0,Active
+1073,ZUD-11-1073,Zudio Sporty Pajama Set 26,11,19,218.97,399.0,Active
+1074,ZUD-17-1074,Zudio Denim Matte Lipstick 76,17,11,76.52,149.0,Discontinued
+1075,ZUD-09-1075,Zudio Printed Frock 64,9,4,166.21,399.0,Active
+1076,ZUD-09-1076,Zudio Cozy Tracksuit 55,9,42,60.67,149.0,Active
+1077,ZUD-15-1077,Zudio Solid Ankle Socks 10,15,16,89.72,199.0,Active
+1078,ZUD-08-1078,Zudio Classic Skinny Jeans 46,8,46,500.36,999.0,Active
+1079,ZUD-08-1079,Zudio Slim-Fit Palazzo Pants 76,8,50,428.45,999.0,Active
+1080,ZUD-04-1080,Zudio Regular Joggers 62,4,28,103.05,249.0,Active
+1081,ZUD-16-1081,Zudio Printed Nail Polish 19,16,26,74.73,149.0,Active
+1082,ZUD-17-1082,Zudio Sporty Leather Belt 43,17,28,118.23,249.0,Active
+1083,ZUD-16-1083,Zudio Stylish Nail Polish 30,16,32,47.11,99.0,Active
+1084,ZUD-05-1084,Zudio Stylish Sports Bra 77,5,30,125.54,249.0,Active
+1085,ZUD-06-1085,Zudio Denim Palazzo Pants 25,6,8,527.32,999.0,Active
+1086,ZUD-10-1086,Zudio Casual Tracksuit 29,10,24,67.9,149.0,Active
+1087,ZUD-16-1087,Zudio Casual Leather Belt 28,16,27,51.24,99.0,Active
+1088,ZUD-10-1088,Zudio Solid Denim Shorts 33,10,1,306.06,599.0,Active
+1089,ZUD-12-1089,Zudio Slim-Fit Loafers 15,12,20,282.83,599.0,Active
+1090,ZUD-11-1090,Zudio Sporty Jumpsuit 87,11,33,102.34,199.0,Active
+1091,ZUD-15-1091,Zudio Cozy Nail Polish 29,15,40,134.19,299.0,Active
+1092,ZUD-14-1092,Zudio Sporty Slides 60,14,43,240.09,499.0,Active
+1093,ZUD-09-1093,Zudio Cozy Printed Tee 31,9,41,201.46,499.0,Active
+1094,ZUD-10-1094,Zudio Denim Pajama Set 25,10,13,241.47,499.0,Active
+1095,ZUD-02-1095,Zudio Stretch Track Pants 34,2,2,379.84,799.0,Active
+1096,ZUD-06-1096,Zudio Casual Skinny Jeans 36,6,38,209.26,399.0,Active
+1097,ZUD-11-1097,Zudio Sporty Tracksuit 15,11,2,158.26,299.0,Active
+1098,ZUD-06-1098,Zudio Sporty Graphic Tee 77,6,6,273.92,599.0,Active
+1099,ZUD-04-1099,Zudio Denim Casual Shirt 46,4,50,127.79,299.0,Active
+1100,ZUD-10-1100,Zudio Sporty Pajama Set 31,10,21,73.33,149.0,Active
+1101,ZUD-02-1101,Zudio Solid Joggers 22,2,21,252.4,599.0,Active
+1102,ZUD-04-1102,Zudio Casual Chino Pants 40,4,32,487.42,999.0,Active
+1103,ZUD-17-1103,Zudio Sporty Deodorant Spray 44,17,36,35.37,79.0,Active
+1104,ZUD-16-1104,Zudio Casual Nail Polish 91,16,2,53.17,99.0,Active
+1105,ZUD-04-1105,Zudio Printed Track Pants 93,4,27,133.26,299.0,Active
+1106,ZUD-17-1106,Zudio Printed Leather Belt 28,17,11,71.68,149.0,Active
+1107,ZUD-14-1107,Zudio Denim Flip Flops 15,14,40,156.05,299.0,Active
+1108,ZUD-06-1108,Zudio Casual Graphic Tee 71,6,44,244.35,499.0,Active
+1109,ZUD-12-1109,Zudio Cozy Slides 84,12,3,428.42,899.0,Active
+1110,ZUD-03-1110,Zudio Solid Polo T-Shirt 60,3,47,130.62,249.0,Active
+1111,ZUD-09-1111,Zudio Sporty Denim Shorts 88,9,21,216.9,399.0,Active
+1112,ZUD-11-1112,Zudio Cozy Frock 67,11,21,108.79,249.0,Active
+1113,ZUD-15-1113,Zudio Stretch Matte Lipstick 12,15,1,125.6,299.0,Active
+1114,ZUD-01-1114,Zudio Casual Casual Shirt 62,1,46,480.33,899.0,Active
+1115,ZUD-13-1115,Zudio Denim Sneakers 93,13,2,328.89,799.0,Active
+1116,ZUD-15-1116,Zudio Cozy Deodorant Spray 55,15,23,104.3,199.0,Active
+1117,ZUD-01-1117,Zudio Slim-Fit Hoodie 57,1,15,186.21,399.0,Active
+1118,ZUD-09-1118,Zudio Cozy Pajama Set 55,9,40,82.29,199.0,Active
+1119,ZUD-08-1119,Zudio Printed Leggings 56,8,46,87.98,199.0,Active
+1120,ZUD-07-1120,Zudio Casual Straight Kurti 91,7,18,291.23,699.0,Active
+1121,ZUD-16-1121,Zudio Regular Ankle Socks 34,16,44,152.74,299.0,Active
+1122,ZUD-06-1122,Zudio Slim-Fit Anarkali Kurta 18,6,37,131.24,299.0,Active
+1123,ZUD-17-1123,Zudio Stylish Leather Belt 45,17,2,52.19,99.0,Active
+1124,ZUD-09-1124,Zudio Cozy Tracksuit 68,9,42,80.56,149.0,Active
+1125,ZUD-02-1125,Zudio Classic Joggers 62,2,34,208.71,499.0,Active
+1126,ZUD-12-1126,Zudio Denim Loafers 15,12,18,346.51,799.0,Active
+1127,ZUD-15-1127,Zudio Classic Deodorant Spray 60,15,37,44.57,99.0,Active
+1128,ZUD-08-1128,Zudio Stylish Maxi Dress 19,8,22,171.38,399.0,Active
+1129,ZUD-04-1129,Zudio Casual Hoodie 65,4,41,97.29,199.0,Active
+1130,ZUD-09-1130,Zudio Printed Printed Tee 70,9,4,108.22,199.0,Active
+1131,ZUD-17-1131,Zudio Printed Deodorant Spray 86,17,7,115.98,249.0,Active
+1132,ZUD-04-1132,Zudio Slim-Fit T-Shirt 14,4,45,312.45,699.0,Active
+1133,ZUD-05-1133,Zudio Casual Leggings 17,5,28,245.31,499.0,Active
+1134,ZUD-02-1134,Zudio Denim T-Shirt 47,2,40,321.72,699.0,Active
+1135,ZUD-08-1135,Zudio Stretch Graphic Tee 68,8,28,328.27,699.0,Active
+1136,ZUD-04-1136,Zudio Classic T-Shirt 68,4,13,403.86,899.0,Active
+1137,ZUD-01-1137,Zudio Stretch Polo T-Shirt 85,1,9,213.73,399.0,Active
+1138,ZUD-09-1138,Zudio Classic Jumpsuit 71,9,12,246.07,499.0,Active
+1139,ZUD-02-1139,Zudio Casual Casual Shirt 49,2,42,464.91,999.0,Active
+1140,ZUD-10-1140,Zudio Stretch Tracksuit 28,10,39,93.62,199.0,Active
+1141,ZUD-12-1141,Zudio Casual Flat Sandals 85,12,4,400.89,799.0,Active
+1142,ZUD-02-1142,Zudio Sporty Denim Jeans 35,2,13,197.94,399.0,Active
+1143,ZUD-11-1143,Zudio Printed Pajama Set 70,11,30,251.38,499.0,Active
+1144,ZUD-11-1144,Zudio Stretch Tracksuit 52,11,22,177.53,399.0,Active
+1145,ZUD-15-1145,Zudio Casual Nail Polish 38,15,45,39.17,79.0,Active
+1146,ZUD-07-1146,Zudio Printed Leggings 52,7,12,301.13,699.0,Active
+1147,ZUD-01-1147,Zudio Classic T-Shirt 19,1,8,242.3,599.0,Active
+1148,ZUD-15-1148,Zudio Printed Canvas Backpack 84,15,2,60.58,149.0,Active
+1149,ZUD-10-1149,Zudio Regular Denim Shorts 43,10,36,212.65,499.0,Active
+1150,ZUD-07-1150,Zudio Casual Anarkali Kurta 43,7,44,100.38,249.0,Active
+1151,ZUD-04-1151,Zudio Classic Chino Pants 49,4,24,348.38,799.0,Active
+1152,ZUD-17-1152,Zudio Stretch Nail Polish 18,17,9,33.31,79.0,Active
+1153,ZUD-07-1153,Zudio Denim Maxi Dress 98,7,28,268.17,599.0,Active
+1154,ZUD-08-1154,Zudio Casual Straight Kurti 78,8,21,258.7,499.0,Active
+1155,ZUD-09-1155,Zudio Regular Tracksuit 84,9,6,128.98,299.0,Active
+1156,ZUD-03-1156,Zudio Regular Track Pants 59,3,34,410.07,899.0,Active
+1157,ZUD-11-1157,Zudio Stylish Frock 77,11,32,235.77,499.0,Active
+1158,ZUD-13-1158,Zudio Cozy Loafers 84,13,15,323.99,799.0,Active
+1159,ZUD-15-1159,Zudio Printed Nail Polish 37,15,25,69.1,149.0,Active
+1160,ZUD-12-1160,Zudio Solid Flat Sandals 20,12,19,204.58,399.0,Active
+1161,ZUD-12-1161,Zudio Printed Flat Sandals 15,12,22,285.63,599.0,Active
+1162,ZUD-15-1162,Zudio Sporty Nail Polish 57,15,25,89.06,199.0,Discontinued
+1163,ZUD-15-1163,Zudio Printed Matte Lipstick 92,15,6,35.86,79.0,Active
+1164,ZUD-17-1164,Zudio Denim Ankle Socks 92,17,15,40.91,79.0,Active
+1165,ZUD-03-1165,Zudio Classic T-Shirt 79,3,44,179.58,399.0,Active
+1166,ZUD-10-1166,Zudio Stylish Pajama Set 45,10,9,100.66,199.0,Active
+1167,ZUD-09-1167,Zudio Casual Frock 46,9,26,270.74,599.0,Active
+1168,ZUD-01-1168,Zudio Ethnic Track Pants 29,1,47,303.46,699.0,Active
+1169,ZUD-16-1169,Zudio Printed Ankle Socks 85,16,47,127.9,249.0,Active
+1170,ZUD-11-1170,Zudio Slim-Fit Frock 34,11,45,154.14,299.0,Active
+1171,ZUD-15-1171,Zudio Ethnic Leather Belt 81,15,37,36.04,79.0,Active
+1172,ZUD-10-1172,Zudio Stylish Printed Tee 73,10,23,298.8,599.0,Active
+1173,ZUD-14-1173,Zudio Sporty Canvas Shoes 61,14,35,464.6,899.0,Active
+1174,ZUD-01-1174,Zudio Stretch T-Shirt 27,1,22,163.43,299.0,Active
+1175,ZUD-13-1175,Zudio Sporty Slides 60,13,13,143.57,299.0,Active
+1176,ZUD-11-1176,Zudio Stretch Jumpsuit 91,11,7,103.08,249.0,Active
+1177,ZUD-06-1177,Zudio Casual Leggings 13,6,25,128.53,299.0,Active
+1178,ZUD-08-1178,Zudio Solid Sports Bra 18,8,34,326.49,799.0,Discontinued
+1179,ZUD-11-1179,Zudio Sporty Jumpsuit 30,11,27,62.49,149.0,Active
+1180,ZUD-03-1180,Zudio Sporty Chino Pants 26,3,46,178.14,399.0,Active
+1181,ZUD-06-1181,Zudio Stretch Skinny Jeans 85,6,44,189.67,399.0,Active
+1182,ZUD-07-1182,Zudio Casual Anarkali Kurta 67,7,39,130.4,249.0,Active
+1183,ZUD-17-1183,Zudio Classic Ankle Socks 72,17,3,93.41,199.0,Active
+1184,ZUD-10-1184,Zudio Cozy Jumpsuit 54,10,20,262.67,499.0,Active
+1185,ZUD-06-1185,Zudio Sporty Straight Kurti 32,6,30,509.48,999.0,Active
+1186,ZUD-06-1186,Zudio Stylish Cropped Top 60,6,11,86.75,199.0,Active
+1187,ZUD-10-1187,Zudio Cozy Printed Tee 99,10,14,253.67,499.0,Active
+1188,ZUD-14-1188,Zudio Denim Sneakers 57,14,33,153.48,299.0,Active
+1189,ZUD-11-1189,Zudio Sporty Jumpsuit 31,11,3,107.35,249.0,Active
+1190,ZUD-03-1190,Zudio Cozy Hoodie 58,3,13,306.62,599.0,Active
+1191,ZUD-01-1191,Zudio Solid Polo T-Shirt 27,1,30,299.83,599.0,Active
+1192,ZUD-03-1192,Zudio Slim-Fit Track Pants 94,3,29,202.31,399.0,Active
+1193,ZUD-09-1193,Zudio Regular Denim Shorts 12,9,19,165.62,399.0,Active
+1194,ZUD-13-1194,Zudio Regular Sneakers 95,13,18,361.11,899.0,Active
+1195,ZUD-12-1195,Zudio Regular Slides 14,12,29,383.4,799.0,Active
+1196,ZUD-17-1196,Zudio Cozy Canvas Backpack 94,17,20,36.23,79.0,Active
+1197,ZUD-01-1197,Zudio Casual Joggers 35,1,16,182.02,399.0,Active
+1198,ZUD-01-1198,Zudio Sporty T-Shirt 11,1,44,313.32,599.0,Active
+1199,ZUD-08-1199,Zudio Slim-Fit Anarkali Kurta 31,8,7,92.01,199.0,Active
+1200,ZUD-11-1200,Zudio Denim Pajama Set 34,11,35,172.0,399.0,Active
+1201,ZUD-14-1201,Zudio Slim-Fit Slides 37,14,12,135.59,299.0,Discontinued
+1202,ZUD-11-1202,Zudio Casual Jumpsuit 37,11,43,129.47,299.0,Active
+1203,ZUD-12-1203,Zudio Casual Sneakers 37,12,39,266.69,599.0,Active
+1204,ZUD-04-1204,Zudio Stylish Track Pants 82,4,7,130.9,299.0,Active
+1205,ZUD-13-1205,Zudio Cozy Loafers 98,13,41,179.47,399.0,Active
+1206,ZUD-11-1206,Zudio Cozy Jumpsuit 18,11,38,100.26,249.0,Active
+1207,ZUD-17-1207,Zudio Cozy Canvas Backpack 39,17,1,121.54,249.0,Active
+1208,ZUD-04-1208,Zudio Solid Chino Pants 64,4,4,196.69,399.0,Active
+1209,ZUD-16-1209,Zudio Solid Eau de Toilette 29,16,3,85.7,199.0,Active
+1210,ZUD-15-1210,Zudio Stylish Matte Lipstick 27,15,49,66.7,149.0,Active
+1211,ZUD-14-1211,Zudio Cozy Loafers 46,14,47,362.8,899.0,Active
+1212,ZUD-08-1212,Zudio Printed Sports Bra 16,8,45,207.57,399.0,Active
+1213,ZUD-13-1213,Zudio Denim Running Shoes 33,13,5,296.19,599.0,Active
+1214,ZUD-03-1214,Zudio Printed T-Shirt 91,3,9,161.68,299.0,Active
+1215,ZUD-07-1215,Zudio Printed Sports Bra 20,7,20,355.62,699.0,Active
+1216,ZUD-07-1216,Zudio Printed Maxi Dress 32,7,19,436.91,999.0,Active
+1217,ZUD-07-1217,Zudio Solid Leggings 20,7,11,275.38,599.0,Active
+1218,ZUD-14-1218,Zudio Denim Flat Sandals 65,14,31,380.62,899.0,Discontinued
+1219,ZUD-13-1219,Zudio Sporty Loafers 20,13,20,481.84,899.0,Active
+1220,ZUD-05-1220,Zudio Denim Anarkali Kurta 42,5,30,328.21,699.0,Active
+1221,ZUD-16-1221,Zudio Slim-Fit Matte Lipstick 27,16,10,140.65,299.0,Active
+1222,ZUD-01-1222,Zudio Casual Track Pants 57,1,27,368.09,799.0,Active
+1223,ZUD-12-1223,Zudio Sporty Flip Flops 49,12,5,437.95,799.0,Active
+1224,ZUD-02-1224,Zudio Slim-Fit Joggers 82,2,28,128.31,299.0,Active
+1225,ZUD-12-1225,Zudio Denim Canvas Shoes 72,12,45,402.12,799.0,Active
+1226,ZUD-13-1226,Zudio Sporty Canvas Shoes 41,13,24,188.19,399.0,Active
+1227,ZUD-01-1227,Zudio Stylish Casual Shirt 43,1,44,467.85,999.0,Active
+1228,ZUD-08-1228,Zudio Stretch Anarkali Kurta 11,8,42,128.4,249.0,Active
+1229,ZUD-13-1229,Zudio Sporty Canvas Shoes 85,13,13,142.86,299.0,Active
+1230,ZUD-06-1230,Zudio Sporty Skinny Jeans 98,6,35,237.07,499.0,Active
+1231,ZUD-13-1231,Zudio Stretch Running Shoes 62,13,47,477.78,899.0,Active
+1232,ZUD-04-1232,Zudio Cozy Denim Jeans 28,4,48,255.64,499.0,Active
+1233,ZUD-10-1233,Zudio Casual Denim Shorts 72,10,50,61.77,149.0,Active
+1234,ZUD-17-1234,Zudio Sporty Canvas Backpack 46,17,12,138.93,299.0,Active
+1235,ZUD-05-1235,Zudio Printed Leggings 33,5,29,487.5,899.0,Active
+1236,ZUD-07-1236,Zudio Regular Straight Kurti 17,7,13,155.89,299.0,Active
+1237,ZUD-14-1237,Zudio Ethnic Canvas Shoes 89,14,11,158.55,299.0,Active
+1238,ZUD-03-1238,Zudio Sporty Polo T-Shirt 45,3,38,112.38,249.0,Active
+1239,ZUD-16-1239,Zudio Cozy Leather Belt 22,16,49,32.32,79.0,Active
+1240,ZUD-02-1240,Zudio Slim-Fit Chino Pants 76,2,34,90.81,199.0,Active
+1241,ZUD-09-1241,Zudio Ethnic Jumpsuit 53,9,24,185.3,399.0,Active
+1242,ZUD-11-1242,Zudio Classic Denim Shorts 56,11,40,229.43,499.0,Active
+1243,ZUD-12-1243,Zudio Classic Loafers 22,12,45,140.09,299.0,Active
+1244,ZUD-05-1244,Zudio Casual Cropped Top 77,5,49,270.79,499.0,Active
+1245,ZUD-12-1245,Zudio Ethnic Flat Sandals 97,12,33,423.85,799.0,Active
+1246,ZUD-07-1246,Zudio Casual Palazzo Pants 12,7,48,318.08,599.0,Active
+1247,ZUD-15-1247,Zudio Printed Ankle Socks 72,15,6,101.67,199.0,Active
+1248,ZUD-16-1248,Zudio Cozy Leather Belt 99,16,19,40.3,79.0,Active
+1249,ZUD-05-1249,Zudio Denim Sports Bra 14,5,6,141.93,299.0,Active
+1250,ZUD-15-1250,Zudio Regular Nail Polish 24,15,16,99.38,199.0,Active
+1251,ZUD-06-1251,Zudio Cozy Cropped Top 23,6,2,383.75,699.0,Active
+1252,ZUD-11-1252,Zudio Sporty Frock 38,11,31,218.88,499.0,Active
+1253,ZUD-04-1253,Zudio Cozy Casual Shirt 78,4,45,330.44,799.0,Active
+1254,ZUD-08-1254,Zudio Stretch Cropped Top 92,8,46,273.47,599.0,Active
+1255,ZUD-13-1255,Zudio Cozy Canvas Shoes 81,13,15,418.52,899.0,Active
+1256,ZUD-04-1256,Zudio Solid Polo T-Shirt 24,4,38,112.31,249.0,Active
+1257,ZUD-04-1257,Zudio Stretch Denim Jeans 26,4,37,325.32,599.0,Active
+1258,ZUD-10-1258,Zudio Casual Tracksuit 78,10,28,104.89,199.0,Active
+1259,ZUD-12-1259,Zudio Cozy Loafers 26,12,38,349.19,699.0,Active
+1260,ZUD-13-1260,Zudio Casual Flat Sandals 68,13,19,210.43,499.0,Active
+1261,ZUD-16-1261,Zudio Cozy Nail Polish 28,16,48,110.18,249.0,Active
+1262,ZUD-02-1262,Zudio Stretch Denim Jeans 49,2,8,493.15,899.0,Active
+1263,ZUD-16-1263,Zudio Cozy Leather Belt 37,16,25,88.3,199.0,Active
+1264,ZUD-11-1264,Zudio Regular Pajama Set 36,11,15,305.43,599.0,Active
+1265,ZUD-02-1265,Zudio Regular Hoodie 60,2,43,273.28,499.0,Active
+1266,ZUD-06-1266,Zudio Casual Sports Bra 60,6,31,277.56,599.0,Active
+1267,ZUD-13-1267,Zudio Sporty Sneakers 77,13,45,353.52,799.0,Active
+1268,ZUD-13-1268,Zudio Slim-Fit Slides 51,13,4,466.3,899.0,Active
+1269,ZUD-10-1269,Zudio Ethnic Pajama Set 30,10,45,167.83,399.0,Active
+1270,ZUD-05-1270,Zudio Printed Straight Kurti 35,5,37,90.41,199.0,Active
+1271,ZUD-05-1271,Zudio Sporty Maxi Dress 96,5,7,161.13,299.0,Active
+1272,ZUD-16-1272,Zudio Regular Deodorant Spray 25,16,38,123.88,249.0,Active
+1273,ZUD-05-1273,Zudio Cozy Maxi Dress 41,5,26,83.15,199.0,Active
+1274,ZUD-06-1274,Zudio Cozy Maxi Dress 98,6,42,128.65,249.0,Active
+1275,ZUD-15-1275,Zudio Classic Deodorant Spray 25,15,32,32.58,79.0,Active
+1276,ZUD-17-1276,Zudio Printed Deodorant Spray 85,17,31,136.48,249.0,Active
+1277,ZUD-04-1277,Zudio Stretch Casual Shirt 59,4,45,439.44,799.0,Active
+1278,ZUD-05-1278,Zudio Slim-Fit Palazzo Pants 18,5,45,384.53,899.0,Discontinued
+1279,ZUD-17-1279,Zudio Ethnic Deodorant Spray 76,17,42,119.73,249.0,Active
+1280,ZUD-07-1280,Zudio Cozy Cropped Top 33,7,1,503.78,999.0,Active
+1281,ZUD-11-1281,Zudio Slim-Fit Printed Tee 26,11,11,171.94,399.0,Active
+1282,ZUD-09-1282,Zudio Casual Printed Tee 25,9,35,177.47,399.0,Active
+1283,ZUD-01-1283,Zudio Printed Cargo Shorts 15,1,19,481.59,899.0,Active
+1284,ZUD-15-1284,Zudio Regular Ankle Socks 72,15,23,133.64,299.0,Active
+1285,ZUD-17-1285,Zudio Printed Canvas Backpack 22,17,16,156.37,299.0,Active
+1286,ZUD-05-1286,Zudio Solid Straight Kurti 27,5,38,482.33,999.0,Active
+1287,ZUD-05-1287,Zudio Stylish Maxi Dress 19,5,25,393.98,899.0,Active
+1288,ZUD-06-1288,Zudio Sporty Leggings 20,6,45,250.24,499.0,Active
+1289,ZUD-07-1289,Zudio Slim-Fit Skinny Jeans 91,7,37,202.36,399.0,Active
+1290,ZUD-17-1290,Zudio Stretch Eau de Toilette 63,17,28,44.3,99.0,Active
+1291,ZUD-08-1291,Zudio Slim-Fit Skinny Jeans 25,8,36,374.43,899.0,Active
+1292,ZUD-11-1292,Zudio Cozy Printed Tee 56,11,10,128.66,249.0,Active
+1293,ZUD-08-1293,Zudio Solid Graphic Tee 22,8,15,382.3,699.0,Active
+1294,ZUD-04-1294,Zudio Slim-Fit Casual Shirt 77,4,32,243.67,499.0,Active
+1295,ZUD-12-1295,Zudio Stylish Flat Sandals 46,12,7,308.02,699.0,Active
+1296,ZUD-06-1296,Zudio Classic Maxi Dress 33,6,44,312.03,599.0,Active
+1297,ZUD-13-1297,Zudio Ethnic Flat Sandals 26,13,33,200.31,499.0,Active
+1298,ZUD-05-1298,Zudio Regular Maxi Dress 82,5,47,203.56,499.0,Active
+1299,ZUD-12-1299,Zudio Stylish Loafers 41,12,46,392.55,799.0,Active
+1300,ZUD-15-1300,Zudio Classic Leather Belt 69,15,28,110.31,249.0,Active
+1301,ZUD-08-1301,Zudio Solid Cropped Top 49,8,6,360.4,699.0,Active
+1302,ZUD-03-1302,Zudio Stylish Chino Pants 21,3,6,145.4,299.0,Active
+1303,ZUD-16-1303,Zudio Casual Nail Polish 96,16,9,134.43,249.0,Active
+1304,ZUD-17-1304,Zudio Cozy Canvas Backpack 78,17,1,125.19,299.0,Active
+1305,ZUD-01-1305,Zudio Stylish Joggers 99,1,16,460.69,899.0,Active
+1306,ZUD-17-1306,Zudio Cozy Ankle Socks 15,17,11,116.36,249.0,Active
+1307,ZUD-17-1307,Zudio Printed Eau de Toilette 19,17,33,78.36,149.0,Active
+1308,ZUD-02-1308,Zudio Sporty Hoodie 58,2,8,136.34,299.0,Active
+1309,ZUD-08-1309,Zudio Denim Cropped Top 47,8,17,235.76,499.0,Active
+1310,ZUD-13-1310,Zudio Printed Running Shoes 92,13,3,366.18,699.0,Active
+1311,ZUD-16-1311,Zudio Casual Matte Lipstick 10,16,20,116.79,249.0,Active
+1312,ZUD-01-1312,Zudio Classic Casual Shirt 61,1,28,240.4,599.0,Active
+1313,ZUD-03-1313,Zudio Denim Track Pants 29,3,32,292.58,699.0,Discontinued
+1314,ZUD-09-1314,Zudio Printed Jumpsuit 60,9,28,110.78,249.0,Active
+1315,ZUD-09-1315,Zudio Slim-Fit Jumpsuit 94,9,9,279.08,599.0,Active
+1316,ZUD-14-1316,Zudio Casual Running Shoes 35,14,3,128.1,299.0,Active
+1317,ZUD-14-1317,Zudio Stylish Running Shoes 14,14,31,199.47,399.0,Active
+1318,ZUD-09-1318,Zudio Slim-Fit Jumpsuit 72,9,44,189.26,399.0,Active
+1319,ZUD-11-1319,Zudio Sporty Tracksuit 59,11,7,82.88,199.0,Active
+1320,ZUD-05-1320,Zudio Regular Palazzo Pants 74,5,16,102.51,199.0,Active
+1321,ZUD-11-1321,Zudio Sporty Tracksuit 11,11,19,141.14,299.0,Active
+1322,ZUD-14-1322,Zudio Printed Flat Sandals 29,14,16,380.87,799.0,Active
+1323,ZUD-04-1323,Zudio Solid Chino Pants 95,4,46,300.4,699.0,Active
+1324,ZUD-04-1324,Zudio Stylish Track Pants 88,4,38,128.06,299.0,Active
+1325,ZUD-05-1325,Zudio Printed Cropped Top 26,5,13,283.62,699.0,Active
+1326,ZUD-14-1326,Zudio Casual Flat Sandals 35,14,25,158.37,299.0,Active
+1327,ZUD-10-1327,Zudio Stylish Pajama Set 39,10,31,89.63,199.0,Active
+1328,ZUD-14-1328,Zudio Cozy Sneakers 48,14,18,131.68,299.0,Active
+1329,ZUD-14-1329,Zudio Printed Running Shoes 16,14,4,162.05,399.0,Active
+1330,ZUD-11-1330,Zudio Printed Frock 70,11,7,133.53,249.0,Active
+1331,ZUD-09-1331,Zudio Ethnic Frock 52,9,43,103.77,249.0,Discontinued
+1332,ZUD-05-1332,Zudio Classic Palazzo Pants 56,5,24,478.85,999.0,Active
+1333,ZUD-09-1333,Zudio Printed Tracksuit 59,9,9,79.43,149.0,Active
+1334,ZUD-04-1334,Zudio Casual Chino Pants 34,4,5,430.52,799.0,Active
+1335,ZUD-11-1335,Zudio Solid Pajama Set 70,11,47,257.75,599.0,Active
+1336,ZUD-05-1336,Zudio Printed Maxi Dress 80,5,49,266.34,499.0,Active
+1337,ZUD-12-1337,Zudio Classic Flip Flops 90,12,28,333.67,799.0,Active
+1338,ZUD-14-1338,Zudio Denim Flat Sandals 12,14,45,195.46,399.0,Active
+1339,ZUD-10-1339,Zudio Casual Tracksuit 17,10,13,326.98,599.0,Active
+1340,ZUD-13-1340,Zudio Ethnic Canvas Shoes 78,13,5,428.84,899.0,Active
+1341,ZUD-17-1341,Zudio Sporty Ankle Socks 59,17,14,97.73,199.0,Active
+1342,ZUD-06-1342,Zudio Stretch Straight Kurti 85,6,33,105.84,199.0,Active
+1343,ZUD-17-1343,Zudio Solid Matte Lipstick 38,17,36,75.43,149.0,Active
+1344,ZUD-08-1344,Zudio Casual Sports Bra 40,8,10,202.53,499.0,Active
+1345,ZUD-09-1345,Zudio Regular Frock 16,9,14,272.95,499.0,Active
+1346,ZUD-01-1346,Zudio Cozy Denim Jeans 90,1,21,545.29,999.0,Active
+1347,ZUD-09-1347,Zudio Stylish Denim Shorts 62,9,4,177.25,399.0,Active
+1348,ZUD-01-1348,Zudio Classic Chino Pants 45,1,2,131.08,299.0,Active
+1349,ZUD-04-1349,Zudio Stylish Joggers 93,4,41,264.72,499.0,Active
+1350,ZUD-07-1350,Zudio Ethnic Straight Kurti 51,7,41,214.86,499.0,Active
+1351,ZUD-13-1351,Zudio Regular Flip Flops 39,13,24,406.65,799.0,Active
+1352,ZUD-16-1352,Zudio Slim-Fit Nail Polish 33,16,12,85.12,199.0,Active
+1353,ZUD-16-1353,Zudio Stylish Eau de Toilette 92,16,11,60.07,149.0,Active
+1354,ZUD-13-1354,Zudio Cozy Flat Sandals 34,13,28,126.04,299.0,Active
+1355,ZUD-13-1355,Zudio Slim-Fit Canvas Shoes 77,13,1,203.1,399.0,Active
+1356,ZUD-13-1356,Zudio Sporty Sneakers 24,13,42,361.43,899.0,Active
+1357,ZUD-05-1357,Zudio Printed Cropped Top 44,5,39,161.7,299.0,Discontinued
+1358,ZUD-01-1358,Zudio Slim-Fit Track Pants 53,1,31,107.16,249.0,Active
+1359,ZUD-15-1359,Zudio Regular Matte Lipstick 52,15,4,84.21,199.0,Active
+1360,ZUD-09-1360,Zudio Cozy Tracksuit 25,9,7,78.04,149.0,Active
+1361,ZUD-04-1361,Zudio Denim Joggers 28,4,2,106.83,199.0,Active
+1362,ZUD-13-1362,Zudio Regular Running Shoes 93,13,44,216.51,499.0,Active
+1363,ZUD-04-1363,Zudio Ethnic Casual Shirt 24,4,19,165.69,399.0,Active
+1364,ZUD-11-1364,Zudio Slim-Fit Frock 20,11,12,73.11,149.0,Active
+1365,ZUD-11-1365,Zudio Stretch Denim Shorts 96,11,43,126.34,299.0,Active
+1366,ZUD-10-1366,Zudio Classic Printed Tee 44,10,17,149.28,299.0,Active
+1367,ZUD-03-1367,Zudio Casual Casual Shirt 93,3,25,133.96,299.0,Active
+1368,ZUD-16-1368,Zudio Slim-Fit Deodorant Spray 83,16,18,108.24,199.0,Active
+1369,ZUD-11-1369,Zudio Regular Denim Shorts 59,11,28,111.53,249.0,Active
+1370,ZUD-14-1370,Zudio Stretch Loafers 91,14,42,209.95,499.0,Active
+1371,ZUD-13-1371,Zudio Sporty Flat Sandals 73,13,35,335.57,699.0,Active
+1372,ZUD-08-1372,Zudio Sporty Cropped Top 84,8,50,334.85,699.0,Active
+1373,ZUD-08-1373,Zudio Stylish Cropped Top 40,8,2,239.86,599.0,Active
+1374,ZUD-16-1374,Zudio Regular Deodorant Spray 17,16,50,67.67,149.0,Active
+1375,ZUD-10-1375,Zudio Ethnic Denim Shorts 80,10,15,130.48,299.0,Active
+1376,ZUD-05-1376,Zudio Slim-Fit Anarkali Kurta 58,5,28,100.38,199.0,Active
+1377,ZUD-04-1377,Zudio Cozy Polo T-Shirt 71,4,2,530.04,999.0,Active
+1378,ZUD-05-1378,Zudio Slim-Fit Straight Kurti 19,5,27,96.59,199.0,Active
+1379,ZUD-06-1379,Zudio Ethnic Anarkali Kurta 77,6,47,234.79,499.0,Active
+1380,ZUD-01-1380,Zudio Solid Polo T-Shirt 29,1,3,105.9,199.0,Active
+1381,ZUD-06-1381,Zudio Denim Anarkali Kurta 11,6,44,366.91,699.0,Active
+1382,ZUD-15-1382,Zudio Denim Canvas Backpack 43,15,46,118.34,249.0,Active
+1383,ZUD-06-1383,Zudio Solid Cropped Top 76,6,9,382.14,699.0,Active
+1384,ZUD-13-1384,Zudio Stretch Sneakers 38,13,48,256.1,599.0,Active
+1385,ZUD-03-1385,Zudio Stylish Hoodie 71,3,26,298.25,599.0,Active
+1386,ZUD-06-1386,Zudio Casual Palazzo Pants 92,6,7,300.02,699.0,Active
+1387,ZUD-12-1387,Zudio Stretch Loafers 52,12,11,130.34,299.0,Active
+1388,ZUD-03-1388,Zudio Printed T-Shirt 49,3,41,192.62,399.0,Active
+1389,ZUD-08-1389,Zudio Solid Cropped Top 82,8,31,406.32,999.0,Active
+1390,ZUD-11-1390,Zudio Slim-Fit Frock 11,11,26,127.68,249.0,Active
+1391,ZUD-11-1391,Zudio Sporty Pajama Set 55,11,7,100.57,199.0,Active
+1392,ZUD-17-1392,Zudio Slim-Fit Ankle Socks 29,17,25,38.56,79.0,Active
+1393,ZUD-02-1393,Zudio Solid Casual Shirt 29,2,41,329.04,799.0,Active
+1394,ZUD-08-1394,Zudio Printed Anarkali Kurta 30,8,47,429.22,899.0,Active
+1395,ZUD-17-1395,Zudio Classic Nail Polish 26,17,40,66.1,149.0,Active
+1396,ZUD-14-1396,Zudio Casual Canvas Shoes 97,14,40,261.08,599.0,Active
+1397,ZUD-05-1397,Zudio Stretch Leggings 22,5,20,83.86,199.0,Active
+1398,ZUD-03-1398,Zudio Ethnic Polo T-Shirt 68,3,19,254.85,599.0,Active
+1399,ZUD-09-1399,Zudio Stretch Frock 55,9,46,61.19,149.0,Active
+1400,ZUD-09-1400,Zudio Ethnic Frock 66,9,8,268.77,499.0,Active
+1401,ZUD-16-1401,Zudio Casual Matte Lipstick 46,16,40,91.81,199.0,Active
+1402,ZUD-05-1402,Zudio Ethnic Palazzo Pants 75,5,24,542.26,999.0,Active
+1403,ZUD-14-1403,Zudio Denim Flip Flops 43,14,42,324.71,799.0,Active
+1404,ZUD-08-1404,Zudio Stylish Sports Bra 11,8,19,157.86,299.0,Active
+1405,ZUD-13-1405,Zudio Slim-Fit Slides 59,13,6,421.94,899.0,Active
+1406,ZUD-15-1406,Zudio Cozy Ankle Socks 69,15,47,32.62,79.0,Active
+1407,ZUD-13-1407,Zudio Sporty Slides 61,13,22,204.43,499.0,Active
+1408,ZUD-16-1408,Zudio Printed Canvas Backpack 70,16,3,34.9,79.0,Active
+1409,ZUD-16-1409,Zudio Regular Canvas Backpack 37,16,39,72.3,149.0,Active
+1410,ZUD-02-1410,Zudio Classic Joggers 70,2,2,162.84,399.0,Active
+1411,ZUD-14-1411,Zudio Solid Running Shoes 91,14,5,164.6,399.0,Active
+1412,ZUD-03-1412,Zudio Solid Hoodie 63,3,17,388.47,899.0,Active
+1413,ZUD-02-1413,Zudio Slim-Fit Joggers 53,2,23,211.92,499.0,Active
+1414,ZUD-16-1414,Zudio Ethnic Ankle Socks 98,16,28,53.94,99.0,Active
+1415,ZUD-13-1415,Zudio Casual Flat Sandals 86,13,43,164.26,399.0,Active
+1416,ZUD-05-1416,Zudio Classic Palazzo Pants 11,5,10,159.81,299.0,Active
+1417,ZUD-11-1417,Zudio Slim-Fit Pajama Set 62,11,1,119.05,249.0,Active
+1418,ZUD-05-1418,Zudio Cozy Leggings 91,5,14,414.2,999.0,Active
+1419,ZUD-07-1419,Zudio Sporty Sports Bra 31,7,23,456.18,999.0,Active
+1420,ZUD-07-1420,Zudio Cozy Graphic Tee 57,7,20,241.05,599.0,Active
+1421,ZUD-04-1421,Zudio Stylish Hoodie 93,4,23,369.22,799.0,Active
+1422,ZUD-14-1422,Zudio Denim Loafers 52,14,30,161.15,299.0,Active
+1423,ZUD-06-1423,Zudio Denim Anarkali Kurta 79,6,43,319.61,699.0,Active
+1424,ZUD-14-1424,Zudio Cozy Running Shoes 99,14,7,377.94,699.0,Active
+1425,ZUD-04-1425,Zudio Slim-Fit T-Shirt 88,4,48,290.47,699.0,Active
+1426,ZUD-04-1426,Zudio Cozy Hoodie 74,4,43,520.36,999.0,Active
+1427,ZUD-14-1427,Zudio Printed Slides 68,14,13,319.56,699.0,Active
+1428,ZUD-04-1428,Zudio Classic Hoodie 62,4,24,280.4,699.0,Active
+1429,ZUD-17-1429,Zudio Solid Matte Lipstick 94,17,27,66.47,149.0,Active
+1430,ZUD-01-1430,Zudio Sporty T-Shirt 11,1,24,84.18,199.0,Active
+1431,ZUD-17-1431,Zudio Stylish Ankle Socks 50,17,37,63.41,149.0,Active
+1432,ZUD-08-1432,Zudio Denim Maxi Dress 34,8,4,496.17,999.0,Active
+1433,ZUD-14-1433,Zudio Regular Canvas Shoes 59,14,21,340.42,799.0,Active
+1434,ZUD-14-1434,Zudio Printed Sneakers 26,14,37,292.01,699.0,Active
+1435,ZUD-09-1435,Zudio Denim Denim Shorts 51,9,2,82.38,199.0,Active
+1436,ZUD-05-1436,Zudio Casual Sports Bra 20,5,48,456.9,999.0,Active
+1437,ZUD-15-1437,Zudio Cozy Canvas Backpack 55,15,15,43.16,99.0,Active
+1438,ZUD-08-1438,Zudio Stylish Maxi Dress 43,8,10,87.81,199.0,Active
+1439,ZUD-04-1439,Zudio Slim-Fit Hoodie 86,4,19,103.6,249.0,Active
+1440,ZUD-06-1440,Zudio Slim-Fit Cropped Top 73,6,14,321.61,599.0,Active
+1441,ZUD-16-1441,Zudio Casual Nail Polish 19,16,5,108.23,199.0,Active
+1442,ZUD-14-1442,Zudio Sporty Running Shoes 91,14,12,312.25,599.0,Active
+1443,ZUD-06-1443,Zudio Cozy Graphic Tee 25,6,31,328.89,599.0,Active
+1444,ZUD-01-1444,Zudio Regular Track Pants 42,1,2,106.8,249.0,Active
+1445,ZUD-17-1445,Zudio Denim Leather Belt 29,17,8,52.47,99.0,Active
+1446,ZUD-01-1446,Zudio Classic Casual Shirt 38,1,9,126.78,249.0,Active
+1447,ZUD-16-1447,Zudio Printed Deodorant Spray 54,16,19,144.33,299.0,Active
+1448,ZUD-16-1448,Zudio Sporty Ankle Socks 61,16,13,43.31,99.0,Active
+1449,ZUD-09-1449,Zudio Sporty Printed Tee 84,9,20,308.47,599.0,Active
+1450,ZUD-07-1450,Zudio Stylish Leggings 65,7,48,370.38,799.0,Active
+1451,ZUD-11-1451,Zudio Stretch Printed Tee 87,11,37,138.85,299.0,Active
+1452,ZUD-03-1452,Zudio Ethnic Casual Shirt 14,3,27,393.73,899.0,Active
+1453,ZUD-17-1453,Zudio Classic Nail Polish 13,17,21,33.73,79.0,Active
+1454,ZUD-06-1454,Zudio Classic Straight Kurti 19,6,24,198.92,399.0,Active
+1455,ZUD-11-1455,Zudio Slim-Fit Printed Tee 50,11,22,200.42,499.0,Active
+1456,ZUD-11-1456,Zudio Printed Tracksuit 18,11,14,132.32,299.0,Active
+1457,ZUD-04-1457,Zudio Denim Cargo Shorts 87,4,42,121.04,249.0,Active
+1458,ZUD-14-1458,Zudio Classic Loafers 50,14,32,171.4,399.0,Active
+1459,ZUD-09-1459,Zudio Sporty Printed Tee 25,9,21,127.28,299.0,Active
+1460,ZUD-08-1460,Zudio Stretch Graphic Tee 46,8,37,98.81,199.0,Active
+1461,ZUD-15-1461,Zudio Solid Eau de Toilette 61,15,34,42.22,79.0,Active
+1462,ZUD-01-1462,Zudio Slim-Fit Hoodie 22,1,18,355.43,699.0,Active
+1463,ZUD-12-1463,Zudio Sporty Sneakers 81,12,40,401.83,899.0,Active
+1464,ZUD-10-1464,Zudio Stylish Jumpsuit 73,10,8,297.2,599.0,Active
+1465,ZUD-04-1465,Zudio Casual Chino Pants 16,4,21,83.74,199.0,Active
+1466,ZUD-14-1466,Zudio Printed Slides 21,14,24,202.94,399.0,Active
+1467,ZUD-01-1467,Zudio Stylish T-Shirt 43,1,20,82.91,199.0,Active
+1468,ZUD-11-1468,Zudio Stylish Tracksuit 58,11,9,125.7,249.0,Active
+1469,ZUD-04-1469,Zudio Regular Denim Jeans 28,4,27,532.64,999.0,Active
+1470,ZUD-04-1470,Zudio Denim Track Pants 40,4,32,471.22,999.0,Active
+1471,ZUD-11-1471,Zudio Stylish Jumpsuit 38,11,19,65.5,149.0,Active
+1472,ZUD-12-1472,Zudio Denim Loafers 41,12,14,397.16,799.0,Active
+1473,ZUD-03-1473,Zudio Ethnic T-Shirt 37,3,30,99.61,199.0,Active
+1474,ZUD-07-1474,Zudio Ethnic Cropped Top 53,7,49,208.32,399.0,Active
+1475,ZUD-11-1475,Zudio Solid Pajama Set 68,11,33,211.13,499.0,Active
+1476,ZUD-05-1476,Zudio Printed Palazzo Pants 59,5,33,423.61,799.0,Active
+1477,ZUD-13-1477,Zudio Printed Sneakers 45,13,20,254.35,599.0,Active
+1478,ZUD-04-1478,Zudio Regular Hoodie 23,4,30,108.59,249.0,Active
+1479,ZUD-01-1479,Zudio Ethnic Track Pants 67,1,36,263.46,599.0,Active
+1480,ZUD-14-1480,Zudio Printed Slides 60,14,22,324.77,699.0,Active
+1481,ZUD-09-1481,Zudio Classic Printed Tee 16,9,28,228.23,499.0,Active
+1482,ZUD-07-1482,Zudio Sporty Anarkali Kurta 86,7,32,239.24,499.0,Active
+1483,ZUD-04-1483,Zudio Cozy T-Shirt 92,4,15,216.99,399.0,Active
+1484,ZUD-02-1484,Zudio Stretch Cargo Shorts 40,2,18,119.48,249.0,Active
+1485,ZUD-13-1485,Zudio Sporty Flip Flops 22,13,45,203.53,399.0,Active
+1486,ZUD-07-1486,Zudio Regular Straight Kurti 54,7,19,252.43,499.0,Active
+1487,ZUD-04-1487,Zudio Regular Track Pants 99,4,20,471.04,999.0,Active
+1488,ZUD-08-1488,Zudio Regular Palazzo Pants 97,8,22,105.82,249.0,Active
+1489,ZUD-05-1489,Zudio Casual Leggings 64,5,17,241.47,599.0,Active
+1490,ZUD-06-1490,Zudio Cozy Graphic Tee 86,6,38,326.71,599.0,Discontinued
+1491,ZUD-08-1491,Zudio Ethnic Cropped Top 15,8,19,96.53,199.0,Active
+1492,ZUD-17-1492,Zudio Denim Eau de Toilette 28,17,48,32.78,79.0,Active
+1493,ZUD-16-1493,Zudio Stylish Matte Lipstick 79,16,17,74.43,149.0,Active
+1494,ZUD-01-1494,Zudio Classic Cargo Shorts 52,1,39,464.04,899.0,Active
+1495,ZUD-09-1495,Zudio Cozy Tracksuit 91,9,27,62.91,149.0,Active
+1496,ZUD-05-1496,Zudio Classic Leggings 13,5,45,194.17,399.0,Active
+1497,ZUD-12-1497,Zudio Printed Canvas Shoes 21,12,25,214.7,399.0,Active
+1498,ZUD-09-1498,Zudio Cozy Pajama Set 79,9,34,163.88,299.0,Active
+1499,ZUD-12-1499,Zudio Classic Flip Flops 85,12,18,324.53,599.0,Active
+1500,ZUD-02-1500,Zudio Stretch Track Pants 99,2,8,314.55,599.0,Active
+1501,ZUD-15-1501,Zudio Stretch Leather Belt 54,15,1,62.06,149.0,Active
+1502,ZUD-05-1502,Zudio Ethnic Anarkali Kurta 76,5,43,246.29,499.0,Active
+1503,ZUD-16-1503,Zudio Solid Deodorant Spray 47,16,14,36.98,79.0,Active
+1504,ZUD-04-1504,Zudio Casual Hoodie 49,4,43,92.45,199.0,Active
+1505,ZUD-02-1505,Zudio Solid Casual Shirt 54,2,33,258.38,499.0,Active
+1506,ZUD-05-1506,Zudio Slim-Fit Skinny Jeans 28,5,6,185.46,399.0,Active
+1507,ZUD-02-1507,Zudio Ethnic Denim Jeans 41,2,7,323.91,699.0,Active
+1508,ZUD-10-1508,Zudio Stretch Frock 32,10,21,185.68,399.0,Active
+1509,ZUD-05-1509,Zudio Cozy Straight Kurti 42,5,13,138.27,299.0,Active
+1510,ZUD-03-1510,Zudio Solid Hoodie 79,3,28,136.46,299.0,Active
+1511,ZUD-17-1511,Zudio Ethnic Canvas Backpack 50,17,46,134.52,249.0,Active
+1512,ZUD-12-1512,Zudio Sporty Flip Flops 63,12,36,281.05,599.0,Discontinued
+1513,ZUD-14-1513,Zudio Slim-Fit Loafers 27,14,16,374.68,699.0,Active
+1514,ZUD-12-1514,Zudio Regular Flat Sandals 79,12,4,371.64,699.0,Active
+1515,ZUD-13-1515,Zudio Regular Flip Flops 95,13,49,140.36,299.0,Active
+1516,ZUD-15-1516,Zudio Casual Deodorant Spray 17,15,42,78.15,149.0,Active
+1517,ZUD-04-1517,Zudio Solid Hoodie 98,4,8,317.26,599.0,Active
+1518,ZUD-17-1518,Zudio Stylish Canvas Backpack 16,17,10,128.8,299.0,Active
+1519,ZUD-16-1519,Zudio Regular Eau de Toilette 96,16,20,157.82,299.0,Active
+1520,ZUD-01-1520,Zudio Ethnic Chino Pants 24,1,39,99.6,249.0,Active
+1521,ZUD-17-1521,Zudio Slim-Fit Eau de Toilette 36,17,33,37.21,79.0,Active
+1522,ZUD-02-1522,Zudio Slim-Fit Cargo Shorts 61,2,16,437.38,799.0,Active
+1523,ZUD-09-1523,Zudio Stretch Pajama Set 66,9,8,298.74,599.0,Active
+1524,ZUD-01-1524,Zudio Regular Casual Shirt 94,1,48,169.82,399.0,Active
+1525,ZUD-07-1525,Zudio Ethnic Leggings 47,7,38,249.57,499.0,Active
+1526,ZUD-09-1526,Zudio Sporty Jumpsuit 99,9,27,249.24,599.0,Active
+1527,ZUD-05-1527,Zudio Casual Skinny Jeans 68,5,1,120.67,249.0,Active
+1528,ZUD-02-1528,Zudio Cozy Hoodie 15,2,30,326.11,599.0,Active
+1529,ZUD-15-1529,Zudio Solid Deodorant Spray 30,15,33,70.79,149.0,Active
+1530,ZUD-17-1530,Zudio Sporty Ankle Socks 18,17,23,49.34,99.0,Active
+1531,ZUD-11-1531,Zudio Ethnic Pajama Set 27,11,43,128.92,249.0,Active
+1532,ZUD-13-1532,Zudio Slim-Fit Loafers 92,13,31,273.43,599.0,Active
+1533,ZUD-06-1533,Zudio Stretch Sports Bra 94,6,45,394.56,899.0,Active
+1534,ZUD-12-1534,Zudio Stretch Flat Sandals 61,12,47,121.62,299.0,Active
+1535,ZUD-04-1535,Zudio Cozy Polo T-Shirt 73,4,15,358.39,799.0,Active
+1536,ZUD-08-1536,Zudio Slim-Fit Anarkali Kurta 59,8,4,376.31,699.0,Active
+1537,ZUD-04-1537,Zudio Casual Polo T-Shirt 66,4,2,294.1,599.0,Active
+1538,ZUD-11-1538,Zudio Slim-Fit Pajama Set 67,11,41,125.57,299.0,Active
+1539,ZUD-07-1539,Zudio Printed Skinny Jeans 72,7,15,400.96,799.0,Active
+1540,ZUD-06-1540,Zudio Sporty Sports Bra 34,6,41,121.34,249.0,Active
+1541,ZUD-04-1541,Zudio Printed T-Shirt 27,4,27,90.33,199.0,Active
+1542,ZUD-03-1542,Zudio Classic Casual Shirt 97,3,14,426.51,899.0,Active
+1543,ZUD-16-1543,Zudio Denim Matte Lipstick 55,16,9,133.21,249.0,Active
+1544,ZUD-15-1544,Zudio Sporty Canvas Backpack 58,15,9,38.34,79.0,Active
+1545,ZUD-10-1545,Zudio Slim-Fit Printed Tee 73,10,35,81.14,199.0,Active
+1546,ZUD-08-1546,Zudio Solid Skinny Jeans 59,8,11,245.71,599.0,Active
+1547,ZUD-03-1547,Zudio Denim Chino Pants 76,3,26,474.53,999.0,Active
+1548,ZUD-04-1548,Zudio Stretch Hoodie 43,4,27,80.56,199.0,Active
+1549,ZUD-11-1549,Zudio Casual Denim Shorts 36,11,22,208.48,399.0,Active
+1550,ZUD-02-1550,Zudio Printed Hoodie 19,2,45,535.11,999.0,Active
+1551,ZUD-02-1551,Zudio Classic Polo T-Shirt 63,2,6,510.38,999.0,Active
+1552,ZUD-16-1552,Zudio Regular Matte Lipstick 15,16,33,32.02,79.0,Active
+1553,ZUD-12-1553,Zudio Sporty Flip Flops 48,12,15,474.2,899.0,Discontinued
+1554,ZUD-02-1554,Zudio Casual Chino Pants 78,2,44,528.52,999.0,Active
+1555,ZUD-01-1555,Zudio Denim Hoodie 16,1,45,359.88,699.0,Active
+1556,ZUD-14-1556,Zudio Denim Slides 24,14,40,250.2,599.0,Active
+1557,ZUD-12-1557,Zudio Classic Slides 53,12,16,322.09,599.0,Active
+1558,ZUD-01-1558,Zudio Printed Joggers 78,1,1,406.46,999.0,Active
+1559,ZUD-08-1559,Zudio Casual Cropped Top 17,8,19,139.27,299.0,Active
+1560,ZUD-12-1560,Zudio Stretch Canvas Shoes 41,12,26,209.31,499.0,Active
+1561,ZUD-04-1561,Zudio Cozy Polo T-Shirt 19,4,14,269.84,499.0,Active
+1562,ZUD-12-1562,Zudio Printed Flip Flops 48,12,19,258.0,499.0,Active
+1563,ZUD-08-1563,Zudio Denim Skinny Jeans 50,8,4,427.49,899.0,Active
+1564,ZUD-14-1564,Zudio Stylish Flat Sandals 72,14,9,205.47,499.0,Active
+1565,ZUD-17-1565,Zudio Printed Matte Lipstick 80,17,47,41.42,99.0,Active
+1566,ZUD-05-1566,Zudio Casual Straight Kurti 99,5,30,397.49,799.0,Active
+1567,ZUD-01-1567,Zudio Ethnic T-Shirt 44,1,20,243.63,499.0,Active
+1568,ZUD-03-1568,Zudio Casual Cargo Shorts 88,3,25,331.54,699.0,Active
+1569,ZUD-02-1569,Zudio Printed Chino Pants 58,2,35,149.2,299.0,Active
+1570,ZUD-10-1570,Zudio Casual Tracksuit 54,10,49,79.94,149.0,Active
+1571,ZUD-09-1571,Zudio Stretch Denim Shorts 13,9,40,126.71,249.0,Active
+1572,ZUD-14-1572,Zudio Stylish Canvas Shoes 17,14,25,374.33,899.0,Active
+1573,ZUD-10-1573,Zudio Denim Jumpsuit 64,10,50,202.65,399.0,Active
+1574,ZUD-06-1574,Zudio Sporty Leggings 40,6,18,160.31,299.0,Active
+1575,ZUD-09-1575,Zudio Slim-Fit Denim Shorts 79,9,26,112.21,249.0,Active
+1576,ZUD-09-1576,Zudio Classic Frock 94,9,50,128.82,249.0,Active
+1577,ZUD-04-1577,Zudio Solid Denim Jeans 43,4,2,139.5,299.0,Active
+1578,ZUD-15-1578,Zudio Casual Matte Lipstick 71,15,14,157.47,299.0,Active
+1579,ZUD-03-1579,Zudio Solid Track Pants 50,3,17,116.05,249.0,Active
+1580,ZUD-09-1580,Zudio Solid Jumpsuit 26,9,10,98.42,199.0,Active
+1581,ZUD-02-1581,Zudio Printed Polo T-Shirt 93,2,33,85.1,199.0,Active
+1582,ZUD-11-1582,Zudio Casual Tracksuit 39,11,17,80.87,149.0,Active
+1583,ZUD-01-1583,Zudio Cozy Denim Jeans 79,1,23,97.53,199.0,Active
+1584,ZUD-17-1584,Zudio Ethnic Deodorant Spray 75,17,21,34.41,79.0,Active
+1585,ZUD-14-1585,Zudio Slim-Fit Canvas Shoes 64,14,21,210.31,499.0,Active
+1586,ZUD-12-1586,Zudio Classic Flip Flops 93,12,19,234.83,499.0,Active
+1587,ZUD-06-1587,Zudio Classic Graphic Tee 47,6,2,160.5,299.0,Active
+1588,ZUD-07-1588,Zudio Classic Sports Bra 75,7,14,506.42,999.0,Active
+1589,ZUD-02-1589,Zudio Cozy Casual Shirt 58,2,15,135.28,249.0,Active
+1590,ZUD-14-1590,Zudio Denim Canvas Shoes 25,14,4,478.06,899.0,Active
+1591,ZUD-17-1591,Zudio Denim Nail Polish 50,17,37,63.96,149.0,Active
+1592,ZUD-08-1592,Zudio Classic Straight Kurti 56,8,48,186.88,399.0,Active
+1593,ZUD-08-1593,Zudio Ethnic Maxi Dress 56,8,33,112.75,249.0,Active
+1594,ZUD-12-1594,Zudio Cozy Flip Flops 87,12,27,186.47,399.0,Active
+1595,ZUD-05-1595,Zudio Denim Straight Kurti 62,5,39,499.39,999.0,Active
+1596,ZUD-10-1596,Zudio Classic Frock 25,10,33,68.73,149.0,Active
+1597,ZUD-16-1597,Zudio Cozy Leather Belt 35,16,1,52.61,99.0,Active
+1598,ZUD-14-1598,Zudio Solid Loafers 80,14,48,431.08,799.0,Active
+1599,ZUD-02-1599,Zudio Sporty T-Shirt 98,2,9,164.0,299.0,Active
+1600,ZUD-17-1600,Zudio Sporty Nail Polish 55,17,36,45.57,99.0,Active
+1601,ZUD-10-1601,Zudio Slim-Fit Frock 53,10,7,196.03,399.0,Active
+1602,ZUD-02-1602,Zudio Slim-Fit Denim Jeans 67,2,48,345.74,699.0,Active
+1603,ZUD-10-1603,Zudio Ethnic Pajama Set 27,10,50,213.33,499.0,Active
+1604,ZUD-17-1604,Zudio Slim-Fit Eau de Toilette 10,17,44,121.75,249.0,Active
+1605,ZUD-13-1605,Zudio Classic Flip Flops 32,13,18,355.36,699.0,Active
+1606,ZUD-04-1606,Zudio Printed Cargo Shorts 73,4,34,243.94,599.0,Active
+1607,ZUD-17-1607,Zudio Sporty Matte Lipstick 51,17,12,89.11,199.0,Active
+1608,ZUD-02-1608,Zudio Stylish Chino Pants 65,2,40,397.12,899.0,Active
+1609,ZUD-12-1609,Zudio Solid Slides 25,12,29,220.1,499.0,Active
+1610,ZUD-06-1610,Zudio Solid Skinny Jeans 87,6,43,134.13,249.0,Active
+1611,ZUD-04-1611,Zudio Printed Track Pants 75,4,3,120.83,299.0,Active
+1612,ZUD-07-1612,Zudio Casual Leggings 13,7,37,257.85,599.0,Active
+1613,ZUD-15-1613,Zudio Denim Eau de Toilette 68,15,46,80.12,149.0,Active
+1614,ZUD-04-1614,Zudio Ethnic Joggers 73,4,9,206.1,499.0,Active
+1615,ZUD-04-1615,Zudio Classic Polo T-Shirt 38,4,33,111.82,249.0,Active
+1616,ZUD-15-1616,Zudio Cozy Canvas Backpack 75,15,46,154.45,299.0,Active
+1617,ZUD-02-1617,Zudio Sporty Polo T-Shirt 76,2,36,256.71,599.0,Active
+1618,ZUD-02-1618,Zudio Cozy T-Shirt 41,2,15,145.9,299.0,Active
+1619,ZUD-09-1619,Zudio Ethnic Denim Shorts 72,9,32,256.41,599.0,Active
+1620,ZUD-07-1620,Zudio Cozy Cropped Top 76,7,5,159.79,399.0,Active
+1621,ZUD-07-1621,Zudio Stylish Anarkali Kurta 14,7,40,351.73,699.0,Active
+1622,ZUD-08-1622,Zudio Cozy Palazzo Pants 71,8,12,448.19,899.0,Active
+1623,ZUD-08-1623,Zudio Solid Leggings 72,8,35,342.28,699.0,Active
+1624,ZUD-04-1624,Zudio Printed Polo T-Shirt 46,4,21,381.24,699.0,Active
+1625,ZUD-14-1625,Zudio Slim-Fit Slides 69,14,23,249.05,499.0,Active
+1626,ZUD-05-1626,Zudio Ethnic Leggings 86,5,2,351.66,699.0,Active
+1627,ZUD-17-1627,Zudio Printed Leather Belt 62,17,21,38.26,79.0,Active
+1628,ZUD-11-1628,Zudio Sporty Jumpsuit 66,11,4,137.48,299.0,Active
+1629,ZUD-08-1629,Zudio Classic Graphic Tee 49,8,37,368.72,799.0,Active
+1630,ZUD-07-1630,Zudio Cozy Cropped Top 88,7,39,449.0,999.0,Active
+1631,ZUD-01-1631,Zudio Sporty Polo T-Shirt 52,1,36,308.5,599.0,Active
+1632,ZUD-02-1632,Zudio Denim Chino Pants 56,2,11,386.36,899.0,Active
+1633,ZUD-13-1633,Zudio Stylish Slides 47,13,24,381.37,899.0,Active
+1634,ZUD-07-1634,Zudio Denim Straight Kurti 11,7,49,104.84,199.0,Active
+1635,ZUD-04-1635,Zudio Denim Joggers 72,4,20,84.28,199.0,Discontinued
+1636,ZUD-08-1636,Zudio Casual Skinny Jeans 25,8,9,348.31,699.0,Active
+1637,ZUD-09-1637,Zudio Slim-Fit Printed Tee 19,9,49,202.82,399.0,Active
+1638,ZUD-01-1638,Zudio Casual Track Pants 87,1,38,123.89,299.0,Active
+1639,ZUD-07-1639,Zudio Stretch Skinny Jeans 51,7,2,333.32,699.0,Active
+1640,ZUD-15-1640,Zudio Printed Deodorant Spray 43,15,25,145.44,299.0,Active
+1641,ZUD-03-1641,Zudio Printed Joggers 81,3,45,235.78,499.0,Active
+1642,ZUD-08-1642,Zudio Sporty Graphic Tee 73,8,49,379.36,699.0,Active
+1643,ZUD-04-1643,Zudio Ethnic Chino Pants 83,4,15,91.46,199.0,Active
+1644,ZUD-16-1644,Zudio Stretch Deodorant Spray 92,16,41,67.03,149.0,Active
+1645,ZUD-04-1645,Zudio Denim Casual Shirt 36,4,6,390.72,799.0,Active
+1646,ZUD-16-1646,Zudio Denim Canvas Backpack 82,16,32,40.48,99.0,Active
+1647,ZUD-10-1647,Zudio Stylish Frock 29,10,37,66.78,149.0,Active
+1648,ZUD-01-1648,Zudio Solid Chino Pants 81,1,21,384.99,799.0,Active
+1649,ZUD-08-1649,Zudio Classic Leggings 71,8,48,434.42,899.0,Active
+1650,ZUD-03-1650,Zudio Slim-Fit Joggers 99,3,49,113.63,249.0,Discontinued
+1651,ZUD-17-1651,Zudio Stylish Deodorant Spray 31,17,8,46.1,99.0,Active
+1652,ZUD-14-1652,Zudio Ethnic Slides 90,14,9,430.34,899.0,Active
+1653,ZUD-14-1653,Zudio Sporty Sneakers 47,14,19,139.13,299.0,Active
+1654,ZUD-09-1654,Zudio Denim Frock 88,9,11,120.66,249.0,Active
+1655,ZUD-17-1655,Zudio Cozy Eau de Toilette 88,17,39,136.25,299.0,Active
+1656,ZUD-15-1656,Zudio Printed Matte Lipstick 27,15,31,47.39,99.0,Discontinued
+1657,ZUD-14-1657,Zudio Regular Slides 70,14,1,164.15,299.0,Active
+1658,ZUD-07-1658,Zudio Printed Cropped Top 78,7,4,359.27,799.0,Active
+1659,ZUD-06-1659,Zudio Slim-Fit Palazzo Pants 91,6,23,478.72,899.0,Active
+1660,ZUD-07-1660,Zudio Solid Skinny Jeans 64,7,24,508.89,999.0,Active
+1661,ZUD-13-1661,Zudio Solid Flat Sandals 79,13,5,398.63,799.0,Active
+1662,ZUD-04-1662,Zudio Stylish Chino Pants 45,4,7,131.39,299.0,Active
+1663,ZUD-17-1663,Zudio Stretch Canvas Backpack 59,17,38,72.47,149.0,Active
+1664,ZUD-16-1664,Zudio Printed Eau de Toilette 10,16,6,54.29,99.0,Active
+1665,ZUD-05-1665,Zudio Regular Anarkali Kurta 70,5,4,89.25,199.0,Active
+1666,ZUD-15-1666,Zudio Sporty Canvas Backpack 70,15,49,66.36,149.0,Active
+1667,ZUD-13-1667,Zudio Sporty Loafers 59,13,20,376.47,799.0,Active
+1668,ZUD-11-1668,Zudio Denim Printed Tee 87,11,11,258.82,599.0,Active
+1669,ZUD-09-1669,Zudio Stylish Denim Shorts 65,9,45,186.03,399.0,Active
+1670,ZUD-04-1670,Zudio Denim Joggers 93,4,24,255.59,599.0,Active
+1671,ZUD-12-1671,Zudio Stylish Flip Flops 37,12,13,338.29,699.0,Active
+1672,ZUD-06-1672,Zudio Stylish Graphic Tee 35,6,13,362.86,799.0,Discontinued
+1673,ZUD-10-1673,Zudio Classic Printed Tee 57,10,1,118.38,249.0,Active
+1674,ZUD-02-1674,Zudio Cozy Cargo Shorts 92,2,45,367.34,799.0,Active
+1675,ZUD-09-1675,Zudio Cozy Printed Tee 83,9,46,242.33,599.0,Active
+1676,ZUD-15-1676,Zudio Ethnic Eau de Toilette 70,15,49,158.84,299.0,Active
+1677,ZUD-04-1677,Zudio Casual Denim Jeans 13,4,10,533.61,999.0,Active
+1678,ZUD-06-1678,Zudio Regular Cropped Top 63,6,41,101.69,249.0,Active
+1679,ZUD-11-1679,Zudio Slim-Fit Tracksuit 45,11,40,257.05,599.0,Active
+1680,ZUD-11-1680,Zudio Cozy Frock 31,11,24,202.82,399.0,Active
+1681,ZUD-13-1681,Zudio Sporty Loafers 95,13,13,326.97,799.0,Active
+1682,ZUD-17-1682,Zudio Regular Canvas Backpack 44,17,3,33.65,79.0,Active
+1683,ZUD-07-1683,Zudio Stylish Sports Bra 62,7,1,148.09,299.0,Active
+1684,ZUD-12-1684,Zudio Slim-Fit Running Shoes 69,12,6,367.27,699.0,Active
+1685,ZUD-15-1685,Zudio Slim-Fit Deodorant Spray 21,15,12,50.43,99.0,Active
+1686,ZUD-01-1686,Zudio Regular T-Shirt 37,1,47,280.96,599.0,Active
+1687,ZUD-10-1687,Zudio Cozy Pajama Set 34,10,9,256.17,499.0,Active
+1688,ZUD-13-1688,Zudio Stylish Running Shoes 32,13,21,210.11,499.0,Active
+1689,ZUD-07-1689,Zudio Solid Straight Kurti 32,7,29,219.01,499.0,Active
+1690,ZUD-16-1690,Zudio Classic Ankle Socks 56,16,34,76.86,149.0,Active
+1691,ZUD-06-1691,Zudio Casual Maxi Dress 29,6,45,436.29,899.0,Active
+1692,ZUD-10-1692,Zudio Printed Frock 99,10,48,192.61,399.0,Active
+1693,ZUD-03-1693,Zudio Denim Chino Pants 43,3,3,187.59,399.0,Active
+1694,ZUD-17-1694,Zudio Cozy Canvas Backpack 33,17,38,83.77,199.0,Active
+1695,ZUD-13-1695,Zudio Cozy Flat Sandals 14,13,41,252.09,499.0,Active
+1696,ZUD-01-1696,Zudio Regular Joggers 70,1,7,269.85,599.0,Active
+1697,ZUD-12-1697,Zudio Solid Slides 69,12,2,299.12,699.0,Active
+1698,ZUD-15-1698,Zudio Stretch Ankle Socks 98,15,31,101.42,199.0,Active
+1699,ZUD-09-1699,Zudio Stylish Frock 86,9,26,117.62,249.0,Active
+1700,ZUD-08-1700,Zudio Denim Cropped Top 63,8,37,360.76,699.0,Active
+1701,ZUD-01-1701,Zudio Regular Track Pants 31,1,45,265.96,499.0,Active
+1702,ZUD-07-1702,Zudio Stretch Anarkali Kurta 26,7,4,310.45,599.0,Active
+1703,ZUD-10-1703,Zudio Regular Frock 68,10,1,127.02,299.0,Active
+1704,ZUD-07-1704,Zudio Regular Skinny Jeans 49,7,14,106.49,249.0,Active
+1705,ZUD-08-1705,Zudio Regular Sports Bra 57,8,23,93.85,199.0,Active
+1706,ZUD-13-1706,Zudio Stylish Slides 70,13,30,364.7,799.0,Active
+1707,ZUD-04-1707,Zudio Sporty Casual Shirt 50,4,21,137.53,299.0,Active
+1708,ZUD-14-1708,Zudio Stretch Flip Flops 78,14,43,135.16,299.0,Active
+1709,ZUD-01-1709,Zudio Printed Casual Shirt 40,1,33,272.15,599.0,Active
+1710,ZUD-13-1710,Zudio Slim-Fit Canvas Shoes 39,13,3,189.52,399.0,Active
+1711,ZUD-14-1711,Zudio Slim-Fit Running Shoes 59,14,10,341.16,799.0,Active
+1712,ZUD-13-1712,Zudio Cozy Loafers 71,13,27,131.31,299.0,Active
+1713,ZUD-13-1713,Zudio Cozy Flat Sandals 23,13,23,312.04,599.0,Active
+1714,ZUD-04-1714,Zudio Cozy Joggers 11,4,37,133.91,299.0,Active
+1715,ZUD-15-1715,Zudio Casual Nail Polish 93,15,50,137.62,299.0,Active
+1716,ZUD-14-1716,Zudio Solid Canvas Shoes 91,14,29,146.67,299.0,Active
+1717,ZUD-16-1717,Zudio Stylish Matte Lipstick 78,16,12,62.1,149.0,Active
+1718,ZUD-13-1718,Zudio Cozy Sneakers 29,13,46,134.72,299.0,Active
+1719,ZUD-07-1719,Zudio Denim Leggings 65,7,3,93.47,199.0,Active
+1720,ZUD-16-1720,Zudio Ethnic Matte Lipstick 16,16,17,125.24,249.0,Active
+1721,ZUD-10-1721,Zudio Casual Tracksuit 44,10,27,88.35,199.0,Discontinued
+1722,ZUD-11-1722,Zudio Solid Pajama Set 14,11,47,166.28,399.0,Active
+1723,ZUD-13-1723,Zudio Printed Slides 20,13,47,289.52,699.0,Active
+1724,ZUD-16-1724,Zudio Sporty Matte Lipstick 54,16,16,100.17,199.0,Active
+1725,ZUD-17-1725,Zudio Stretch Nail Polish 15,17,3,35.47,79.0,Active
+1726,ZUD-04-1726,Zudio Sporty Track Pants 20,4,48,322.93,599.0,Active
+1727,ZUD-13-1727,Zudio Casual Slides 42,13,6,397.85,799.0,Active
+1728,ZUD-14-1728,Zudio Slim-Fit Loafers 34,14,20,306.96,699.0,Active
+1729,ZUD-08-1729,Zudio Stylish Graphic Tee 57,8,49,470.47,999.0,Active
+1730,ZUD-09-1730,Zudio Stylish Pajama Set 33,9,3,118.33,249.0,Active
+1731,ZUD-06-1731,Zudio Cozy Skinny Jeans 44,6,2,91.75,199.0,Active
+1732,ZUD-05-1732,Zudio Solid Skinny Jeans 69,5,41,518.02,999.0,Active
+1733,ZUD-08-1733,Zudio Printed Graphic Tee 51,8,19,163.41,399.0,Active
+1734,ZUD-15-1734,Zudio Stretch Nail Polish 91,15,25,111.88,249.0,Active
+1735,ZUD-01-1735,Zudio Classic Denim Jeans 50,1,10,313.51,599.0,Active
+1736,ZUD-16-1736,Zudio Printed Ankle Socks 99,16,17,49.59,99.0,Active
+1737,ZUD-03-1737,Zudio Cozy Hoodie 81,3,48,247.07,599.0,Active
+1738,ZUD-12-1738,Zudio Solid Running Shoes 50,12,2,300.2,599.0,Active
+1739,ZUD-06-1739,Zudio Stretch Palazzo Pants 82,6,49,323.15,699.0,Discontinued
+1740,ZUD-10-1740,Zudio Denim Pajama Set 72,10,35,90.8,199.0,Active
+1741,ZUD-04-1741,Zudio Slim-Fit Joggers 37,4,37,218.98,399.0,Active
+1742,ZUD-06-1742,Zudio Stylish Maxi Dress 80,6,14,316.51,699.0,Active
+1743,ZUD-09-1743,Zudio Classic Frock 90,9,44,74.45,149.0,Active
+1744,ZUD-11-1744,Zudio Denim Tracksuit 78,11,26,129.7,299.0,Active
+1745,ZUD-15-1745,Zudio Solid Leather Belt 67,15,12,53.32,99.0,Active
+1746,ZUD-01-1746,Zudio Denim Denim Jeans 69,1,7,150.25,299.0,Active
+1747,ZUD-14-1747,Zudio Sporty Flip Flops 34,14,15,323.08,799.0,Active
+1748,ZUD-17-1748,Zudio Slim-Fit Ankle Socks 83,17,2,137.93,299.0,Active
+1749,ZUD-08-1749,Zudio Regular Leggings 97,8,2,135.15,249.0,Active
+1750,ZUD-13-1750,Zudio Denim Flat Sandals 34,13,30,482.75,899.0,Active
+1751,ZUD-08-1751,Zudio Regular Leggings 35,8,5,251.52,599.0,Active
+1752,ZUD-07-1752,Zudio Stretch Leggings 68,7,29,200.52,399.0,Active
+1753,ZUD-06-1753,Zudio Ethnic Sports Bra 92,6,22,129.62,249.0,Active
+1754,ZUD-06-1754,Zudio Printed Leggings 18,6,44,101.95,199.0,Active
+1755,ZUD-17-1755,Zudio Ethnic Leather Belt 59,17,17,40.88,79.0,Active
+1756,ZUD-04-1756,Zudio Stylish Track Pants 13,4,47,377.22,799.0,Active
+1757,ZUD-13-1757,Zudio Stylish Loafers 15,13,33,229.5,499.0,Active
+1758,ZUD-15-1758,Zudio Sporty Leather Belt 25,15,17,33.33,79.0,Active
+1759,ZUD-04-1759,Zudio Stylish Casual Shirt 56,4,10,348.44,699.0,Active
+1760,ZUD-16-1760,Zudio Printed Matte Lipstick 22,16,5,73.95,149.0,Active
+1761,ZUD-16-1761,Zudio Printed Leather Belt 43,16,29,66.2,149.0,Active
+1762,ZUD-15-1762,Zudio Stylish Matte Lipstick 82,15,49,72.89,149.0,Active
+1763,ZUD-17-1763,Zudio Solid Deodorant Spray 38,17,46,72.2,149.0,Active
+1764,ZUD-06-1764,Zudio Stretch Skinny Jeans 70,6,10,400.29,799.0,Active
+1765,ZUD-05-1765,Zudio Regular Skinny Jeans 59,5,2,247.26,499.0,Active
+1766,ZUD-10-1766,Zudio Regular Tracksuit 11,10,33,113.2,249.0,Active
+1767,ZUD-17-1767,Zudio Sporty Nail Polish 89,17,42,54.04,99.0,Active
+1768,ZUD-17-1768,Zudio Classic Ankle Socks 57,17,32,105.43,199.0,Active
+1769,ZUD-17-1769,Zudio Ethnic Eau de Toilette 71,17,5,80.02,199.0,Active
+1770,ZUD-10-1770,Zudio Printed Denim Shorts 29,10,47,122.33,249.0,Active
+1771,ZUD-07-1771,Zudio Classic Leggings 68,7,1,536.37,999.0,Active
+1772,ZUD-17-1772,Zudio Printed Canvas Backpack 35,17,26,74.45,149.0,Active
+1773,ZUD-11-1773,Zudio Denim Printed Tee 44,11,48,217.16,399.0,Active
+1774,ZUD-03-1774,Zudio Casual Hoodie 82,3,17,393.04,899.0,Active
+1775,ZUD-06-1775,Zudio Stylish Straight Kurti 39,6,39,340.87,799.0,Active
+1776,ZUD-09-1776,Zudio Slim-Fit Pajama Set 34,9,5,261.78,499.0,Active
+1777,ZUD-05-1777,Zudio Denim Skinny Jeans 17,5,38,173.22,399.0,Active
+1778,ZUD-16-1778,Zudio Ethnic Deodorant Spray 78,16,41,35.38,79.0,Active
+1779,ZUD-16-1779,Zudio Slim-Fit Nail Polish 20,16,35,85.49,199.0,Active
+1780,ZUD-16-1780,Zudio Solid Ankle Socks 11,16,8,115.65,249.0,Active
+1781,ZUD-15-1781,Zudio Cozy Eau de Toilette 85,15,30,147.16,299.0,Active
+1782,ZUD-09-1782,Zudio Sporty Tracksuit 44,9,22,147.91,299.0,Active
+1783,ZUD-17-1783,Zudio Solid Canvas Backpack 48,17,16,78.98,149.0,Active
+1784,ZUD-17-1784,Zudio Solid Canvas Backpack 66,17,12,43.18,79.0,Active
+1785,ZUD-11-1785,Zudio Denim Jumpsuit 73,11,49,84.94,199.0,Active
+1786,ZUD-10-1786,Zudio Slim-Fit Jumpsuit 53,10,12,251.02,499.0,Active
+1787,ZUD-04-1787,Zudio Printed Chino Pants 49,4,50,400.78,899.0,Active
+1788,ZUD-04-1788,Zudio Cozy Cargo Shorts 88,4,10,193.77,399.0,Active
+1789,ZUD-07-1789,Zudio Sporty Anarkali Kurta 30,7,21,498.89,999.0,Active
+1790,ZUD-16-1790,Zudio Cozy Ankle Socks 63,16,17,131.68,299.0,Active
+1791,ZUD-10-1791,Zudio Classic Denim Shorts 49,10,48,126.74,249.0,Active
+1792,ZUD-10-1792,Zudio Sporty Tracksuit 60,10,49,277.08,599.0,Active
+1793,ZUD-02-1793,Zudio Sporty Denim Jeans 92,2,50,163.33,299.0,Active
+1794,ZUD-07-1794,Zudio Printed Skinny Jeans 47,7,28,241.73,599.0,Active
+1795,ZUD-11-1795,Zudio Denim Tracksuit 35,11,33,258.92,599.0,Active
+1796,ZUD-09-1796,Zudio Slim-Fit Printed Tee 41,9,31,89.32,199.0,Active
+1797,ZUD-16-1797,Zudio Casual Leather Belt 94,16,46,100.13,199.0,Active
+1798,ZUD-09-1798,Zudio Stretch Tracksuit 58,9,41,61.87,149.0,Active
+1799,ZUD-12-1799,Zudio Ethnic Running Shoes 24,12,48,251.67,599.0,Active
+1800,ZUD-14-1800,Zudio Regular Loafers 29,14,13,310.94,699.0,Active
+1801,ZUD-15-1801,Zudio Printed Matte Lipstick 83,15,17,128.09,249.0,Active
+1802,ZUD-10-1802,Zudio Stylish Printed Tee 27,10,45,308.78,599.0,Active
+1803,ZUD-11-1803,Zudio Classic Jumpsuit 37,11,15,89.19,199.0,Active
+1804,ZUD-11-1804,Zudio Printed Pajama Set 43,11,2,122.15,249.0,Active
+1805,ZUD-14-1805,Zudio Sporty Flip Flops 72,14,34,366.08,899.0,Active
+1806,ZUD-17-1806,Zudio Classic Deodorant Spray 82,17,33,109.32,199.0,Active
+1807,ZUD-11-1807,Zudio Denim Jumpsuit 46,11,5,179.58,399.0,Active
+1808,ZUD-03-1808,Zudio Denim Polo T-Shirt 78,3,6,155.42,299.0,Active
+1809,ZUD-15-1809,Zudio Stretch Canvas Backpack 34,15,28,40.69,79.0,Active
+1810,ZUD-15-1810,Zudio Ethnic Canvas Backpack 29,15,12,134.42,299.0,Active
+1811,ZUD-11-1811,Zudio Ethnic Tracksuit 98,11,28,260.99,499.0,Active
+1812,ZUD-13-1812,Zudio Stretch Running Shoes 10,13,2,366.44,699.0,Discontinued
+1813,ZUD-11-1813,Zudio Sporty Denim Shorts 43,11,44,259.63,599.0,Active
+1814,ZUD-15-1814,Zudio Cozy Canvas Backpack 35,15,46,134.16,249.0,Active
+1815,ZUD-05-1815,Zudio Printed Anarkali Kurta 36,5,2,213.19,499.0,Active
+1816,ZUD-02-1816,Zudio Regular Track Pants 54,2,21,111.83,249.0,Active
+1817,ZUD-07-1817,Zudio Printed Skinny Jeans 30,7,15,383.51,699.0,Active
+1818,ZUD-07-1818,Zudio Classic Graphic Tee 27,7,25,334.35,799.0,Discontinued
+1819,ZUD-07-1819,Zudio Sporty Graphic Tee 67,7,14,367.44,799.0,Active
+1820,ZUD-04-1820,Zudio Slim-Fit Casual Shirt 74,4,8,508.17,999.0,Active
+1821,ZUD-07-1821,Zudio Slim-Fit Leggings 87,7,21,306.96,599.0,Active
+1822,ZUD-07-1822,Zudio Slim-Fit Sports Bra 56,7,8,350.2,799.0,Active
+1823,ZUD-01-1823,Zudio Casual Joggers 63,1,7,380.42,699.0,Active
+1824,ZUD-10-1824,Zudio Slim-Fit Jumpsuit 93,10,45,108.17,249.0,Active
+1825,ZUD-13-1825,Zudio Ethnic Sneakers 45,13,21,397.19,799.0,Active
+1826,ZUD-08-1826,Zudio Regular Graphic Tee 26,8,45,380.6,899.0,Active
+1827,ZUD-02-1827,Zudio Casual Chino Pants 94,2,27,227.42,499.0,Active
+1828,ZUD-14-1828,Zudio Regular Slides 76,14,43,204.01,399.0,Active
+1829,ZUD-04-1829,Zudio Regular T-Shirt 73,4,41,177.92,399.0,Active
+1830,ZUD-09-1830,Zudio Stretch Frock 13,9,2,241.92,599.0,Active
+1831,ZUD-02-1831,Zudio Stylish Casual Shirt 62,2,49,95.7,199.0,Active
+1832,ZUD-17-1832,Zudio Regular Eau de Toilette 22,17,15,35.73,79.0,Active
+1833,ZUD-03-1833,Zudio Slim-Fit Hoodie 69,3,35,369.37,699.0,Active
+1834,ZUD-01-1834,Zudio Solid Hoodie 70,1,43,209.2,499.0,Active
+1835,ZUD-04-1835,Zudio Ethnic Hoodie 83,4,33,167.13,399.0,Active
+1836,ZUD-05-1836,Zudio Printed Cropped Top 22,5,40,309.2,699.0,Active
+1837,ZUD-08-1837,Zudio Solid Anarkali Kurta 94,8,30,224.2,499.0,Active
+1838,ZUD-17-1838,Zudio Denim Ankle Socks 44,17,24,44.47,99.0,Active
+1839,ZUD-02-1839,Zudio Stylish Joggers 90,2,12,103.31,199.0,Discontinued
+1840,ZUD-02-1840,Zudio Printed Casual Shirt 60,2,31,240.65,599.0,Active
+1841,ZUD-12-1841,Zudio Printed Canvas Shoes 83,12,14,280.22,599.0,Active
+1842,ZUD-09-1842,Zudio Denim Jumpsuit 25,9,50,220.51,499.0,Active
+1843,ZUD-11-1843,Zudio Classic Denim Shorts 42,11,32,129.74,249.0,Active
+1844,ZUD-15-1844,Zudio Cozy Deodorant Spray 95,15,17,76.66,149.0,Active
+1845,ZUD-12-1845,Zudio Sporty Canvas Shoes 13,12,15,292.84,699.0,Active
+1846,ZUD-04-1846,Zudio Slim-Fit Track Pants 47,4,20,158.77,299.0,Active
+1847,ZUD-03-1847,Zudio Denim Casual Shirt 60,3,44,385.88,899.0,Active
+1848,ZUD-01-1848,Zudio Printed Denim Jeans 77,1,37,516.47,999.0,Active
+1849,ZUD-17-1849,Zudio Casual Leather Belt 78,17,45,71.66,149.0,Active
+1850,ZUD-17-1850,Zudio Regular Matte Lipstick 30,17,41,39.66,79.0,Active
+1851,ZUD-08-1851,Zudio Stylish Anarkali Kurta 79,8,13,463.14,999.0,Active
+1852,ZUD-13-1852,Zudio Solid Flip Flops 76,13,30,319.9,599.0,Active
+1853,ZUD-10-1853,Zudio Casual Printed Tee 42,10,20,241.2,499.0,Active
+1854,ZUD-03-1854,Zudio Casual Joggers 27,3,11,141.17,299.0,Active
+1855,ZUD-08-1855,Zudio Sporty Anarkali Kurta 92,8,13,320.6,699.0,Active
+1856,ZUD-12-1856,Zudio Slim-Fit Slides 45,12,8,213.02,399.0,Active
+1857,ZUD-05-1857,Zudio Printed Leggings 28,5,1,256.53,499.0,Active
+1858,ZUD-17-1858,Zudio Solid Ankle Socks 23,17,15,146.44,299.0,Active
+1859,ZUD-10-1859,Zudio Slim-Fit Tracksuit 88,10,49,126.49,299.0,Active
+1860,ZUD-11-1860,Zudio Solid Printed Tee 58,11,8,319.67,599.0,Active
+1861,ZUD-14-1861,Zudio Stretch Slides 98,14,49,466.73,899.0,Active
+1862,ZUD-17-1862,Zudio Slim-Fit Deodorant Spray 87,17,16,131.91,249.0,Active
+1863,ZUD-16-1863,Zudio Stylish Nail Polish 63,16,50,39.16,79.0,Active
+1864,ZUD-09-1864,Zudio Solid Pajama Set 75,9,17,115.27,249.0,Active
+1865,ZUD-03-1865,Zudio Casual Polo T-Shirt 72,3,15,194.66,399.0,Active
+1866,ZUD-09-1866,Zudio Slim-Fit Pajama Set 72,9,37,195.91,399.0,Active
+1867,ZUD-17-1867,Zudio Cozy Nail Polish 15,17,42,103.63,249.0,Active
+1868,ZUD-04-1868,Zudio Slim-Fit Chino Pants 56,4,39,500.39,999.0,Active
+1869,ZUD-13-1869,Zudio Stylish Canvas Shoes 15,13,29,248.03,499.0,Active
+1870,ZUD-17-1870,Zudio Casual Nail Polish 90,17,43,154.48,299.0,Active
+1871,ZUD-07-1871,Zudio Stretch Anarkali Kurta 13,7,27,248.48,599.0,Active
+1872,ZUD-15-1872,Zudio Solid Matte Lipstick 97,15,16,67.48,149.0,Active
+1873,ZUD-02-1873,Zudio Classic Hoodie 99,2,11,257.13,499.0,Active
+1874,ZUD-11-1874,Zudio Stylish Jumpsuit 54,11,32,312.87,599.0,Active
+1875,ZUD-11-1875,Zudio Classic Tracksuit 78,11,15,259.87,499.0,Active
+1876,ZUD-10-1876,Zudio Slim-Fit Pajama Set 21,10,40,229.99,499.0,Active
+1877,ZUD-06-1877,Zudio Sporty Straight Kurti 43,6,29,361.62,799.0,Active
+1878,ZUD-06-1878,Zudio Regular Palazzo Pants 12,6,20,106.69,249.0,Active
+1879,ZUD-10-1879,Zudio Denim Tracksuit 32,10,5,147.34,299.0,Active
+1880,ZUD-03-1880,Zudio Stylish Joggers 43,3,35,151.71,299.0,Active
+1881,ZUD-05-1881,Zudio Sporty Cropped Top 47,5,6,485.03,999.0,Active
+1882,ZUD-08-1882,Zudio Ethnic Graphic Tee 41,8,18,380.5,899.0,Discontinued
+1883,ZUD-08-1883,Zudio Stylish Straight Kurti 41,8,14,185.96,399.0,Active
+1884,ZUD-10-1884,Zudio Printed Printed Tee 88,10,27,157.18,299.0,Active
+1885,ZUD-07-1885,Zudio Sporty Anarkali Kurta 76,7,37,459.48,999.0,Active
+1886,ZUD-13-1886,Zudio Stylish Running Shoes 56,13,28,467.71,899.0,Active
+1887,ZUD-08-1887,Zudio Classic Sports Bra 55,8,9,135.38,249.0,Active
+1888,ZUD-08-1888,Zudio Denim Anarkali Kurta 22,8,35,455.12,899.0,Active
+1889,ZUD-08-1889,Zudio Stylish Palazzo Pants 99,8,15,470.32,899.0,Active
+1890,ZUD-02-1890,Zudio Ethnic Hoodie 73,2,11,464.96,999.0,Discontinued
+1891,ZUD-15-1891,Zudio Denim Canvas Backpack 17,15,46,70.25,149.0,Active
+1892,ZUD-12-1892,Zudio Slim-Fit Canvas Shoes 45,12,47,306.02,699.0,Discontinued
+1893,ZUD-16-1893,Zudio Sporty Canvas Backpack 27,16,29,86.02,199.0,Active
+1894,ZUD-10-1894,Zudio Classic Denim Shorts 82,10,27,318.31,599.0,Active
+1895,ZUD-11-1895,Zudio Casual Tracksuit 16,11,38,256.07,499.0,Active
+1896,ZUD-03-1896,Zudio Stretch Polo T-Shirt 77,3,47,356.18,699.0,Active
+1897,ZUD-06-1897,Zudio Regular Graphic Tee 93,6,22,406.93,799.0,Active
+1898,ZUD-13-1898,Zudio Stretch Canvas Shoes 97,13,25,311.92,599.0,Active
+1899,ZUD-05-1899,Zudio Classic Anarkali Kurta 22,5,46,226.18,499.0,Active
+1900,ZUD-09-1900,Zudio Ethnic Printed Tee 33,9,15,114.59,249.0,Active
+1901,ZUD-03-1901,Zudio Classic Hoodie 22,3,39,394.36,899.0,Active
+1902,ZUD-02-1902,Zudio Cozy Denim Jeans 22,2,34,119.68,299.0,Discontinued
+1903,ZUD-11-1903,Zudio Sporty Frock 13,11,37,320.93,599.0,Active
+1904,ZUD-03-1904,Zudio Regular Chino Pants 91,3,35,474.26,999.0,Active
+1905,ZUD-12-1905,Zudio Slim-Fit Loafers 97,12,37,195.49,399.0,Active
+1906,ZUD-15-1906,Zudio Stylish Leather Belt 32,15,29,105.16,249.0,Active
+1907,ZUD-02-1907,Zudio Denim Polo T-Shirt 49,2,44,207.67,499.0,Active
+1908,ZUD-17-1908,Zudio Regular Deodorant Spray 73,17,40,48.56,99.0,Active
+1909,ZUD-15-1909,Zudio Cozy Ankle Socks 59,15,43,107.78,199.0,Active
+1910,ZUD-11-1910,Zudio Printed Frock 28,11,32,108.27,199.0,Active
+1911,ZUD-13-1911,Zudio Casual Running Shoes 17,13,43,312.46,599.0,Active
+1912,ZUD-04-1912,Zudio Denim Polo T-Shirt 94,4,37,321.53,599.0,Active
+1913,ZUD-17-1913,Zudio Sporty Leather Belt 79,17,21,128.61,299.0,Active
+1914,ZUD-07-1914,Zudio Solid Maxi Dress 61,7,32,319.14,699.0,Discontinued
+1915,ZUD-04-1915,Zudio Classic Track Pants 71,4,32,457.86,999.0,Active
+1916,ZUD-10-1916,Zudio Cozy Pajama Set 17,10,13,209.35,399.0,Active
+1917,ZUD-10-1917,Zudio Stretch Pajama Set 83,10,21,169.98,399.0,Active
+1918,ZUD-01-1918,Zudio Casual Cargo Shorts 59,1,35,180.65,399.0,Active
+1919,ZUD-14-1919,Zudio Stylish Flat Sandals 77,14,24,383.64,899.0,Active
+1920,ZUD-02-1920,Zudio Printed Polo T-Shirt 68,2,46,159.62,299.0,Active
+1921,ZUD-07-1921,Zudio Ethnic Straight Kurti 83,7,25,401.94,999.0,Active
+1922,ZUD-04-1922,Zudio Solid T-Shirt 40,4,25,328.05,599.0,Active
+1923,ZUD-12-1923,Zudio Sporty Sneakers 29,12,40,195.44,399.0,Active
+1924,ZUD-14-1924,Zudio Cozy Flat Sandals 90,14,42,214.93,499.0,Active
+1925,ZUD-09-1925,Zudio Sporty Pajama Set 11,9,25,156.54,299.0,Active
+1926,ZUD-07-1926,Zudio Ethnic Skinny Jeans 86,7,26,98.3,199.0,Active
+1927,ZUD-15-1927,Zudio Regular Canvas Backpack 98,15,8,40.65,99.0,Active
+1928,ZUD-16-1928,Zudio Slim-Fit Eau de Toilette 78,16,48,63.34,149.0,Active
+1929,ZUD-13-1929,Zudio Solid Flat Sandals 46,13,17,263.63,499.0,Active
+1930,ZUD-04-1930,Zudio Sporty Chino Pants 21,4,13,473.74,899.0,Active
+1931,ZUD-02-1931,Zudio Ethnic Hoodie 23,2,25,108.14,249.0,Active
+1932,ZUD-03-1932,Zudio Printed Joggers 88,3,10,278.96,599.0,Active
+1933,ZUD-02-1933,Zudio Cozy Track Pants 34,2,3,202.99,399.0,Active
+1934,ZUD-05-1934,Zudio Classic Skinny Jeans 32,5,42,281.11,599.0,Active
+1935,ZUD-13-1935,Zudio Regular Running Shoes 74,13,41,129.7,299.0,Active
+1936,ZUD-15-1936,Zudio Casual Leather Belt 66,15,39,41.59,79.0,Active
+1937,ZUD-06-1937,Zudio Regular Sports Bra 50,6,5,82.92,199.0,Active
+1938,ZUD-01-1938,Zudio Stretch Casual Shirt 51,1,7,243.05,599.0,Active
+1939,ZUD-01-1939,Zudio Sporty T-Shirt 82,1,50,103.89,199.0,Active
+1940,ZUD-08-1940,Zudio Cozy Graphic Tee 82,8,42,369.57,899.0,Active
+1941,ZUD-16-1941,Zudio Stretch Canvas Backpack 59,16,25,74.92,149.0,Active
+1942,ZUD-08-1942,Zudio Cozy Leggings 88,8,41,225.43,499.0,Active
+1943,ZUD-05-1943,Zudio Ethnic Sports Bra 56,5,41,168.24,399.0,Active
+1944,ZUD-13-1944,Zudio Solid Slides 57,13,20,322.11,799.0,Active
+1945,ZUD-15-1945,Zudio Sporty Canvas Backpack 79,15,9,54.26,99.0,Active
+1946,ZUD-12-1946,Zudio Printed Flip Flops 63,12,29,280.98,599.0,Active
+1947,ZUD-13-1947,Zudio Ethnic Running Shoes 53,13,9,249.4,499.0,Active
+1948,ZUD-07-1948,Zudio Printed Straight Kurti 34,7,47,428.76,999.0,Active
+1949,ZUD-12-1949,Zudio Ethnic Flat Sandals 62,12,14,247.8,499.0,Active
+1950,ZUD-16-1950,Zudio Slim-Fit Ankle Socks 93,16,50,88.56,199.0,Active
+1951,ZUD-14-1951,Zudio Casual Slides 37,14,11,240.89,499.0,Active
+1952,ZUD-17-1952,Zudio Sporty Eau de Toilette 66,17,25,39.82,79.0,Active
+1953,ZUD-06-1953,Zudio Solid Anarkali Kurta 92,6,13,339.9,699.0,Active
+1954,ZUD-11-1954,Zudio Ethnic Denim Shorts 26,11,21,323.27,599.0,Active
+1955,ZUD-17-1955,Zudio Stylish Canvas Backpack 14,17,5,123.95,299.0,Active
+1956,ZUD-01-1956,Zudio Casual Denim Jeans 21,1,23,323.3,599.0,Active
+1957,ZUD-05-1957,Zudio Printed Skinny Jeans 18,5,21,295.6,599.0,Active
+1958,ZUD-15-1958,Zudio Ethnic Matte Lipstick 32,15,36,66.38,149.0,Active
+1959,ZUD-05-1959,Zudio Regular Maxi Dress 25,5,27,482.34,899.0,Active
+1960,ZUD-16-1960,Zudio Stylish Matte Lipstick 98,16,43,54.1,99.0,Active
+1961,ZUD-15-1961,Zudio Slim-Fit Leather Belt 15,15,31,52.67,99.0,Active
+1962,ZUD-06-1962,Zudio Casual Palazzo Pants 66,6,29,485.3,999.0,Active
+1963,ZUD-16-1963,Zudio Cozy Ankle Socks 54,16,24,81.68,149.0,Active
+1964,ZUD-05-1964,Zudio Stretch Skinny Jeans 96,5,8,375.72,699.0,Active
+1965,ZUD-07-1965,Zudio Cozy Palazzo Pants 47,7,32,112.85,249.0,Discontinued
+1966,ZUD-14-1966,Zudio Regular Running Shoes 42,14,34,190.33,399.0,Active
+1967,ZUD-01-1967,Zudio Ethnic Denim Jeans 31,1,45,98.98,199.0,Active
+1968,ZUD-15-1968,Zudio Sporty Matte Lipstick 15,15,49,76.36,149.0,Active
+1969,ZUD-03-1969,Zudio Classic Track Pants 14,3,40,158.71,299.0,Discontinued
+1970,ZUD-01-1970,Zudio Solid Joggers 35,1,3,365.15,799.0,Active
+1971,ZUD-09-1971,Zudio Stylish Jumpsuit 52,9,28,129.6,249.0,Active
+1972,ZUD-11-1972,Zudio Regular Frock 43,11,19,171.15,399.0,Active
+1973,ZUD-15-1973,Zudio Cozy Deodorant Spray 95,15,8,78.85,149.0,Discontinued
+1974,ZUD-05-1974,Zudio Slim-Fit Straight Kurti 19,5,10,136.35,299.0,Active
+1975,ZUD-08-1975,Zudio Slim-Fit Cropped Top 11,8,22,101.58,199.0,Active
+1976,ZUD-03-1976,Zudio Regular Hoodie 90,3,7,310.23,599.0,Active
+1977,ZUD-02-1977,Zudio Stylish Casual Shirt 35,2,46,106.53,249.0,Active
+1978,ZUD-01-1978,Zudio Sporty Chino Pants 36,1,25,101.0,199.0,Active
+1979,ZUD-17-1979,Zudio Printed Nail Polish 35,17,39,163.91,299.0,Active
+1980,ZUD-16-1980,Zudio Solid Canvas Backpack 96,16,4,131.91,249.0,Active
+1981,ZUD-17-1981,Zudio Casual Deodorant Spray 32,17,35,43.51,99.0,Active
+1982,ZUD-07-1982,Zudio Stylish Cropped Top 99,7,21,106.63,249.0,Active
+1983,ZUD-08-1983,Zudio Regular Maxi Dress 91,8,27,444.06,999.0,Active
+1984,ZUD-10-1984,Zudio Printed Jumpsuit 42,10,16,270.58,599.0,Active
+1985,ZUD-09-1985,Zudio Solid Denim Shorts 18,9,23,61.0,149.0,Active
+1986,ZUD-02-1986,Zudio Stretch Joggers 20,2,48,321.04,799.0,Active
+1987,ZUD-11-1987,Zudio Stretch Frock 99,11,5,244.92,499.0,Active
+1988,ZUD-11-1988,Zudio Ethnic Frock 71,11,49,118.26,249.0,Active
+1989,ZUD-07-1989,Zudio Printed Anarkali Kurta 15,7,30,276.41,599.0,Active
+1990,ZUD-13-1990,Zudio Ethnic Loafers 69,13,48,253.32,599.0,Active
+1991,ZUD-14-1991,Zudio Casual Loafers 27,14,41,402.31,899.0,Active
+1992,ZUD-12-1992,Zudio Casual Flip Flops 94,12,12,168.64,399.0,Active
+1993,ZUD-01-1993,Zudio Sporty Hoodie 29,1,2,224.85,499.0,Active
+1994,ZUD-06-1994,Zudio Solid Sports Bra 45,6,39,170.97,399.0,Active
+1995,ZUD-14-1995,Zudio Sporty Loafers 30,14,4,326.67,599.0,Active
+1996,ZUD-04-1996,Zudio Slim-Fit Denim Jeans 71,4,16,442.95,999.0,Active
+1997,ZUD-16-1997,Zudio Printed Nail Polish 72,16,41,42.94,79.0,Active
+1998,ZUD-10-1998,Zudio Cozy Tracksuit 64,10,9,166.89,399.0,Active
+1999,ZUD-11-1999,Zudio Stylish Frock 98,11,37,251.11,599.0,Active
+2000,ZUD-03-2000,Zudio Casual Hoodie 57,3,21,305.4,699.0,Active

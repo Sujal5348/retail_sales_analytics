@@ -1,0 +1,116 @@
+/* ============================================================
+   Retail Sales Analytics System - Custom Stylesheet
+   ============================================================ */
+:root {
+    --bg-primary: #0F172A;
+    --bg-card: #1E293B;
+    --border-color: #334155;
+    --text-primary: #F8FAFC;
+    --text-secondary: #94A3B8;
+    --accent-blue: #38BDF8;
+    --accent-indigo: #6366F1;
+    --accent-emerald: #10B981;
+    --accent-amber: #F59E0B;
+    --accent-rose: #F43F5E;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+}
+
+/* Glassmorphic Navbar */
+.navbar-custom {
+    background: rgba(30, 41, 59, 0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-color);
+}
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: var(--accent-blue) !important;
+}
+
+/* Cards & Widgets */
+.kpi-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.kpi-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+}
+.kpi-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+}
+.kpi-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-top: 0.5rem;
+}
+.kpi-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+}
+
+/* Chart Container */
+.chart-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    height: 100%;
+}
+
+/* Tables */
+.table-custom {
+    color: var(--text-primary);
+    background-color: var(--bg-card);
+    border-color: var(--border-color);
+}
+.table-custom th {
+    background-color: rgba(15, 23, 42, 0.6);
+    color: var(--text-secondary);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid var(--border-color);
+}
+.table-custom td {
+    border-color: var(--border-color);
+    vertical-align: middle;
+    font-size: 0.9rem;
+}
+
+/* Status Badges */
+.badge-vip { background-color: rgba(99, 102, 241, 0.2); color: #818CF8; border: 1px solid #6366F1; }
+.badge-regular { background-color: rgba(56, 189, 248, 0.2); color: #38BDF8; border: 1px solid #38BDF8; }
+.badge-instock { background-color: rgba(16, 185, 129, 0.2); color: #34D399; border: 1px solid #10B981; }
+.badge-lowstock { background-color: rgba(245, 158, 11, 0.2); color: #FBBF24; border: 1px solid #F59E0B; }
+.badge-outstock { background-color: rgba(244, 63, 94, 0.2); color: #FB7185; border: 1px solid #F43F5E; }
+
+/* Modals */
+.modal-content {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+.modal-header, .modal-footer {
+    border-color: var(--border-color);
+}

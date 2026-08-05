@@ -1,0 +1,51 @@
+EmployeeID,StoreID,FirstName,LastName,Email,Position,MonthlyTarget,HireDate
+1,20,Atharv,Deep,alexander.parmar_zudio@trent.in,Retail Associate,200000.0,2024-08-08
+2,7,Ekiya,Babu,owen.lanka_zudio@trent.in,Retail Associate,150000.0,2023-10-25
+3,10,Jonathan,Sama,ishaan.bhatt_zudio@trent.in,Store Manager,200000.0,2025-08-13
+4,17,Saumya,Pathak,yochana.chopra_zudio@trent.in,Retail Associate,250000.0,2025-07-07
+5,8,Yahvi,Kant,caleb.verma_zudio@trent.in,Fashion Consultant,300000.0,2024-11-15
+6,1,Tara,Balasubramanian,darsh.srinivas_zudio@trent.in,Senior Cashier,250000.0,2025-04-19
+7,7,Pooja,Chokshi,vritti.sawhney_zudio@trent.in,Assistant Store Manager,250000.0,2023-11-27
+8,1,Faris,Nagy,manbir.bhatti_zudio@trent.in,Store Manager,300000.0,2024-02-17
+9,3,Anvi,Nair,lakshmi.wali_zudio@trent.in,Senior Cashier,300000.0,2024-11-05
+10,5,Sudiksha,Tiwari,qushi.chaudhary_zudio@trent.in,Fashion Consultant,300000.0,2026-07-30
+11,18,Ishwar,Kale,qushi.seth_zudio@trent.in,Assistant Store Manager,300000.0,2024-07-24
+12,11,Odika,Nori,sudiksha.rastogi_zudio@trent.in,Store Manager,250000.0,2025-05-12
+13,15,Girish,Munshi,prisha.munshi_zudio@trent.in,Senior Cashier,200000.0,2026-06-03
+14,20,Aadhya,Prasad,michael.som_zudio@trent.in,Fashion Consultant,250000.0,2023-11-17
+15,6,Gavin,Chada,girik.sankaran_zudio@trent.in,Retail Associate,200000.0,2024-01-02
+16,11,Kashish,De,darpan.narayan_zudio@trent.in,Store Manager,150000.0,2026-06-10
+17,2,Jason,Roy,irya.sampath_zudio@trent.in,Senior Cashier,300000.0,2023-10-23
+18,12,Bhavna,Muni,indira.chawla_zudio@trent.in,Assistant Store Manager,250000.0,2026-01-18
+19,13,Yashica,Kala,mohammed.subramaniam_zudio@trent.in,Retail Associate,150000.0,2024-07-18
+20,14,Hritik,Palla,jhalak.contractor_zudio@trent.in,Senior Cashier,300000.0,2024-10-10
+21,6,Upkaar,Sanghvi,atharv.loke_zudio@trent.in,Senior Cashier,150000.0,2023-09-18
+22,10,Pranit,Mahajan,dayamai.nori_zudio@trent.in,Senior Cashier,150000.0,2025-01-31
+23,17,Abeer,Golla,luke.rattan_zudio@trent.in,Store Manager,200000.0,2023-11-21
+24,16,Lucky,Balasubramanian,gavin.wali_zudio@trent.in,Store Manager,150000.0,2024-07-04
+25,5,Krisha,Saini,sudiksha.om_zudio@trent.in,Assistant Store Manager,150000.0,2024-04-05
+26,17,Kala,Muni,ekta.chad_zudio@trent.in,Assistant Store Manager,200000.0,2023-10-25
+27,3,Nachiket,Dugar,chandran.bumb_zudio@trent.in,Senior Cashier,250000.0,2024-09-30
+28,11,Saanvi,Samra,vedika.sathe_zudio@trent.in,Store Manager,300000.0,2025-05-09
+29,11,Anjali,Kale,yauvani.comar_zudio@trent.in,Store Manager,300000.0,2025-01-22
+30,13,Qushi,Choudhry,bhanumati.sur_zudio@trent.in,Retail Associate,150000.0,2025-10-31
+31,17,Darika,Bath,thomas.rana_zudio@trent.in,Fashion Consultant,300000.0,2026-02-21
+32,5,Christopher,Amble,samarth.mitra_zudio@trent.in,Retail Associate,150000.0,2024-06-28
+33,7,Laksh,Kumer,bimala.narang_zudio@trent.in,Fashion Consultant,200000.0,2024-02-07
+34,4,Abhimanyu,Tank,qushi.gill_zudio@trent.in,Senior Cashier,200000.0,2024-02-21
+35,8,Lajita,Walia,victor.tella_zudio@trent.in,Store Manager,150000.0,2025-12-19
+36,2,Irya,Bora,mekhala.basak_zudio@trent.in,Assistant Store Manager,300000.0,2025-06-12
+37,2,Anirudh,Sharaf,faras.munshi_zudio@trent.in,Store Manager,200000.0,2026-01-15
+38,8,Pushti,Ravel,omisha.mann_zudio@trent.in,Assistant Store Manager,200000.0,2024-01-30
+39,17,Nidhi,Bail,ekta.garg_zudio@trent.in,Senior Cashier,250000.0,2026-03-22
+40,13,Triveni,Pathak,gaurang.sarkar_zudio@trent.in,Fashion Consultant,150000.0,2024-01-16
+41,17,Yagnesh,Sarin,nandini.viswanathan_zudio@trent.in,Senior Cashier,300000.0,2023-12-05
+42,1,Meghana,Mukherjee,harinakshi.kant_zudio@trent.in,Fashion Consultant,150000.0,2025-01-03
+43,2,Om,Bose,yashvi.comar_zudio@trent.in,Assistant Store Manager,150000.0,2025-11-06
+44,7,Yashvi,Hari,ikshita.panchal_zudio@trent.in,Assistant Store Manager,300000.0,2026-05-03
+45,1,Manbir,Keer,harshil.dhingra_zudio@trent.in,Senior Cashier,150000.0,2024-09-05
+46,19,Rudra,Ghose,michael.borra_zudio@trent.in,Senior Cashier,200000.0,2024-05-06
+47,13,Wakeeta,Shetty,saumya.naidu_zudio@trent.in,Assistant Store Manager,200000.0,2026-04-05
+48,18,Diya,Dora,ria.bir_zudio@trent.in,Store Manager,250000.0,2025-08-02
+49,9,Riya,Mitter,anvi.bhalla_zudio@trent.in,Retail Associate,250000.0,2025-02-01
+50,17,Yashica,Borah,dayita.shenoy_zudio@trent.in,Fashion Consultant,200000.0,2025-07-07

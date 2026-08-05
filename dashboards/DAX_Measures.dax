@@ -1,0 +1,50 @@
+// ============================================================
+// Retail Sales Analytics System - Power BI DAX Measures Library
+// ============================================================
+
+// 1. Core Financial Measures
+Total Revenue = SUMX(OrderDetails, OrderDetails[Quantity] * OrderDetails[UnitPrice] * (1 - OrderDetails[Discount]/100) * (1 + OrderDetails[Tax]/100))
+
+Total COGS = SUMX(OrderDetails, OrderDetails[Quantity] * OrderDetails[CostPrice])
+
+Total Gross Profit = [Total Revenue] - [Total COGS]
+
+Gross Margin % = DIVIDE([Total Gross Profit], [Total Revenue], 0) * 100
+
+Average Order Value (AOV) = DIVIDE([Total Revenue], DISTINCTCOUNT(Orders[OrderID]), 0)
+
+
+// 2. Customer & Retention Measures
+Total Active Customers = DISTINCTCOUNT(Orders[CustomerID])
+
+New Customers = COUNTROWS(FILTER(Customers, Customers[JoinDate] IN VALUES(CalendarDate[Date])))
+
+Repeat Customers = COUNTROWS(FILTER(Customers, CALCULATE(DISTINCTCOUNT(Orders[OrderID])) > 1))
+
+Customer Retention Rate % = DIVIDE([Repeat Customers], [Total Active Customers], 0) * 100
+
+Customer Lifetime Value (CLV) = DIVIDE([Total Revenue], [Total Active Customers], 0)
+
+
+// 3. Inventory & Operations Measures
+Total Inventory Valuation = SUMX(Inventory, Inventory[StockQuantity] * Related(Products[CostPrice]))
+
+Inventory Turnover Ratio = DIVIDE([Total COGS], [Total Inventory Valuation], 0)
+
+Low Stock Count = CALCULATE(COUNTROWS(Inventory), Inventory[StockQuantity] <= Inventory[ReorderLevel])
+
+Total Product Returns = SUM(Returns[Quantity])
+
+Return Rate % = DIVIDE([Total Product Returns], SUM(OrderDetails[Quantity]), 0) * 100
+
+
+// 4. Time Intelligence & Growth Measures (YoY / MoM)
+Revenue YoY Growth % = 
+VAR PrevYearRevenue = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR(CalendarDate[Date]))
+RETURN DIVIDE([Total Revenue] - PrevYearRevenue, PrevYearRevenue, 0) * 100
+
+Revenue MoM Growth % = 
+VAR PrevMonthRevenue = CALCULATE([Total Revenue], DATEADD(CalendarDate[Date], -1, MONTH))
+RETURN DIVIDE([Total Revenue] - PrevMonthRevenue, PrevMonthRevenue, 0) * 100
+
+Rolling 30-Day Sales = CALCULATE([Total Revenue], DATESINPERIOD(CalendarDate[Date], MAX(CalendarDate[Date]), -30, DAY))
